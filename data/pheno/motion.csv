@@ -1,0 +1,2227 @@
+﻿dataset,site,subid,motion_plots,descriptive_stats,cost_functional,motion_issues,registration_issues,most_affected_lobe_bilateral_unilateral,more_info,mean_fd,n_volumes
+ABIDE_I,CALTECH,51456,Yes,Yes,lpc,Minor,Minor,Superior Parietal,Superior parietal cortex is affected,0.379402083,150
+ABIDE_I,CALTECH,51457,Yes,Yes,lpc,Minor,Minor,Frontal Lobe,Frontal pole has problems. Cerebellum is included along with brainstem and some pons. ,0.15695625,150
+ABIDE_I,CALTECH,51458,Yes,Yes,lpc,None,None,,,0.289247917,150
+ABIDE_I,CALTECH,51459,Yes,Yes,lpc+,None,None,Temporal Lobe ,,0.126634722,150
+ABIDE_I,CALTECH,51460,Yes,Yes,lpc,None,Minor,Frontal Lobe,Little bit of ventral-MFC is missing,0.078769444,150
+ABIDE_I,CALTECH,51461,Yes,Yes,lpc,Minor,Minor,Cerebellum/Pons,"Cerebellum, brainstem and pons are included",0.303136111,150
+ABIDE_I,CALTECH,51462,Yes,Yes,lpc+,Minor,Minor,Superior Parietal,Superior parietal has some missing slices,0.258355556,150
+ABIDE_I,CALTECH,51463,Yes,Yes,lpc+,None,Minor,Cerebellum/Pons,Cerebellum/Pons and brainstem are included,0.113068056,150
+ABIDE_I,CALTECH,51464,Yes,Yes,lpc,None,None,,,0.123899306,150
+ABIDE_I,CALTECH,51465,Yes,Yes,lpc,None,None,,,0.084270833,150
+ABIDE_I,CALTECH,51466,Yes,Yes,lpc+,Minor,Excessive,Frontal Lobe,Anterior - Frontal lobe is missing,0.208895833,150
+ABIDE_I,CALTECH,51467,Yes,Yes,lpc+,Minor,None,,,0.165538889,150
+ABIDE_I,CALTECH,51468,Yes,Yes,lpc,Minor,Minor,Frontal Lobe,vMFC not so well included. also a blob of anterior PCC seems problematic,0.153005556,150
+ABIDE_I,CALTECH,51469,Yes,Yes,lpc,Minor,Minor,Superior Parietal,Superior parietal affected. also a blob of anterior PCC seems problematic,0.319317361,150
+ABIDE_I,CALTECH,51470,Yes,Yes,lpc,None,Minor,Superior Parietal,"Cerebellum, brainstem included",0.08891875,150
+ABIDE_I,CALTECH,51471,Yes,Yes,lpc,None,None,,,0.211276389,150
+ABIDE_I,CALTECH,51472,Yes,Yes,lpc+,Minor,A lot,Superior Parietal,Superior Parietal is missing in all slices,0.112288889,150
+ABIDE_I,CALTECH,51473,Yes,Yes,lpc,None,None,,,0.151458333,150
+ABIDE_I,CALTECH,51474,Yes,Yes,lpc,Minor,Minor,Cerebellum/Pons,Cerebellum/Pons included,0.186045833,150
+ABIDE_I,CALTECH,51475,Yes,Yes,lpc,Minor,None,Frontal Lobe,vMFC is a little bit excluded,0.2710375,150
+ABIDE_I,CALTECH,51476,0,0,0,0,0,0,0,,150
+ABIDE_I,CALTECH,51477,Yes,Yes,lpc,None,None,,,0.261041667,150
+ABIDE_I,CALTECH,51478,Yes,Yes,lpc,None,Minor,Frontal Lobe,Some ventral-MFC is affected,0.1438125,150
+ABIDE_I,CALTECH,51479,Yes,Yes,lpc,None,None,,,0.132701389,150
+ABIDE_I,CALTECH,51480,Yes,Yes,lpc,Minor,None,Superior Parietal,Parietal-Occipital junction has some noise level,0.080361111,150
+ABIDE_I,CALTECH,51481,Yes,Yes,lpc,None,None,,,0.31605625,150
+ABIDE_I,CALTECH,51482,Yes,Yes,lpc+,None,A lot,Fontral Lobe,Frontal Pole is affected in all slices,0.113372222,150
+ABIDE_I,CALTECH,51483,Yes,Yes,lpc,Minor,Minor,Superior Parietal,Superior Parietal lobe is affected,0.111484028,150
+ABIDE_I,CALTECH,51484,Yes,Yes,lpc,None,Minor,Occipital Lobe,Occipital lobe affected,0.194398611,150
+ABIDE_I,CALTECH,51485,Yes,Yes,lpc,None,None,,,0.146493056,150
+ABIDE_I,CALTECH,51486,Yes,Yes,lpc,None,None,,,0.10115,150
+ABIDE_I,CALTECH,51487,Yes,Yes,lpc,None,Minor,Cerebellum/Pons,Cerebellum/Pons Brainstem included,0.107525,150
+ABIDE_I,CALTECH,51488,Yes,Yes,lpc,None,None,,,0.195572917,150
+ABIDE_I,CALTECH,51489,Yes,Yes,lpc+,None,Minor,Parietal,Superior Parietal,0.277545139,150
+ABIDE_I,CALTECH,51490,Yes,Yes,lpc,Minor,None,,Skull/Air anterior - Left Hemisphere,0.165191667,150
+ABIDE_I,CALTECH,51491,Yes,Yes,lpc+,None,Minor,Parietal,Superior Parietal,0.080323611,150
+ABIDE_I,CALTECH,51492,Yes,Yes,lpc,None,None,,,0.13760625,150
+ABIDE_I,CALTECH,51493,Yes,Yes,lpc+,None,None,,,0.118824306,150
+ABIDE_I,CMU,50642,No,No,crM,Minor,A lot,Frontal,left mPFC not registered,0,240
+ABIDE_I,CMU,50643,Yes,Yes,lpc,Minor,Minor,Frontal,OFC not fully registered,0.264611285,320
+ABIDE_I,CMU,50644,Yes,Yes,lpc,Excessive,Excessive,Frontal,registration issues  ,0.26076489,320
+ABIDE_I,CMU,50645,Yes,Yes,lpc,Minor,A lot,Frontal,mPFC and IFG not registered,0.372448276,320
+ABIDE_I,CMU,50648,Yes,Yes,lpc,Minor,A lot,Frontal,mPFC and IFG not registered,0.197510031,320
+ABIDE_I,CMU,50649,Yes,Yes,lpc,Minor,Minor,Temporal,Temporal pole not fully registered,1.644519247,240
+ABIDE_I,CMU,50650,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered,0.552555172,320
+ABIDE_I,CMU,50651,Yes,Yes,lpc,None,Minor,Temporal,Temporal pole not fully registered,0.215989342,320
+ABIDE_I,CMU,50652,Yes,Yes,lpc,None,Minor,Temporal,Temporal pole not fully registered,0.179555172,320
+ABIDE_I,CMU,50654,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered,0.246630962,240
+ABIDE_I,CMU,50655,Yes,Yes,lpc,None,A lot,Temporal,Temporal pole not registered,0.410274295,320
+ABIDE_I,CMU,50656,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered,0.157889958,240
+ABIDE_I,CMU,50657,Yes,Yes,lpc,Excessive,Excessive,Frontal,registration issues  ,0.155208464,320
+ABIDE_I,CMU,50658,Yes,Yes,lpc,None,Minor,Temporal,Temporal pole not fully registered,0.243011599,320
+ABIDE_I,CMU,50659,0,0,0,0,0,0,0,0.329201255,240
+ABIDE_I,CMU,50660,Yes,Yes,lpc,Excessive,Excessive,Frontal,registration issues  ,0.247596234,240
+ABIDE_I,CMU,50661,Yes,Yes,lpc,None,Minor,Temporal,Temporal pole not fully registered,0.241895611,320
+ABIDE_I,CMU,50663,Yes,Yes,lpc,Minor,Minor,Frontal,mPFC not fully registered,0.338511297,240
+ABIDE_I,CMU,50664,Yes,Yes,lpc,Minor,Minor,Temporal,Temporal pole not fully registered,0.208605439,240
+ABIDE_I,CMU,50665,Yes,Yes,lpc,None,Minor,Frontal,mPFC not fully registered,0.374319247,240
+ABIDE_I,CMU,50667,Yes,Yes,lpc,Excessive,Excessive,Frontal,registration issues  ,0.334309404,320
+ABIDE_I,CMU,50668,Yes,Yes,lpc,None,Minor,Temporal,Temporal pole not fully registered,0.289592887,240
+ABIDE_I,CMU,50669,Yes,Yes,lpc,None,Minor,Temporal,Temporal pole not fully registered,0.143572727,320
+ABIDE_I,KKI,50772,Yes,Yes,lpc+,Minor,A lot,Paracingulate gyrus,PCG and parietal cortex,0.146524516,156
+ABIDE_I,KKI,50773,Yes,Yes,lpc+,None,None, , ,0.120129677,156
+ABIDE_I,KKI,50774,Yes,Yes,lpc+,None,None,,,0.089308387,156
+ABIDE_I,KKI,50775,Yes,Yes,lpc+,None,None,,,0.282963226,156
+ABIDE_I,KKI,50776,Yes,Yes,lpc+,None,None,,,0.27855871,156
+ABIDE_I,KKI,50777,Yes,Yes,lpc+,None,None,,,0.132963226,156
+ABIDE_I,KKI,50778,Yes,Yes,lpc+,None,None, , ,0.23510129,156
+ABIDE_I,KKI,50779,Yes,Yes,lpc+,None,Minor,Frontal,FOC ,0.202931613,156
+ABIDE_I,KKI,50780,Yes,Yes,lpc+,None,None, , ,0.178128387,156
+ABIDE_I,KKI,50781,Yes,Yes,lpc+,None,Excessive,Frontal,Hole in left MPFC -speedy issue,0.244169032,156
+ABIDE_I,KKI,50782,Yes,Yes,lpc+,None,None,,,0.233666452,156
+ABIDE_I,KKI,50783,Yes,Yes,lpc+,None,None,,,0.10782129,156
+ABIDE_I,KKI,50784,Yes,Yes,lpc+,None,None,,,0.392805161,156
+ABIDE_I,KKI,50785,Yes,Yes,lpc+,None,None, , ,0.373031613,156
+ABIDE_I,KKI,50786,Yes,Yes,lpc+,None,Excessive,Frontal,Hole in left MPFC -speedy issue,0.285094839,156
+ABIDE_I,KKI,50787,Yes,Yes,lpc+,None,None, , ,0.215223871,156
+ABIDE_I,KKI,50788,Yes,Yes,lpc+,None,None,,,0.178707742,156
+ABIDE_I,KKI,50789,Yes,Yes,lpc+,None,None,,,0.353150968,156
+ABIDE_I,KKI,50790,Yes,Yes,lpc+,None,Minor,Temporal,temporal pole not fully registered,0.173771613,156
+ABIDE_I,KKI,50791,Yes,Yes,lpc+,Minor,None,,,0.089774016,128
+ABIDE_I,KKI,50792,Yes,yes,lpc+,None,None,Volumes missing,128 volumes instead of 156,0.301895276,128
+ABIDE_I,KKI,50793,Yes,Yes,lpc+,None,None,Volumes missing,128 volumes instead of 156,0.680984252,128
+ABIDE_I,KKI,50794,Yes,Yes,lpc+,None,None,Volumes missing,128 volumes instead of 156,0.48987874,128
+ABIDE_I,KKI,50795,Yes,Yes,lpc+,None,None,,,0.231209677,156
+ABIDE_I,KKI,50796,Yes,Yes,lpc+,None,None,,,0.62938,156
+ABIDE_I,KKI,50797,Yes,Yes,lpc+,None,None,,,0.43126,156
+ABIDE_I,KKI,50798,Yes,Yes,lpc+,None,None,,,0.231353548,156
+ABIDE_I,KKI,50799,Yes,Yes,lpc+,None,A lot,Frontal ,Hole in the frontal left hemisphere,0.151047097,156
+ABIDE_I,KKI,50800,Yes,Yes,lpc+,None,None,,,0.37877871,156
+ABIDE_I,KKI,50801,Yes,Yes,lpc+,None,None, , ,0.402963871,156
+ABIDE_I,KKI,50802,Yes,Yes,lpc+,None,None, , ,0.139987097,156
+ABIDE_I,KKI,50803,Yes,Yes,lpc+,None,None,,,0.177412258,156
+ABIDE_I,KKI,50804,Yes,Yes,lpc+,None,None,,,0.311731613,156
+ABIDE_I,KKI,50805,Yes,Yes,lpc+,None,None,,,0.818872258,156
+ABIDE_I,KKI,50806,Yes,Yes,lpc+,None,None,,,1.827144681,142
+ABIDE_I,KKI,50807,Yes,Yes,lpc+,None,None,,,0.815458065,156
+ABIDE_I,KKI,50808,Yes,Yes,lpc+,None,None, , ,0.818872258,156
+ABIDE_I,KKI,50809,Yes,Yes,lpc+,A lot,A lot,Parietal,Hole in midline,0.160129677,156
+ABIDE_I,KKI,50810,Yes,Yes,lpc+,None,None, , ,0.097950323,156
+ABIDE_I,KKI,50811,Yes,Yes,lpc+,Minor,Minor,Frontal,registration issues with FOC ,0.152298065,156
+ABIDE_I,KKI,50812,Yes,Yes,lpc+,None,None,,,0.174391613,156
+ABIDE_I,KKI,50813,Yes,Yes,lpc+,None,None,,,0.148724516,156
+ABIDE_I,KKI,50814,Yes,Yes,lpc+,None,None,,,0.134412258,156
+ABIDE_I,KKI,50815,Yes,Yes,lpc+,None,None,,,0.451473548,156
+ABIDE_I,KKI,50816,Yes,Yes,lpc+,None,None, , ,0.174800787,128
+ABIDE_I,KKI,50817,Yes,Yes,lpc+,None,None, , ,0.166292126,128
+ABIDE_I,KKI,50818,Yes,Yes,lpc+,None,None,,,0.140249677,156
+ABIDE_I,KKI,50819,Yes,Yes,lpc+,None,None, , ,0.128530323,156
+ABIDE_I,KKI,50820,Yes,Yes,lpc+,None,Excessive,Frontal,Hole in left MPFC -speedy issue,0.138250323,156
+ABIDE_I,KKI,50821,Yes,Yes,lpc+,None,None,,,0.381310323,156
+ABIDE_I,KKI,50822,Yes,Yes,lpc+,None,None,,,0.198750968,156
+ABIDE_I,KKI,50823,Yes,Yes,lpc+,None,None,,,0.215429032,156
+ABIDE_I,KKI,50824,0,0,0,0,0,0,0,0.128263871,156
+ABIDE_I,KKI,50825,Yes,Yes,lpc+,None,None,,,0.195552258,156
+ABIDE_I,KKI,50826,Yes,Yes,lpc+,None,None,,,1.142943871,156
+ABIDE_I,LEUVEN_1,50682,Yes,Yes,lpc+,Excessive,Excessive,Parietal,regitration went wrong,0.256921687,250
+ABIDE_I,LEUVEN_1,50683,Yes,Yes,lpc+,None,Minor,Parietal/occipital,"frontal, temporal, parietal occipital not fully registered",0.155548193,250
+ABIDE_I,LEUVEN_1,50685,Yes,Yes,lpc+,None,Minor,Frontal,"frontal, temporal parietal occipital not fully registered",0.246759839,250
+ABIDE_I,LEUVEN_1,50686,Yes,Yes,lpc+,None,None,, ,0.156199598,250
+ABIDE_I,LEUVEN_1,50687,Yes,Yes,lpc+,None,None, , ,0.16246988,250
+ABIDE_I,LEUVEN_1,50688,Yes,Yes,lpc+,None,Minor,Frontal/occipital,"frontal, temporal occipital and parietal lobe not fully registered",0.140116867,250
+ABIDE_I,LEUVEN_1,50689,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.114996386,250
+ABIDE_I,LEUVEN_1,50690,not all,not all,lpc+,,,,,0.201683936,250
+ABIDE_I,LEUVEN_1,50691,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.145167871,250
+ABIDE_I,LEUVEN_1,50692,Yes,Yes,lpc+,None,None, , ,0.095407229,250
+ABIDE_I,LEUVEN_1,50693,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.118240964,250
+ABIDE_I,LEUVEN_1,50694,,,,,,,,0.226172289,250
+ABIDE_I,LEUVEN_1,50695,Yes,Yes,lpc+,None,None, , ,0.244051406,250
+ABIDE_I,LEUVEN_1,50696,Yes,Yes,lpc+,None,None, , ,0.122716064,250
+ABIDE_I,LEUVEN_1,50697,Yes,Yes,lpc+,Excessive,Excessive,Frontal,frontal not registered,0.17372008,250
+ABIDE_I,LEUVEN_1,50698,Yes,yes,lpc+,None,None, , ,0.176241365,250
+ABIDE_I,LEUVEN_1,50699,Yes,Yes,lpc+,None,None,, ,0.129218876,250
+ABIDE_I,LEUVEN_1,50700,Yes,Yes,lpc+,a lot,Excessive,Frontal/temporal,frontal and temporal lobe not fully registered,0.290145783,250
+ABIDE_I,LEUVEN_1,50701,Yes,Yes,lpc+,None,None, , ,0.320251406,250
+ABIDE_I,LEUVEN_1,50702,Yes,Yes,lpc+,None,None, , ,0.169461847,250
+ABIDE_I,LEUVEN_1,50703,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.238137349,250
+ABIDE_I,LEUVEN_1,50704,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.088051004,250
+ABIDE_I,LEUVEN_1,50705,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.218906827,250
+ABIDE_I,LEUVEN_1,50706,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.135854217,250
+ABIDE_I,LEUVEN_1,50707,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.184067871,250
+ABIDE_I,LEUVEN_1,50708,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.117860643,250
+ABIDE_I,LEUVEN_1,50709,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.163958233,250
+ABIDE_I,LEUVEN_1,50710,Yes,Yes,lpc+,None,None, , ,0.119856225,250
+ABIDE_I,LEUVEN_1,50711,Yes,Yes,lpc+,None,None, , ,0.157700402,250
+ABIDE_I,LEUVEN_2,50722,Yes,Yes,lpc+,None,None, , ,0.152131727,250
+ABIDE_I,LEUVEN_2,50723,0,0,0,0,0,0,0,0,250
+ABIDE_I,LEUVEN_2,50724,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.169455823,250
+ABIDE_I,LEUVEN_2,50725,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.263563052,250
+ABIDE_I,LEUVEN_2,50726,Yes,Yes,lpc+,None,None, , ,0.171123293,250
+ABIDE_I,LEUVEN_2,50727,Yes,Yes,lpc+,A lot,Excessive,Parietal,superior part of brain is missing,0.220546988,250
+ABIDE_I,LEUVEN_2,50728,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.161990361,250
+ABIDE_I,LEUVEN_2,50730,Yes,Yes,lpc+,Minor,Minor,Frontal,OFC not fully registered,0.219961847,250
+ABIDE_I,LEUVEN_2,50731,Yes,Yes,lpc+,Minor,Minor,Frontal,OFC not fully registered,0.182258233,250
+ABIDE_I,LEUVEN_2,50732,Yes,Yes,lpc+,Minor,Minor,Parietal,superior parietal and OFC not fully registered,0.240300402,250
+ABIDE_I,LEUVEN_2,50733,Yes,Yes,lpc+,Minor,Minor,Frontal,OFC not fully registered,0.184550602,250
+ABIDE_I,LEUVEN_2,50734,Yes,Yes,lpc+,Minor,Minor,Frontal/temporal,OFC and ITG not fully registered,0.16593253,250
+ABIDE_I,LEUVEN_2,50735,Yes,Yes,lpc+,None,None, , ,0.118860643,250
+ABIDE_I,LEUVEN_2,50736,Yes,Yes,lpc+,Excessive,Excessive,Parietal,superior part of brain is missing,0.154003213,250
+ABIDE_I,LEUVEN_2,50737,Yes,Yes,lpc+,None,None, , ,0.269990361,250
+ABIDE_I,LEUVEN_2,50738,Yes,Yes,lpc+,None,None, , ,0.182959036,250
+ABIDE_I,LEUVEN_2,50739,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.13205502,250
+ABIDE_I,LEUVEN_2,50740,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.238227309,250
+ABIDE_I,LEUVEN_2,50741,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.167800402,250
+ABIDE_I,LEUVEN_2,50742,Yes,Yes,lpc+,Minor,Minor,Frontal,OFC not fully registered,0.248439357,250
+ABIDE_I,LEUVEN_2,50743,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered - especially LH,0.157340964,250
+ABIDE_I,LEUVEN_2,50744,,,,,,,,0.477226506,250
+ABIDE_I,LEUVEN_2,50745,Yes,Yes,lpc+,None,None, , ,0.118900803,250
+ABIDE_I,LEUVEN_2,50746,Yes,Yes,lpc+,A lot,Excessive,Parietal,superior part of brain is missing,0.211487149,250
+ABIDE_I,LEUVEN_2,50747,Yes,Yes,lpc+,Minor,A lot,Frontal/parietal,OFC and superior parietal not fully registered,0.298402811,250
+ABIDE_I,LEUVEN_2,50748,Yes,Yes,lpc+,None,None, , ,0.184799197,250
+ABIDE_I,LEUVEN_2,50749,Yes,Yes,lpc+,None,Minor,Frontal,OFC and temporal pole not fully register,0.201977108,250
+ABIDE_I,LEUVEN_2,50750,Yes,Yes,lpc+,Excessive,Excessive,Frontal/temporal/parietal/occipital,not rregistered,0.493969076,250
+ABIDE_I,LEUVEN_2,50751,Yes,Yes,lpc+,None,A lot,Frontal,MPFC and temporal regions not registered,0.348714056,250
+ABIDE_I,LEUVEN_2,50752,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.219182329,250
+ABIDE_I,LEUVEN_2,50753,Yes,Yes,lpc+,Minor,Minor,Parietal,superior parietal  not fully registered,0.158093173,250
+ABIDE_I,LEUVEN_2,50754,Yes,Yes,lpc+,Minor,Minor,Frontal,OFC not fully registered,0.124408434,250
+ABIDE_I,LEUVEN_2,50755,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.127259036,250
+ABIDE_I,LEUVEN_2,50756,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.243359438,250
+ABIDE_I,LEUVEN_2,50757,Yes,Yes,lpc+,Minor,Minor,Frontal,OFC not fully registered,0.247087149,250
+ABIDE_I,MAXMUN,51318,Yes,Yes,lpc+,None,None,,,0.094916807,120
+ABIDE_I,MAXMUN,51319,Yes,Yes,lpc+,None,None,,,0.054543697,120
+ABIDE_I,MAXMUN,51320,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC left hempisphere not fully registered,0.337937815,120
+ABIDE_I,MAXMUN,51321,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC left hempisphere not fully registered,0.116665546,120
+ABIDE_I,MAXMUN,51322,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered,0.149985714,120
+ABIDE_I,MAXMUN,51323,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered,0.0518,120
+ABIDE_I,MAXMUN,51324,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered,0.165221008,120
+ABIDE_I,MAXMUN,51325,Yes,Yes,lpc+,None,None,,,0.098051261,120
+ABIDE_I,MAXMUN,51326,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC right hempisphere not fully registered,0.21242437,120
+ABIDE_I,MAXMUN,51327,Yes,Yes,lpc+,None,None,,,0.132267227,120
+ABIDE_I,MAXMUN,51328,Yes,Yes,lpc+,None,None,,,0.113222689,120
+ABIDE_I,MAXMUN,51329,Yes,Yes,lpc+,None,None,,,0.277803518,200
+ABIDE_I,MAXMUN,51330,Yes,Yes,lpc+,None,None,,,0.253644724,200
+ABIDE_I,MAXMUN,51331,Yes,Yes,lpc+,None,None,,,0.221938191,200
+ABIDE_I,MAXMUN,51332,Yes,Yes,lpc+,None,None,,,0.100939496,120
+ABIDE_I,MAXMUN,51333,Yes,Yes,lpc+,None,None,,,0.191591597,120
+ABIDE_I,MAXMUN,51334,0,0,0,0,0,0,0,0.183979832,120
+ABIDE_I,MAXMUN,51335,0,0,0,0,0,0,0,0.082716807,120
+ABIDE_I,MAXMUN,51336,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC right hempisphere not fully registered,0.349183193,120
+ABIDE_I,MAXMUN,51338,Yes,Yes,lpc+,None,Minor,,,0.120252101,120
+ABIDE_I,MAXMUN,51339,Yes,Yes,lpc+,None,None,,,0.125304202,120
+ABIDE_I,MAXMUN,51340,Yes,Yes,lpc+,None,None,Frontal,mPFC right hemisphere not fully registered ,0.086604202,120
+ABIDE_I,MAXMUN,51341,Yes,Yes,lpc+,None,None,,,0.432515126,120
+ABIDE_I,MAXMUN,51342,Yes,Yes,lpc+,None,None,,,0.100613445,120
+ABIDE_I,MAXMUN,51343,Yes,Yes,lpc+,None,None,,,0.148380672,120
+ABIDE_I,MAXMUN,51344,Yes,Yes,lpc+,None,None,,,0.177490756,120
+ABIDE_I,MAXMUN,51345,Yes,Yes,lpc+,None,Minor,Frontal,mPFC right hemisphere not fully registered ,0.094744538,120
+ABIDE_I,MAXMUN,51346,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not  registered,0.127815966,120
+ABIDE_I,MAXMUN,51347,Yes,Yes,lpc+,None,None,,,0.076718487,120
+ABIDE_I,MAXMUN,51348,Yes,Yes,lpc+,None,Minor,Frontal,mPFC right hemisphere not fully registered,0.337262185,120
+ABIDE_I,MAXMUN,51349,Yes,Yes,lpc+,None,None,,,0.262521608,200
+ABIDE_I,MAXMUN,51350,Yes,Yes,lpc+,None,None,,,0.547204523,200
+ABIDE_I,MAXMUN,51351,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered,0.180820603,200
+ABIDE_I,MAXMUN,51352,Yes,Yes,lpc+,None,None,,,0.772396482,200
+ABIDE_I,MAXMUN,51353,Yes,Yes,lpc+,None,None,,,1.052421608,200
+ABIDE_I,MAXMUN,51354,Yes,Yes,lpc+,None,None,,,0.433306533,200
+ABIDE_I,MAXMUN,51355,0,0,0,0,0,0,0,0.321709045,200
+ABIDE_I,MAXMUN,51356,Yes,Yes,lpc+,None,None,,,0.136004523,200
+ABIDE_I,MAXMUN,51357,Yes,Yes,lpc+,None,None,,,0.075963317,200
+ABIDE_I,MAXMUN,51358,Yes,Yes,lpc+,None,None,,,0.690140201,200
+ABIDE_I,MAXMUN,51359,Yes,Yes,lpc+,None,None,,,0.877176382,200
+ABIDE_I,MAXMUN,51360,Yes,Yes,lpc+,None,None,,,0.135298995,200
+ABIDE_I,MAXMUN,51361,Yes,Yes,lpc+,None,None,,,0.630697487,200
+ABIDE_I,MAXMUN,51362,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.076453782,120
+ABIDE_I,MAXMUN,51363,Yes,Yes,lpc+,None,None,,,0.1458,120
+ABIDE_I,MAXMUN,51364,Yes,Yes,lpc+,None,None,,,0.248777311,120
+ABIDE_I,MAXMUN,51365,0,0,0,0,0,0,0,0.21507479,120
+ABIDE_I,MAXMUN,51366,Yes,Yes,lpc+,None,None,,,0.26547479,120
+ABIDE_I,MAXMUN,51367,Yes,Yes,lpc+,None,None,,,0.06317563,120
+ABIDE_I,MAXMUN,51368,Yes,Yes,lpc+,None,None,,,0.086356303,120
+ABIDE_I,MAXMUN,51369,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered,0.251861345,120
+ABIDE_I,MAXMUN,51370,Yes,Yes,lpc+,None,Minor,Frontal,mPFC left hemisphere not fully registered,0.085790756,120
+ABIDE_I,MAXMUN,51371,Yes,Yes,lpc+,None,Minor,Frontal,mPFC right hemisphere not fully registered,0.101778992,120
+ABIDE_I,MAXMUN,51372,Yes,Yes,lpc,None,A lot,Frontal,mPFC not registered,0.080202521,120
+ABIDE_I,MAXMUN,51373,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered,0.048578151,120
+ABIDE_I,MAXMUN,51606,0,0,0,0,0,0,0,0.141047059,120
+ABIDE_I,MAXMUN,51607,Yes,Yes,lpc+,None,None,,,0.294430252,120
+ABIDE_I,NYU,50952,Yes,Yes,lpc+,Minor,None,,,0.652072626,180
+ABIDE_I,NYU,50953,Yes,Yes,lpc+,None,None,,,0.153745251,180
+ABIDE_I,NYU,50954,Yes,Yes,lpc+,None,None,,,0.065828492,180
+ABIDE_I,NYU,50955,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.16091676,180
+ABIDE_I,NYU,50956,Yes,Yes,lpc+,None,None,,,0.087329609,180
+ABIDE_I,NYU,50957,Yes,Yes,lpc+,None,None,,,0.198358101,180
+ABIDE_I,NYU,50958,Yes,Yes,lpc+,None,None,,,0.195356425,180
+ABIDE_I,NYU,50959,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not registered,0.082107821,180
+ABIDE_I,NYU,50960,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.164002793,180
+ABIDE_I,NYU,50961,Yes,Yes,lpc+,None,None,,,0.173409497,180
+ABIDE_I,NYU,50962,Yes,Yes,lpc+,None,A lot,Frontal,OFC not registered & PCC ,0.107556983,180
+ABIDE_I,NYU,50964,Yes,Yes,lpc+,None,None,,,0.211105587,180
+ABIDE_I,NYU,50965,Yes,Yes,lpc+,None,None,,,0.193655307,180
+ABIDE_I,NYU,50966,Yes,Yes,lpc+,None,A lot,Occipital,Extrastriate cortex  and part of frontal lobe not registered ,0.082193855,180
+ABIDE_I,NYU,50967,Yes,Yes,lpc+,None,Minor,Temporal,Inferior temporal gyrus not registered,0.174138547,180
+ABIDE_I,NYU,50968,Yes,Yes,lpc+,None,None,,,0.099892737,180
+ABIDE_I,NYU,50969,Yes,Yes,lpc+,None,None,,,0.275206704,180
+ABIDE_I,NYU,50970,Yes,Yes,lpc+,None,None,,,0.106244134,180
+ABIDE_I,NYU,50971,Yes,Yes,lpc+,None,None,,,0.175048603,180
+ABIDE_I,NYU,50972,Yes,Yes,lpc+,None,Minor,Temporal,temporal pole not fully registered,0.187982682,180
+ABIDE_I,NYU,50973,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.160621788,180
+ABIDE_I,NYU,50974,Yes,Yes,lpc+,None,A lot,Frontal,Right frontal and temporal cortex not fully registered,0.106160335,180
+ABIDE_I,NYU,50975,Yes,Yes,lpc+,None,None,,,0.261153073,180
+ABIDE_I,NYU,50976,Yes,Yes,lpc+,None,A lot,Temporal,Right temporal pole not fully registered,0.156476536,180
+ABIDE_I,NYU,50977,Yes,Yes,lpc+,None,A lot,Parietal,superior part of brain is missing,0.128886034,180
+ABIDE_I,NYU,50978,Yes,Yes,lpc+,None,None,,,0.064831285,180
+ABIDE_I,NYU,50979,Yes,Yes,lpc+,None,None,,,0.282393855,180
+ABIDE_I,NYU,50980,Yes,Yes,lpc+,None,Minor,Temporal,IFG not fully registered,0.253556425,180
+ABIDE_I,NYU,50981,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.142164246,180
+ABIDE_I,NYU,50982,Yes,Yes,lpc+,None,A lot,Temporal,Temporal and occipital structures ,0.078831844,180
+ABIDE_I,NYU,50983,Yes,Yes,lpc+,None,A lot,Parietal,Left superior parietal lobe missing,0.183426257,180
+ABIDE_I,NYU,50984,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.330687709,180
+ABIDE_I,NYU,50985,Yes,Yes,lpc+,None,Minor,Temporal,temporal pole not fully registered,0.12713352,180
+ABIDE_I,NYU,50986,Yes,Yes,lpc+,None,None,,,0.12577095,180
+ABIDE_I,NYU,50987,Yes,Yes,lpc+,None,None,,,0.177876536,180
+ABIDE_I,NYU,50988,Yes,Yes,lpc+,None,A lot,Frontal,OFC and IFG not fully registered,0.102217318,180
+ABIDE_I,NYU,50989,Yes,Yes,lpc+,None,A lot,Frontal,"Frontal, temporal and occipital not fully registered",0.143339665,180
+ABIDE_I,NYU,50990,Yes,Yes,lpc+,None,A lot,Parietal,Parietal not fully registered,0.195265363,180
+ABIDE_I,NYU,50991,Yes,Yes,lpc+,None,None,,,0.120007263,180
+ABIDE_I,NYU,50992,Yes,Yes,lpc+,None,None,,,0.189795531,180
+ABIDE_I,NYU,50993,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.171806145,180
+ABIDE_I,NYU,50994,Yes,Yes,lpc+,None,Minor,Temporal,temporal pole not fully registered,0.057683799,180
+ABIDE_I,NYU,50995,Yes,Yes,lpc+,None,None,,,0.185943575,180
+ABIDE_I,NYU,50996,Yes,Yes,lpc+,None,A lot,Frontal,OFC and temporal pole not fully register,0.107355307,180
+ABIDE_I,NYU,50997,Yes,Yes,lpc+,None,None,,,0.314638547,180
+ABIDE_I,NYU,50998,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.209094413,180
+ABIDE_I,NYU,50999,Yes,Yes,lpc+,None,A lot,Frontal,Frontal and occipital not fully registered,0.149059777,180
+ABIDE_I,NYU,51000,Yes,Yes,lpc+,None,None,,,0.197075419,180
+ABIDE_I,NYU,51001,Yes,Yes,lpc+,None,A lot,Frontal,Frontal and occipital not fully registered,0.202742458,180
+ABIDE_I,NYU,51002,Yes,Yes,lpc+,None,Minor,Parietal,Superior parietal sulcus not fully registered,0.197764804,180
+ABIDE_I,NYU,51003,Yes,Yes,lpc+,None,None,,,0.126302793,180
+ABIDE_I,NYU,51006,Yes,Yes,lpc+,None,Minor,Frontal,Frontal OFC not fully registered,0.098796089,180
+ABIDE_I,NYU,51007,Yes,Yes,lpc+,None,None,,,0.14574581,180
+ABIDE_I,NYU,51008,Yes,Yes,lpc+,None,None,,,0.221676536,180
+ABIDE_I,NYU,51009,Yes,Yes,lpc+,None,None,,,0.20130838,180
+ABIDE_I,NYU,51010,Yes,Yes,lpc+,None,None,,,0.165932402,180
+ABIDE_I,NYU,51011,Yes,Yes,lpc+,None,None,,,0.306194413,180
+ABIDE_I,NYU,51012,Yes,Yes,lpc+,None,Minor,Frontal,Frontal OFC not fully registered,0.298378771,180
+ABIDE_I,NYU,51013,Yes,Yes,lpc+,None,Minor,Parietal,Superior parietal sulcus not fully registered,0.256884358,180
+ABIDE_I,NYU,51014,Yes,Yes,lpc+,None,Minor,Parietal,Parieto-occipital junction not fully registered,0.087740782,180
+ABIDE_I,NYU,51015,Yes,Yes,lpc+,None,Excessive,Frontal,"Frontal, temporal, occipital structures not registered",0.073510056,180
+ABIDE_I,NYU,51016,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.081938547,180
+ABIDE_I,NYU,51017,Yes,Yes,lpc+,None,Excessive,Occipital,"Occipital, parietal, temporal not fully registered",0.135061453,180
+ABIDE_I,NYU,51018,Yes,Yes,lpc+,None,Minor,Frontal,mPFC cortex not fully registered,0.095177095,180
+ABIDE_I,NYU,51019,Yes,Yes,lpc+,None,A lot,Frontal,mPFC and temporal pole not fully registered,0.089105587,180
+ABIDE_I,NYU,51020,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.17657486,180
+ABIDE_I,NYU,51021,Yes,Yes,lpc+,None,None,,,0.156473743,180
+ABIDE_I,NYU,51023,Yes,Yes,lpc+,None,Minor,Occipital,Extrastriate cortex not fuly registered,0.091856983,180
+ABIDE_I,NYU,51024,Yes,Yes,lpc+,None,None,,  ,0.092150279,180
+ABIDE_I,NYU,51025,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.106669274,180
+ABIDE_I,NYU,51026,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.069597207,180
+ABIDE_I,NYU,51027,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.102158659,180
+ABIDE_I,NYU,51028,Yes,Yes,lpc+,None,None,,,0.074630168,180
+ABIDE_I,NYU,51029,Yes,Yes,lpc+,None,A lot,Frontal,mPFC and Extrastriate cortex not fully registered ,0.148439665,180
+ABIDE_I,NYU,51030,Yes,Yes,lpc+,None,None,,,0.438855307,180
+ABIDE_I,NYU,51032,Yes,Yes,lpc+,None,None,,,0.172657542,180
+ABIDE_I,NYU,51033,Yes,Yes,lpc+,None,None,,,0.320991061,180
+ABIDE_I,NYU,51034,Yes,Yes,lpc+,None,None,,,0.305926257,180
+ABIDE_I,NYU,51035,Yes,Yes,lpc+,None,None,,,0.305831844,180
+ABIDE_I,NYU,51036,Yes,Yes,lpc+,None,None,,,0.125031285,180
+ABIDE_I,NYU,51038,Yes,Yes,lpc+,None,None,,,0.080500559,180
+ABIDE_I,NYU,51039,Yes,Yes,lpc+,None,None,,,0.099694413,180
+ABIDE_I,NYU,51040,Yes,Yes,lpc+,None,None,,,0.051187709,180
+ABIDE_I,NYU,51041,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.083259218,180
+ABIDE_I,NYU,51042,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.140277095,180
+ABIDE_I,NYU,51044,Yes,Yes,lpc+,None,None,,,0.104936313,180
+ABIDE_I,NYU,51045,Yes,Yes,lpc+,None,None,,,0.193534637,180
+ABIDE_I,NYU,51046,Yes,Yes,lpc+,Minor,Minor,Frontal,mPFC not fully registered,0.103970391,180
+ABIDE_I,NYU,51047,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.077681006,180
+ABIDE_I,NYU,51048,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.10588324,180
+ABIDE_I,NYU,51049,Yes,Yes,lpc+,None,None,,,0.095818994,180
+ABIDE_I,NYU,51050,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.076843575,180
+ABIDE_I,NYU,51051,Yes,Yes,lpc+,None,A lot,Frontal,mPFC and temporal pole not fully registered,0.147817877,180
+ABIDE_I,NYU,51052,Yes,Yes,lpc+,None,None,,,0.087051397,180
+ABIDE_I,NYU,51053,Yes,Yes,lpc+,None,Excessive,Frontal,"Frontal, temporal and parietal lobes not fully registered",0.09054581,180
+ABIDE_I,NYU,51054,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.190615084,180
+ABIDE_I,NYU,51055,Yes,Yes,lpc+,None,None,,,0.110909497,180
+ABIDE_I,NYU,51056,Yes,Yes,lpc+,None,A lot,Frontal,mPFC and IFG not fully registered,0.045843575,180
+ABIDE_I,NYU,51057,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.065461453,180
+ABIDE_I,NYU,51058,Yes,Yes,lpc+,None,None,,,0.132914525,180
+ABIDE_I,NYU,51059,Yes,Yes,lpc+,None,None,,,0.09955419,180
+ABIDE_I,NYU,51060,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.212854749,180
+ABIDE_I,NYU,51061,Yes,Yes,lpc+,None,None,,,0.058456983,180
+ABIDE_I,NYU,51062,Yes,Yes,lpc+,None,None,,,0.122102235,180
+ABIDE_I,NYU,51063,Yes,Yes,lpc+,None,None,,,0.11580838,180
+ABIDE_I,NYU,51064,Yes,Yes,lpc+,None,None,,,0.107114525,180
+ABIDE_I,NYU,51065,Yes,Yes,lpc+,None,A lot,Frontal,mPFC and IFG not fully registered,0.164031285,180
+ABIDE_I,NYU,51066,Yes,Yes,lpc+,None,A lot,Occipital,Occipital and frontal lobe not fully registered,0.132364804,180
+ABIDE_I,NYU,51067,Yes,Yes,lpc+,None,None,,,0.100804469,180
+ABIDE_I,NYU,51068,Yes,Yes,lpc+,None,None,,,0.118322346,180
+ABIDE_I,NYU,51069,Yes,Yes,lpc+,None,None,,,0.065849721,180
+ABIDE_I,NYU,51070,Yes,Yes,lpc+,None,None,,,0.161210056,180
+ABIDE_I,NYU,51071,Yes,Yes,lpc+,None,None,,,0.088921788,180
+ABIDE_I,NYU,51072,Yes,Yes,lpc+,None,Minor,Temporal,Temporal pole not fully registered,0.122056425,180
+ABIDE_I,NYU,51073,Yes,Yes,lpc+,None,Minor,Temporal,Temporal pole not fully registered,0.167114525,180
+ABIDE_I,NYU,51074,Yes,Yes,lpc+,None,A lot,Frontal,mPFC and temporal pole not fully registered,0.082706704,180
+ABIDE_I,NYU,51075,Yes,Yes,lpc+,None,None,,,0.175701117,180
+ABIDE_I,NYU,51076,Yes,Yes,lpc+,None,None,,,0.072988827,180
+ABIDE_I,NYU,51077,Yes,Yes,lpc+,None,A lot,Parietal,Parietal lobe not registered left hemisphere,0.368517318,180
+ABIDE_I,NYU,51078,Yes,Yes,lpc+,None,None,,,0.12057933,180
+ABIDE_I,NYU,51079,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal and parietal lobe not fully registered,0.136402235,180
+ABIDE_I,NYU,51080,Yes,Yes,lpc+,None,Minor,Parietal,Inferior parietal lobule not fully registered,0.088164804,180
+ABIDE_I,NYU,51081,Yes,Yes,lpc+,None,None,,,0.066692179,180
+ABIDE_I,NYU,51082,Yes,Yes,lpc+,None,None,,,0.185869274,180
+ABIDE_I,NYU,51083,Yes,Yes,lpc+,None,None,,,0.148749162,180
+ABIDE_I,NYU,51084,Yes,Yes,lpc+,None,None,,,0.165401676,180
+ABIDE_I,NYU,51085,Yes,Yes,lpc+,None,Minor,Parietal,Inferior parietal lobule not fully registered,0.118946369,180
+ABIDE_I,NYU,51086,Yes,Yes,lpc+,None,A lot,Parietal,Inferior parietal lobule not registered,0.112852514,180
+ABIDE_I,NYU,51087,Yes,Yes,lpc+,None,None,,,0.261180447,180
+ABIDE_I,NYU,51088,Yes,Yes,lpc+,None,None,,,0.107631844,180
+ABIDE_I,NYU,51089,Yes,Yes,lpc+,None,None,,,0.186761453,180
+ABIDE_I,NYU,51090,Yes,Yes,lpc+,None,None,,,0.100945251,180
+ABIDE_I,NYU,51091,Yes,Yes,lpc+,None,None,,,0.149934078,180
+ABIDE_I,NYU,51093,Yes,Yes,lpc+,None,None,,,0.143104469,180
+ABIDE_I,NYU,51094,Yes,Yes,lpc+,None,None,,,0.20100838,180
+ABIDE_I,NYU,51095,Yes,Yes,lpc+,None,A lot,Occipital,Occipital lobe not registered,0.213634078,180
+ABIDE_I,NYU,51096,Yes,Yes,lpc+,None,A lot,Parietal,Parietal inferior lobule not fully registered,0.089892179,180
+ABIDE_I,NYU,51097,Yes,Yes,lpc+,None,A lot,Parietal,Parietal anterior lobule not fully registered,0.130301117,180
+ABIDE_I,NYU,51098,Yes,Yes,lpc+,None,None,,,0.154636872,180
+ABIDE_I,NYU,51099,Yes,Yes,lpc+,None,None,,,0.126386034,180
+ABIDE_I,NYU,51100,Yes,Yes,lpc+,None,None,,,0.11923352,180
+ABIDE_I,NYU,51101,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.17286257,180
+ABIDE_I,NYU,51102,Yes,Yes,lpc+,None,None,,,0.198401117,180
+ABIDE_I,NYU,51103,Yes,Yes,lpc+,None,A lot,Frontal,OFC not fully registered,0.146944134,180
+ABIDE_I,NYU,51104,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.083936872,180
+ABIDE_I,NYU,51105,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.077820112,180
+ABIDE_I,NYU,51106,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.094975978,180
+ABIDE_I,NYU,51107,Yes,Yes,lpc+,None,Minor,Temporal,IFG in the left hemisphere not fully registered,0.085977095,180
+ABIDE_I,NYU,51108,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.102063687,180
+ABIDE_I,NYU,51109,Yes,Yes,lpc+,None,Minor,Frontal,mPFC in the left hemisphere not fully registered,0.156056983,180
+ABIDE_I,NYU,51110,Yes,Yes,lpc+,None,Minor,Frontal,mPFC in the left hemisphere not fully registered,0.116281564,180
+ABIDE_I,NYU,51111,Yes,Yes,lpc+,None,None,,,0.096148045,180
+ABIDE_I,NYU,51112,Yes,Yes,lpc+,None,A lot,Frontal,"OFC, IFG and primary visual cortex not fully registered",0.09052067,180
+ABIDE_I,NYU,51113,Yes,Yes,lpc+,None,None,,,0.083515642,180
+ABIDE_I,NYU,51114,Yes,Yes,lpc+,None,None,,,0.102672626,180
+ABIDE_I,NYU,51115,Yes,Yes,lpc+,None,Minor,Parietal,Inferior parietal lobule not fully registered,0.10693743,180
+ABIDE_I,NYU,51116,Yes,Yes,lpc+,None,A lot,Frontal,mPFC and primary visual cortex not fully registered,0.092352514,180
+ABIDE_I,NYU,51117,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.099957542,180
+ABIDE_I,NYU,51118,Yes,Yes,lpc+,None,A lot,Temporal,Inferior and fusiform temporal gyrus not fully registered in the left hemisphere,0.181330726,180
+ABIDE_I,NYU,51119,Yes,Yes,lpc+,None,Minor,Frontal,nPFC not fully registered,0.079486034,180
+ABIDE_I,NYU,51120,Yes,Yes,lpc+,None,None,,,0.126263687,180
+ABIDE_I,NYU,51121,Yes,Yes,lpc+,None,None,,,0.093443017,180
+ABIDE_I,NYU,51122,Yes,Yes,lpc+,None,None,,,0.200702793,180
+ABIDE_I,NYU,51123,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.222151397,180
+ABIDE_I,NYU,51124,Yes,Yes,lpc+,None,Minor,Parietal,Parietal lobule not registered in the right hemisphere,0.0589,180
+ABIDE_I,NYU,51125,Yes,Yes,lpc+,None,A lot,Parietal,Parietal lobule not registered in the both hemisphere and OFC not registered in the right hemisphere,0.091043017,180
+ABIDE_I,NYU,51126,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.087905587,180
+ABIDE_I,NYU,51127,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.392951955,180
+ABIDE_I,NYU,51128,Yes,Yes,lpc+,None,Minor,Parietal,Anterior parietal lobule not fully registered,0.071883799,180
+ABIDE_I,NYU,51129,Yes,Yes,lpc+,None,None,,,0.144311732,180
+ABIDE_I,NYU,51130,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.146386034,180
+ABIDE_I,NYU,51131,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.108084916,180
+ABIDE_I,NYU,51146,Yes,Yes,lpc+,None,None,,,0.108038547,180
+ABIDE_I,NYU,51147,Yes,Yes,lpc+,None,A lot,Parietal,Dorsal pathway missing,0.125006145,180
+ABIDE_I,NYU,51148,Yes,Yes,lpc+,None,None,,,0.103357542,180
+ABIDE_I,NYU,51149,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.177019553,180
+ABIDE_I,NYU,51150,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.285335754,180
+ABIDE_I,NYU,51151,Yes,Yes,lpc+,None,None,,,0.105292179,180
+ABIDE_I,NYU,51152,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.111843575,180
+ABIDE_I,NYU,51153,Yes,Yes,lpc+,None,A lot,Parietal,Parietal and temporal structures are missing,0.10142905,180
+ABIDE_I,NYU,51154,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.13395419,180
+ABIDE_I,NYU,51155,Yes,Yes,lpc+,None,None,,,0.103728492,180
+ABIDE_I,NYU,51156,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.195502793,180
+ABIDE_I,NYU,51159,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.455877654,180
+ABIDE_I,OHSU,50142,Yes,Yes,lpc+,None,None,,From rest 2,0.12432963,82
+ABIDE_I,OHSU,50143,Yes,Yes,lpc+,None,None,,From rest 2,0.158435803,82
+ABIDE_I,OHSU,50144,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC right hemisphere not fully registered,0.116982716,82
+ABIDE_I,OHSU,50145,Yes,Yes,lpc+,None,None,,,0.204976543,82
+ABIDE_I,OHSU,50146,Yes,Yes,lpc+,None,None,,,0.129376543,82
+ABIDE_I,OHSU,50147,Yes,Yes,lpc+,None,None,,,0.173,82
+ABIDE_I,OHSU,50148,Yes,Yes,lpc+,None,None,,,0.154990124,82
+ABIDE_I,OHSU,50149,Yes,Yes,lpc+,None,None,,,0.174624691,82
+ABIDE_I,OHSU,50150,Yes,Yes,lpc+,None,None,,,0.12202963,82
+ABIDE_I,OHSU,50152,Yes,Yes,lpc+,None,None,,,0.12941358,82
+ABIDE_I,OHSU,50153,Yes,Yes,lpc+,None,None,,From rest 3 ,0.287419753,82
+ABIDE_I,OHSU,50155,Yes,Yes,lpc+,None,None,,From rest 2,0.249959259,no dataset
+ABIDE_I,OHSU,50156,Yes,Yes,lpc+,None,None,,From rest 3 ,0.065024691,82
+ABIDE_I,OHSU,50157,Yes,Yes,lpc+,None,None,,,0.283960494,82
+ABIDE_I,OHSU,50158,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.072993827,82
+ABIDE_I,OHSU,50159,Yes,Yes,lpc+,None,None,,,0.179714815,82
+ABIDE_I,OHSU,50160,Yes,Yes,lpc+,None,None,,,0.132717284,82
+ABIDE_I,OHSU,50161,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.361423457,82
+ABIDE_I,OHSU,50162,Yes,Yes,lpc+,None,Minor,Frontal,mPFC left hemisphere not fully registered,0.440919753,82
+ABIDE_I,OHSU,50163,Yes,Yes,lpc+,None,None,,,0.388209877,82
+ABIDE_I,OHSU,50164,Yes,Yes,lpc+,None,None,,,0.500776543,82
+ABIDE_I,OHSU,50165,Yes,Yes,lpc+,None,None,,From rest 2,0.142702469,82
+ABIDE_I,OHSU,50166,Yes,Yes,lpc+,A lot,A lot,Frontal,"Superior frontal gyrus and sulcus left hemisphere, & mPFC not registered",0.134488889,82
+ABIDE_I,OHSU,50167,Yes,Yes,lpc+,None,None,,,0.07357284,82
+ABIDE_I,OHSU,50168,Yes,Yes,lpc+,None,None,,,0.137690124,82
+ABIDE_I,OHSU,50169,Yes,Yes,lpc+,None,Minor,Frontal,Frontal pole not fully registered,0.309895062,82
+ABIDE_I,OHSU,50170,Yes,Yes,lpc+,None,None,,,0.291283951,82
+ABIDE_I,OHSU,50171,Yes,Yes,lpc+,None,None,,,0.103577778,82
+ABIDE_I,OLIN,50102,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not registered very well,0.432913397,210
+ABIDE_I,OLIN,50103,0,0,0,0,0,0,0,0.978890431,210
+ABIDE_I,OLIN,50104,Yes,Yes,lpc+,None,Minor,Frontal,mPFC in the right hemisphere not registered very well,0.20763445,210
+ABIDE_I,OLIN,50105,Yes,Yes,lpc+,Minor,None,,,0.308918182,210
+ABIDE_I,OLIN,50106,Yes,Yes,lpc+,None,None,,,0.672718182,210
+ABIDE_I,OLIN,50107,Yes,Yes,lpc+,None,None,,,0.158395694,210
+ABIDE_I,OLIN,50108,Yes,Yes,lpc+,None,None,,,0.235943541,210
+ABIDE_I,OLIN,50109,Yes,Yes,lpc+,None,None,,,0.471544976,210
+ABIDE_I,OLIN,50110,Yes,Yes,lpc+,None,None,,,0.922558852,210
+ABIDE_I,OLIN,50111,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not registered,0.306998086,210
+ABIDE_I,OLIN,50112,Yes,Yes,lpc+,None,None,,,0.420694737,210
+ABIDE_I,OLIN,50113,Yes,Yes,lpc+,None,Minor,Frontal,OFC not registered,0.248073684,210
+ABIDE_I,OLIN,50114,Yes,Yes,lpc+,None,None,,,0.245970813,210
+ABIDE_I,OLIN,50115,0,0,0,0,0,0,0,0.305072249,210
+ABIDE_I,OLIN,50116,Yes,Yes,lpc+,None,None,,,0.175990909,210
+ABIDE_I,OLIN,50117,Yes,Yes,lpc+,None,None,,,0.271610526,210
+ABIDE_I,OLIN,50118,Yes,Yes,lpc+,None,None,,,0.23438756,210
+ABIDE_I,OLIN,50119,Yes,Yes,lpc+,None,None,,,0.411082775,210
+ABIDE_I,OLIN,50120,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.526029665,210
+ABIDE_I,OLIN,50121,Yes,Yes,lpc+,None,None,,,0.296778469,210
+ABIDE_I,OLIN,50122,Yes,Yes,lpc+,None,A lot,Frontal,Superior frontal cortex not fully registered,0.323549282,210
+ABIDE_I,OLIN,50123,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not fully registered,2.49231244,210
+ABIDE_I,OLIN,50124,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not fully registered,0.480984211,210
+ABIDE_I,OLIN,50125,Yes,Yes,lpc+,None,None,,,0.249573684,210
+ABIDE_I,OLIN,50126,Yes,Yes,lpc+,None,None,,,0.609856459,210
+ABIDE_I,OLIN,50127,Yes,Yes,lpc+,None,None,,,0.252454546,210
+ABIDE_I,OLIN,50128,Yes,Yes,lpc+,None,None,,,0.416521531,210
+ABIDE_I,OLIN,50129,Yes,Yes,lpc+,None,None,,,0.337936842,210
+ABIDE_I,OLIN,50130,Yes,Yes,lpc+,None,None,,,0.197064593,210
+ABIDE_I,OLIN,50131,Yes,Yes,lpc+,None,None,,,0.168273206,210
+ABIDE_I,OLIN,50132,0,0,0,0,0,0,0,0.223160766,210
+ABIDE_I,OLIN,50133,Yes,Yes,lpc+,None,None,,,0.159879426,210
+ABIDE_I,OLIN,50134,Yes,Yes,lpc+,None,None,,,0.289072727,210
+ABIDE_I,OLIN,50135,Yes,Yes,lpc+,None,None,,,0.965120574,210
+ABIDE_I,OLIN,50136,Yes,Yes,lpc+,None,None,,,0.290661723,210
+ABIDE_I,OLIN,50137,0,0,0,0,0,0,0,0.339323923,210
+ABIDE_I,PITT,50002,Yes,Yes,lpc+,None,None,,,0.208805528,200
+ABIDE_I,PITT,50003,0,0,0,0,0,0,0,0.432088442,200
+ABIDE_I,PITT,50004,Yes,Yes,lpc+,None,None,,,0.259744724,200
+ABIDE_I,PITT,50005,Yes,Yes,lpc+,None,None,,,0.244760302,200
+ABIDE_I,PITT,50006,Yes,Yes,lpc+,None,None,,,0.166288945,200
+ABIDE_I,PITT,50007,Yes,Yes,lpc+,None,None,,,0.305508543,200
+ABIDE_I,PITT,50008,Yes,Yes,lpc+,None,None,,,0.302944221,200
+ABIDE_I,PITT,50009,Yes,Yes,lpc+,None,None,,,0.280217085,200
+ABIDE_I,PITT,50010,Yes,Yes,lpc+,None,None,,,0.226874372,200
+ABIDE_I,PITT,50011,Yes,Yes,lpc+,None,None,,,0.124786935,200
+ABIDE_I,PITT,50012,Yes,Yes,lpc+,None,None,,,0.205023116,200
+ABIDE_I,PITT,50013,Yes,Yes,lpc+,None,None,,,0.449787437,200
+ABIDE_I,PITT,50014,Yes,Yes,lpc+,None,None,,,0.095668342,200
+ABIDE_I,PITT,50015,Yes,Yes,lpc+,None,None,,,0.19858191,200
+ABIDE_I,PITT,50016,Yes,Yes,lpc+,None,None,,,0.196,200
+ABIDE_I,PITT,50017,Yes,Yes,lpc+,None,None,,,0.615486935,200
+ABIDE_I,PITT,50019,Yes,Yes,lpc+,None,None,,,0.436931658,200
+ABIDE_I,PITT,50020,Yes,Yes,lpc+,None,None,,,0.216923618,200
+ABIDE_I,PITT,50022,Yes,Yes,lpc+,None,None,,,0.169013065,200
+ABIDE_I,PITT,50023,Yes,Yes,lpc+,None,None,,,0.256530151,200
+ABIDE_I,PITT,50024,Yes,Yes,lpc+,None,None,,,0.130170352,200
+ABIDE_I,PITT,50025,Yes,Yes,lpc+,None,None,,,0.174318593,200
+ABIDE_I,PITT,50026,Yes,Yes,lpc+,None,None,,,0.581426633,200
+ABIDE_I,PITT,50027,Yes,Yes,lpc+,None,None,,,0.270095477,200
+ABIDE_I,PITT,50028,Yes,Yes,lpc+,None,None,,,0.43010603,200
+ABIDE_I,PITT,50029,Yes,Yes,lpc+,None,None,,,0.167397487,200
+ABIDE_I,PITT,50030,Yes,Yes,lpc+,None,None,,,0.166490452,200
+ABIDE_I,PITT,50031,Yes,Yes,lpc+,None,None,,,0.281273367,200
+ABIDE_I,PITT,50032,Yes,Yes,lpc+,None,None,,,0.117513568,200
+ABIDE_I,PITT,50033,Yes,Yes,lpc+,None,None,,,0.194378894,200
+ABIDE_I,PITT,50034,Yes,Yes,lpc+,None,None,,,0.330209045,200
+ABIDE_I,PITT,50035,Yes,Yes,lpc+,None,None,,,0.309301005,200
+ABIDE_I,PITT,50036,Yes,Yes,lpc+,None,None,,,0.170232161,200
+ABIDE_I,PITT,50037,Yes,Yes,lpc+,None,None,,,0.143488945,200
+ABIDE_I,PITT,50038,Yes,Yes,lpc+,None,None,,,0.241830151,200
+ABIDE_I,PITT,50039,Yes,Yes,lpc+,None,None,,,1.079259799,200
+ABIDE_I,PITT,50040,Yes,Yes,lpc+,None,None,,,0.179588945,200
+ABIDE_I,PITT,50041,Yes,Yes,lpc+,None,None,,,0.173266332,200
+ABIDE_I,PITT,50042,Yes,Yes,lpc+,None,None,,,0.28851608,200
+ABIDE_I,PITT,50043,Yes,Yes,lpc+,None,None,,,0.351957286,200
+ABIDE_I,PITT,50044,Yes,Yes,lpc+,None,None,,,0.171768844,200
+ABIDE_I,PITT,50045,Yes,Yes,lpc+,None,None,,,0.214955276,200
+ABIDE_I,PITT,50046,Yes,Yes,lpc+,None,None,,,0.263344724,200
+ABIDE_I,PITT,50047,Yes,Yes,lpc+,None,None,,,0.224067839,200
+ABIDE_I,PITT,50048,Yes,Yes,lpc+,None,None,,,0.393647739,200
+ABIDE_I,PITT,50049,Yes,Yes,lpc+,None,None,,,0.315822111,200
+ABIDE_I,PITT,50050,Yes,Yes,lpc+,None,None,,,0.175034171,200
+ABIDE_I,PITT,50051,Yes,Yes,lpc+,None,None,,,0.222636683,200
+ABIDE_I,PITT,50052,Yes,Yes,lpc+,None,None,,,0.171447739,200
+ABIDE_I,PITT,50053,Yes,Yes,lpc+,None,None,,,0.395954774,200
+ABIDE_I,PITT,50054,Yes,Yes,lpc+,None,None,,,0.75738794,200
+ABIDE_I,PITT,50055,Yes,Yes,lpc+,None,None,,,0.242137688,200
+ABIDE_I,PITT,50056,Yes,Yes,lpc+,None,None,,,0.345032663,200
+ABIDE_I,PITT,50057,Yes,Yes,lpc+,None,None,,,0.155768342,200
+ABIDE_I,PITT,50058,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.158460804,200
+ABIDE_I,PITT,50059,Yes,Yes,lpc+,None,None,,,0.190027136,200
+ABIDE_I,PITT,50060,Yes,Yes,lpc+,None,None,,,0.150872864,200
+ABIDE_I,SBL,51556,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.630520603,200
+ABIDE_I,SBL,51557,Yes,yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.15748995,200
+ABIDE_I,SBL,51558,Yes,Yes,lpc+,None,A lot,Frontal,OFC not registered at all,0.293088945,200
+ABIDE_I,SBL,51559,Yes,Yes,lpc+,None,None,,,0.24651206,200
+ABIDE_I,SBL,51560,Yes,Yes,lpc+,None,None,,,0.241190452,200
+ABIDE_I,SBL,51561,Yes,Yes,lpc+,None,None,,,0.214680402,200
+ABIDE_I,SBL,51562,Yes,Yes,lpc+,None,None,,,0.204650754,200
+ABIDE_I,SBL,51563,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.231743216,200
+ABIDE_I,SBL,51564,Yes,Yes,lpc+,Minor,Minor,Frontal,OFC not fully registered,0.289917085,200
+ABIDE_I,SBL,51565,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.203951256,200
+ABIDE_I,SBL,51566,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.221924121,200
+ABIDE_I,SBL,51567,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.283959799,200
+ABIDE_I,SBL,51568,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.426598995,200
+ABIDE_I,SBL,51569,Yes,Yes,lpc+,None,None,,,0.30459598,200
+ABIDE_I,SBL,51570,Yes,Yes,lpc+,None,None,,,0.226985427,200
+ABIDE_I,SBL,51571,Yes,Yes,lpc+,None,None,,,0.247931156,200
+ABIDE_I,SBL,51572,Yes,Yes,lpc+,None,None,,,0.228675377,200
+ABIDE_I,SBL,51573,Yes,Yes,lpc+,None,None,,,0.261203518,200
+ABIDE_I,SBL,51574,Yes,Yes,lpc+,None,Minor,Frontal,OFC and vMPFC not fully registered,0.222566834,200
+ABIDE_I,SBL,51575,Yes,Yes,lpc+,None,A lot,Frontal,OFC and vMPFC and IFG not  registered,0.571871357,200
+ABIDE_I,SBL,51576,Yes,Yes,lpc+,None,Minor,Frontal,OFC vMPFC not fully registered,0.311721608,200
+ABIDE_I,SBL,51577,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.164583417,200
+ABIDE_I,SBL,51578,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.329082412,200
+ABIDE_I,SBL,51579,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.176898492,200
+ABIDE_I,SBL,51580,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.280354271,200
+ABIDE_I,SBL,51581,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.42450201,200
+ABIDE_I,SBL,51582,Yes,Yes,lpc+,None,None,,,0.286286935,200
+ABIDE_I,SBL,51583,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.209190452,200
+ABIDE_I,SBL,51584,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.347867839,200
+ABIDE_I,SBL,51585,Yes,Yes,lpc+,None,A lot,Frontal,vMPFC is not registered,0.271374372,200
+ABIDE_I,SDSU,50182,Yes,Yes,lpc+,None,A lot,Frontal,mPFC and temporal pole not fully registered,0.171652514,180
+ABIDE_I,SDSU,50183,Yes,Yes,lpc+,None,None,,,0.064897765,180
+ABIDE_I,SDSU,50184,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.057869832,180
+ABIDE_I,SDSU,50185,Yes,Yes,lpc+,None,A lot,Frontal,left mPFC not registered,0.840424022,180
+ABIDE_I,SDSU,50186,Yes,Yes,lpc+,None,None,,,0.27646257,180
+ABIDE_I,SDSU,50187,Yes,Yes,lpc+,None,None,,,0.041636313,180
+ABIDE_I,SDSU,50188,Yes,Yes,lpc+,None,None,,,0.147988268,180
+ABIDE_I,SDSU,50189,Yes,Yes,lpc+,None,None,,,0.074635196,180
+ABIDE_I,SDSU,50190,Yes,Yes,lpc+,None,None,,,0.075906704,180
+ABIDE_I,SDSU,50191,Yes,Yes,lpc+,None,None,,,0.151747486,180
+ABIDE_I,SDSU,50192,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,1.269618994,180
+ABIDE_I,SDSU,50193,Yes,Yes,lpc+,None,None,,,0.097093296,180
+ABIDE_I,SDSU,50194,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.183344134,180
+ABIDE_I,SDSU,50195,Yes,Yes,lpc+,None,None,,,0.096560335,180
+ABIDE_I,SDSU,50196,Yes,Yes,lpc+,None,None,,,0.065994972,180
+ABIDE_I,SDSU,50197,Yes,Yes,lpc+,None,None,,,0.136669832,180
+ABIDE_I,SDSU,50198,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.266748603,180
+ABIDE_I,SDSU,50199,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.063363687,180
+ABIDE_I,SDSU,50200,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.134734637,180
+ABIDE_I,SDSU,50201,Yes,Yes,lpc+,None,None,,,0.152140782,180
+ABIDE_I,SDSU,50202,Yes,Yes,lpc+,None,A lot,Frontal,left vMPFC and bilateral pole not registered,0.287092737,180
+ABIDE_I,SDSU,50203,Yes,Yes,lpc+,None,None,,,0.079165363,180
+ABIDE_I,SDSU,50204,Yes,Yes,lpc+,None,None,,,0.153374302,180
+ABIDE_I,SDSU,50205,Yes,Yes,lpc+,None,None,,,0.070248045,180
+ABIDE_I,SDSU,50206,Yes,Yes,lpc+,None,None,,,0.190616201,180
+ABIDE_I,SDSU,50207,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.300715643,180
+ABIDE_I,SDSU,50208,Yes,Yes,lpc+,None,None,,,0.267614525,180
+ABIDE_I,SDSU,50209,Yes,Yes,lpc+,None,None,,,0.12482514,180
+ABIDE_I,SDSU,50210,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.075026257,180
+ABIDE_I,SDSU,50211,Yes,Yes,lpc+,None,None,,,0.18804581,180
+ABIDE_I,SDSU,50212,Yes,Yes,lpc+,None,None,,,0.062410615,180
+ABIDE_I,SDSU,50213,Yes,Yes,lpc+,None,None,,,0.174460894,180
+ABIDE_I,SDSU,50214,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.084188268,180
+ABIDE_I,SDSU,50215,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.119335196,180
+ABIDE_I,SDSU,50216,Yes,Yes,lpc+,None,None,,,0.073464804,180
+ABIDE_I,SDSU,50217,Yes,Yes,lpc+,None,None,,,0.118193296,180
+ABIDE_I,STANFORD,51160,Yes,Yes,lpc+,None,None,,,0.219529609,180
+ABIDE_I,STANFORD,51161,Yes,Yes,lpc+,None,None,,,0.776031285,180
+ABIDE_I,STANFORD,51162,Yes,Yes,lpc+,None,None,,,0.077964804,180
+ABIDE_I,STANFORD,51163,0,0,0,0,0,0,0,0.174959218,180
+ABIDE_I,STANFORD,51164,Yes,Yes,lpc+,None,Minor,Frontal,left vMPFC not fully registered,0.154313966,180
+ABIDE_I,STANFORD,51165,Yes,Yes,lpc+,None,None,,,0.264031285,180
+ABIDE_I,STANFORD,51166,Yes,Yes,lpc+,Minor,A lot,Frontal,mPFC not registered,0.71432636,240
+ABIDE_I,STANFORD,51167,Yes,Yes,lpc+,None,Minor,Occipital,Exstatriate cortex not fully registered,0.288408333,181
+ABIDE_I,STANFORD,51168,Yes,Yes,lpc+,None,None,,,0.215213966,180
+ABIDE_I,STANFORD,51169,Yes,Yes,lpc+,None,None,,,0.22764581,180
+ABIDE_I,STANFORD,51170,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered,0.162410056,180
+ABIDE_I,STANFORD,51171,Yes,Yes,lpc+,None,None,,,0.180341341,180
+ABIDE_I,STANFORD,51172,Yes,Yes,lpc+,None,None,,,0.248851955,180
+ABIDE_I,STANFORD,51173,Yes,Yes,lpc+,None,None,,,0.233269832,180
+ABIDE_I,STANFORD,51174,0,0,0,0,0,0,anatomical  is fully affected by susceptibility artifacts,0.166005439,240
+ABIDE_I,STANFORD,51175,Yes,Yes,lpc+,None,A lot,Frontal,vMPFC not fully registered,0.348273743,180
+ABIDE_I,STANFORD,51176,Yes,Yes,lpc+,None,None,,,0.582408939,180
+ABIDE_I,STANFORD,51177,0,0,0,0,0,0,,0.116194972,180
+ABIDE_I,STANFORD,51178,Yes,Yes,lpc+,None,None,,,0.238122905,180
+ABIDE_I,STANFORD,51179,Yes,Yes,lpc+,None,None,,,0.219540782,180
+ABIDE_I,STANFORD,51180,Yes,Yes,lpc+,None,None,,,0.153277824,240
+ABIDE_I,STANFORD,51181,Yes,Yes,lpc+,None,None,,,0.188561506,240
+ABIDE_I,STANFORD,51182,Yes,Yes,lpc+,None,None,,,0.084323013,240
+ABIDE_I,STANFORD,51183,Yes,Yes,lpc+,None,None,,,0.26664728,240
+ABIDE_I,STANFORD,51184,Yes,Yes,lpc+,None,None,,,0.134701255,240
+ABIDE_I,STANFORD,51185,Yes,Yes,lpc+,None,None,,,0.417518828,240
+ABIDE_I,STANFORD,51186,Yes,Yes,lpc+,None,None,,,0.379280335,240
+ABIDE_I,STANFORD,51187,Yes,Yes,lpc+,None,A lot,,right vMPFC not registered,0.136477406,240
+ABIDE_I,STANFORD,51188,Yes,Yes,lpc+,None,None,,,0.148961088,240
+ABIDE_I,STANFORD,51189,Yes,Yes,lpc+,None,None,,,0.350579498,240
+ABIDE_I,STANFORD,51190,Yes,Yes,lpc+,None,None,,,0.192614226,240
+ABIDE_I,STANFORD,51191,Yes,Yes,lpc+,None,None,,,0.248323013,240
+ABIDE_I,STANFORD,51192,Yes,Yes,lpc+,None,None,,,0.158583682,240
+ABIDE_I,STANFORD,51193,Yes,Yes,lpc+,None,None,,,0.320027615,240
+ABIDE_I,STANFORD,51194,Yes,Yes,lpc+,None,None,,,0.08502636,240
+ABIDE_I,STANFORD,51195,Yes,Yes,lpc+,None,None,,,0.651223849,240
+ABIDE_I,STANFORD,51196,Yes,Yes,lpc+,None,None,,,0.253271308,238
+ABIDE_I,STANFORD,51197,Yes,Yes,lpc+,None,None,,,0.122737657,240
+ABIDE_I,STANFORD,51198,Yes,Yes,lpc+,None,Minor,Occipital,Exstatriate cortex not fully registered,0.099187448,240
+ABIDE_I,STANFORD,51199,Yes,Yes,lpc+,None,None,,,0.426972574,238
+ABIDE_I,TRINITY,50232,Yes,Yes,lpc+,None,None,,,0.392767114,150
+ABIDE_I,TRINITY,50233,Yes,Yes,lpc+,None,None,,,0.12938255,150
+ABIDE_I,TRINITY,50234,Yes,Yes,lpc+,None,None,,,0.133653691,150
+ABIDE_I,TRINITY,50235,Yes,Yes,lpc+,None,None,,,0.211860403,150
+ABIDE_I,TRINITY,50236,Yes,Yes,lpc+,None,None,,,0.206069128,150
+ABIDE_I,TRINITY,50237,Yes,Yes,lpc+,None,None,,,0.162185235,150
+ABIDE_I,TRINITY,50238,Yes,Yes,lpc+,None,None,,,0.234251678,150
+ABIDE_I,TRINITY,50239,Yes,Yes,lpc+,None,Minor,Temporal lobe,Left temporal pole not fully registered,0.242977852,150
+ABIDE_I,TRINITY,50240,Yes,Yes,lpc+,None,None,,,0.165420805,150
+ABIDE_I,TRINITY,50241,Yes,Yes,lpc+,None,None,,,0.177779866,150
+ABIDE_I,TRINITY,50242,Yes,Yes,lpc+,None,None,,,1.220018121,150
+ABIDE_I,TRINITY,50243,Yes,Yes,lpc+,None,None,,,0.20682953,150
+ABIDE_I,TRINITY,50244,Yes,Yes,lpc+,None,None,,,0.344650336,150
+ABIDE_I,TRINITY,50245,Yes,Yes,lpc+,None,None,,,0.268114765,150
+ABIDE_I,TRINITY,50246,Yes,Yes,lpc+,None,Minor,Occipital,Lateral occipital cortex,0.24188792,150
+ABIDE_I,TRINITY,50247,Yes,Yes,lpc+,None,None,,,0.408299329,150
+ABIDE_I,TRINITY,50248,Yes,Yes,lpc+,None,None,,,0.144067114,150
+ABIDE_I,TRINITY,50249,Yes,Yes,lpc+,None,Minor,Temporal lobe,Left temporal pole not fully registered,0.299621477,150
+ABIDE_I,TRINITY,50250,Yes,Yes,lpc+,None,None,,,0.252754362,150
+ABIDE_I,TRINITY,50251,Yes,Yes,lpc+,None,None,,,0.252753691,150
+ABIDE_I,TRINITY,50252,Yes,Yes,lpc+,None,None,,,0.264695973,150
+ABIDE_I,TRINITY,50253,Yes,Yes,lpc+,None,None,,,0.167361074,150
+ABIDE_I,TRINITY,50254,Yes,Yes,lpc+,None,Minor,Frontal,Right vMPFC not fully registered,0.168584564,150
+ABIDE_I,TRINITY,50255,Yes,Yes,lpc+,None,A lot,Frontal,MPFC is issing in the right hemisphere,0.168811409,150
+ABIDE_I,TRINITY,50257,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered in the right hemisphere,0.19296443,150
+ABIDE_I,TRINITY,50259,Yes,Yes,lpc+,None,A lot,Frontal,MPFC not registered,0.197231544,150
+ABIDE_I,TRINITY,50260,Yes,Yes,lpc+,None,None,,,0.115862416,150
+ABIDE_I,TRINITY,50261,Yes,Yes,lpc+,None,None,,,0.15066443,150
+ABIDE_I,TRINITY,50262,Yes,Yes,lpc+,None,None,,,0.263822819,150
+ABIDE_I,TRINITY,50263,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC in right hemisphere not fully registered,0.125838926,150
+ABIDE_I,TRINITY,50264,Yes,Yes,lpc+,None,None,,,0.128895302,150
+ABIDE_I,TRINITY,50265,Yes,Yes,lpc+,None,None,,,0.499826175,150
+ABIDE_I,TRINITY,50266,Yes,Yes,lpc+,None,None,,,0.201625503,150
+ABIDE_I,TRINITY,50267,Yes,Yes,lpc+,None,None,,,0.16358792,150
+ABIDE_I,TRINITY,50268,Yes,Yes,lpc+,None,None,,,0.167301342,150
+ABIDE_I,TRINITY,50269,Yes,Yes,lpc+,None,None,,,0.203253691,150
+ABIDE_I,TRINITY,50270,Yes,Yes,lpc+,None,None,Frontal,vMPFC not fully registered,0.201469128,150
+ABIDE_I,TRINITY,50271,Yes,Yes,lpc+,None,None,,,0.155920134,150
+ABIDE_I,TRINITY,51132,Yes,Yes,lpc+,None,None,,,0.1275,150
+ABIDE_I,TRINITY,51133,Yes,Yes,lpc+,None,None,,,0.151434228,150
+ABIDE_I,TRINITY,51134,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.171685906,150
+ABIDE_I,TRINITY,51135,Yes,Yes,lpc+,None,None,,,0.126657047,150
+ABIDE_I,TRINITY,51136,Yes,Yes,lpc+,None,None,,,1.000740268,150
+ABIDE_I,TRINITY,51137,Yes,Yes,lpc+,None,None,,,0.20707651,150
+ABIDE_I,TRINITY,51138,Yes,Yes,lpc+,None,Minor,Occipital,Bilateral occipital cortex not fully registered,0.139508054,150
+ABIDE_I,TRINITY,51139,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.151237584,150
+ABIDE_I,TRINITY,51140,Yes,Yes,lpc+,None,None,,,0.118153691,150
+ABIDE_I,TRINITY,51141,Yes,Yes,lpc+,None,None,,,0.237484564,150
+ABIDE_I,TRINITY,51142,Yes,Yes,lpc+,None,None,,,0.171331544,150
+ABIDE_I,UCLA_1,51201,Yes,Yes,lpc+,None,None,,,0.653866379,120
+ABIDE_I,UCLA_1,51202,Yes,Yes,lpc+,None,None, , ,0.717926724,120
+ABIDE_I,UCLA_1,51203,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered,1.414522414,120
+ABIDE_I,UCLA_1,51204,Yes,Yes,lpc,None,Minor,Frontal,Ventral frontal cortex has issues,0.799410345,120
+ABIDE_I,UCLA_1,51205,Yes,Yes,lpc+,None,None,,,0.142448276,120
+ABIDE_I,UCLA_1,51206,Yes,Yes,lpc+,None,None,,,0.155399138,120
+ABIDE_I,UCLA_1,51207,Yes,Yes,lpc+,None,None,,,0.421457759,120
+ABIDE_I,UCLA_1,51208,Yes,Yes,lpc,None,None,,,0.238035345,120
+ABIDE_I,UCLA_1,51209,Yes,Yes,lpc,None,None,,,0.869661207,120
+ABIDE_I,UCLA_1,51210,Yes,Yes,lpc,None,None,,,0.169618103,120
+ABIDE_I,UCLA_1,51211,Yes,Yes,lpc,None,None, , ,0.264323276,120
+ABIDE_I,UCLA_1,51212,Yes,Yes,lpc+,None,None, , ,0.23852069,120
+ABIDE_I,UCLA_1,51213,Yes,Yes,lpc,None,None, , ,1.324991379,120
+ABIDE_I,UCLA_1,51214,Yes,Yes,lpc,None,None,,,0.234872414,120
+ABIDE_I,UCLA_1,51215,Yes,Yes,lpc,None,None,,,0.468347414,120
+ABIDE_I,UCLA_1,51216,Yes,Yes,lpc,None,None,,,0.266931034,120
+ABIDE_I,UCLA_1,51217,Yes,Yes,lpc,None,None,,,0.108749138,120
+ABIDE_I,UCLA_1,51218,Yes,Yes,lpc,None,None, , ,0.087031034,120
+ABIDE_I,UCLA_1,51219,Yes,Yes,lpc,None,None,,,0.485987931,120
+ABIDE_I,UCLA_1,51220,Yes,Yes,lpc,None,None,,,0.201431034,120
+ABIDE_I,UCLA_1,51221,Yes,Yes,lpc,None,None,,,0.176709483,120
+ABIDE_I,UCLA_1,51222,Yes,Yes,lpc+,None,None,,,0.142546552,120
+ABIDE_I,UCLA_1,51223,Yes,Yes,lpc,None,None,,,0.17627069,120
+ABIDE_I,UCLA_1,51224,Yes,Yes,lpc,None,None,,,0.103437069,120
+ABIDE_I,UCLA_1,51225,Yes,Yes,lpc,None,None,,,0.226381897,120
+ABIDE_I,UCLA_1,51226,Yes,Yes,lpc,None,None,,,0.227131897,120
+ABIDE_I,UCLA_1,51227,Yes,Yes,lpc,None,None,,,0.620630172,120
+ABIDE_I,UCLA_1,51228,Yes,Yes,lpc,None,None,,,2.304511207,120
+ABIDE_I,UCLA_1,51229,Yes,Yes,lpc,None,None,,,0.071996552,120
+ABIDE_I,UCLA_1,51230,Yes,Yes,lpc+,None,None, , ,0.072061207,120
+ABIDE_I,UCLA_1,51231,Yes,Yes,lpc+,None,None, , ,0.530111207,120
+ABIDE_I,UCLA_1,51232,0,0,0,0,0,Anatomical,Anatomical is broken,0,120
+ABIDE_I,UCLA_1,51233,0,0,0,0,0,Anatomical,Anatomical is broken,0,120
+ABIDE_I,UCLA_1,51234,Yes,Yes,lpc,None,None,,,0.077223276,120
+ABIDE_I,UCLA_1,51235,Yes,Yes,lpc+,None,None, , ,0.136113793,120
+ABIDE_I,UCLA_1,51236,Yes,Yes,lpc,None,None,,,0.414639655,120
+ABIDE_I,UCLA_1,51237,Yes,Yes,lpc, None,None,,,0.078650862,120
+ABIDE_I,UCLA_1,51238,Yes,Yes,lpc,None,None, , ,1.093166379,120
+ABIDE_I,UCLA_1,51239,Yes,Yes,lpc+,None,None, , ,0.295871552,120
+ABIDE_I,UCLA_1,51240,Yes,Yes,lpc+,None,None, , ,0.185775862,120
+ABIDE_I,UCLA_1,51241,Yes,Yes,lpc, None,None,,,0.082787069,120
+ABIDE_I,UCLA_1,51242,0,0,0,0,0,Anatomical,Anatomical is missing,,120
+ABIDE_I,UCLA_1,51243,0,0,0,0,0,Anatomical,Anatomical is broken,0,120
+ABIDE_I,UCLA_1,51244,0,0,0,0,0,Anatomical,Anatomical is broken,0,120
+ABIDE_I,UCLA_1,51245,0,0,0,0,0,Anatomical,Anatomical is broken,0,120
+ABIDE_I,UCLA_1,51246,0,0,0,0,0,Anatomical,Anatomical is broken,0,120
+ABIDE_I,UCLA_1,51247,0,0,0,0,0,Anatomical,Anatomical is missing,0,120
+ABIDE_I,UCLA_1,51248,Yes,Yes,lpc,None,None, , ,0.076784483,120
+ABIDE_I,UCLA_1,51249,Yes,Yes,lpc,None,None,,,0.189233621,120
+ABIDE_I,UCLA_1,51250,Yes,Yes,lpc+,None,None, , ,0.228646552,120
+ABIDE_I,UCLA_1,51251,Yes,Yes,lpc,None,None, , ,0.314491379,120
+ABIDE_I,UCLA_1,51252,Yes,Yes,lpc, None,None,,,0.177819828,120
+ABIDE_I,UCLA_1,51253,Yes,Yes,lpc+,None,None, , ,0.053699138,120
+ABIDE_I,UCLA_1,51254,Yes,Yes,lpc,None,None,,,0.117223276,120
+ABIDE_I,UCLA_1,51255,Yes,Yes,lpc, None,None,,,0.159801724,120
+ABIDE_I,UCLA_1,51256,Yes,Yes,lpc,None,None,,,0.104561207,120
+ABIDE_I,UCLA_1,51257,Yes,Yes,lpc,None,None,,,0.147048276,120
+ABIDE_I,UCLA_1,51258,Yes,Yes,lpc,None,None,,,1.642528448,120
+ABIDE_I,UCLA_1,51259,Yes,Yes,lpc,None,None,,,0.560485345,120
+ABIDE_I,UCLA_1,51260,Yes,Yes,lpc,None,None,,,0.088191379,120
+ABIDE_I,UCLA_1,51261,Yes,Yes,lpc,None,None,,,0.229940517,120
+ABIDE_I,UCLA_1,51262,Yes,Yes,lpc,None,None,,,0.172785345,120
+ABIDE_I,UCLA_1,51263,Yes,Yes,lpc+,None,None, , ,0.801838793,120
+ABIDE_I,UCLA_1,51264,Yes,Yes,lpc,None,None,,,0.151160345,120
+ABIDE_I,UCLA_1,51265,Yes,Yes,lpc,None,None,,,0.10774569,120
+ABIDE_I,UCLA_1,51266,Yes,Yes,lpc,None,None,,,0.254630172,120
+ABIDE_I,UCLA_1,51267,Yes,Yes,lpc+,None,None, , ,0.051473276,120
+ABIDE_I,UCLA_1,51268,Yes,Yes,lpc+,None,None, , ,0.140081897,120
+ABIDE_I,UCLA_1,51269,Yes,Yes,lpc,None,None,,,0.192113793,120
+ABIDE_I,UCLA_1,51270,0,0,0,0,0,Anatomical,Anatomical is missing,0,120
+ABIDE_I,UCLA_1,51271,Yes,Yes,lpc+,None,None, , ,0.082514655,120
+ABIDE_I,UCLA_1,51272,Yes,Yes,lpc,None,None,,,0.088718966,120
+ABIDE_I,UCLA_1,51273,Yes,Yes,lpc+,None,None, , ,0.13678189,120
+ABIDE_I,UCLA_1,51274,Yes,Yes,lpc,None,None,,,0.855576724,120
+ABIDE_I,UCLA_1,51275,Yes,Yes,lpc,None,None,,,0.163997414,120
+ABIDE_I,UCLA_1,51276,Yes,Yes,lpc,None,None,,,0.092668966,120
+ABIDE_I,UCLA_1,51277,Yes,Yes,lpc,None,None,,,0.075931897,120
+ABIDE_I,UCLA_1,51278,Yes,Yes,lpc,None,None,,,0.548048276,120
+ABIDE_I,UCLA_1,51279,Yes,Yes,lpc,None,None,,,0.0812,120
+ABIDE_I,UCLA_1,51280,Yes,Yes,lpc,None,None,,,0.090400862,120
+ABIDE_I,UCLA_1,51281,Yes,Yes,lpc,None,None,,,0.147272414,120
+ABIDE_I,UCLA_1,51282,Yes,Yes,lpc,None,None,,,0.203906034,120
+ABIDE_I,UCLA_2,51291,Yes,Yes,lpc+,None,None, , ,0.142507759,120
+ABIDE_I,UCLA_2,51292,Yes,,lpc+,None,None, , ,1.080624138,120
+ABIDE_I,UCLA_2,51293,Yes,,lpc+,None,None,  , ,0.099275,120
+ABIDE_I,UCLA_2,51294,Yes,,lpc+,None,None,,,0.369624138,120
+ABIDE_I,UCLA_2,51295,Yes,,lpc+,None,Minor,Frontal,frontal lobe - part of cerebellum,0.257411207,120
+ABIDE_I,UCLA_2,51296,Yes,,lpc+,Minor,None,Frontal/parietal/occipital,shimming issues in anatomical,1.732206034,120
+ABIDE_I,UCLA_2,51297,Yes,,lpc+,None,Minor,Frontal,parietal lobe - part of cerebellum,0.533116379,120
+ABIDE_I,UCLA_2,51298,Yes,,lpc+,None,None,,,0.304364655,120
+ABIDE_I,UCLA_2,51299,Yes,,lpc+,None,Minor,Frontal/parietal,parietal lobe - part of cerebellum not registered,0.657222414,120
+ABIDE_I,UCLA_2,51300,Yes,,lpc+,None,Minor,Frontal/occipital,parietal lobe - part of cerebellum - ,1.386175862,120
+ABIDE_I,UCLA_2,51301,Yes,Yes,lpc+,None,Minor,Frontal/occipital?,frontal lobe - part of cerebellum not registered,0.30427931,120
+ABIDE_I,UCLA_2,51302,Yes,Yes,lpc+,None,Minor,Frontal/occipital?,frontal lobe - occipital lobe missing ,0.274551724,120
+ABIDE_I,UCLA_2,51303,Yes,Yes,lpc+,None,Minor,Frontal/occipital?,"frontal lobe, occipital lobe missing ",0.059475,120
+ABIDE_I,UCLA_2,51304,Yes,Yes,lpc+,None,Minor,Frontal/occipital,frontal and occipital lobe missing & volumes missing in x & z,0.503438793,120
+ABIDE_I,UCLA_2,51305,Yes,Yes,lpc+,None,Minor,Frontal,small part of frontal lobe missing,0.13117069,120
+ABIDE_I,UCLA_2,51306,Yes,Yes,lpc+,None,Minor,Frontal/occipital,parietal and occipital lobe missing & volumes missing in x & z,0.270540517,120
+ABIDE_I,UCLA_2,51307,Yes,Yes,lpc+,None,Minor,Frontal/occipital,part of frontal lobe missing ,0.229733621,120
+ABIDE_I,UCLA_2,51308,Yes,Yes,lpc+,None,Minor,Frontal/occipital, part of frontal lobe and cerebellum missing ,0.081848276,120
+ABIDE_I,UCLA_2,51309,Yes,Yes,lpc+,None,Minor,Frontal/occipital,part of the frontal lobe missing ,0.251068966,120
+ABIDE_I,UCLA_2,51310,0,0,0,0,0,0,0,0,120
+ABIDE_I,UCLA_2,51311,Yes,Yes,lpc+,None,Minor,Frontal/parietal/occipital,part of frontal lobe missing,0.077593103,120
+ABIDE_I,UCLA_2,51312,Yes,Yes,lpc+,A lot,Minor,Frontal/occipital,shimming anatomical- temporal lobe not fully registered,0.233931897,120
+ABIDE_I,UCLA_2,51313,Yes,Yes,lpc+,None,Minor,Frontal/occipital, part of temporal and cerebellum not registered,0.089492241,120
+ABIDE_I,UCLA_2,51314,Yes,Yes,lpc+,,Minor,Frontal/occipital,shimming anatomical,0.303548276,120
+ABIDE_I,UCLA_2,51315,Yes,Yes,lpc+,None,Minor,Frontal/occipital,part of frontal and occipital lobe missing ,0.113372414,120
+ABIDE_I,UCLA_2,51316,Yes,Yes,lpc+,Minor,Minor,Frontal/parietal/occipital,frontal lobe missing ,0.156427586,120
+ABIDE_I,UCLA_2,51317,Yes,Yes,lpc+,None,Minor,Frontal/occipital,part of frontal and occipital lobe missing ,0.182687069,120
+ABIDE_I,UM_1,50272,Yes,Yes,lpc+,None,None,,parietal lobe & cerebellum,0.182668227,300
+ABIDE_I,UM_1,50273,Yes,Yes,lpc+,None,None,,,0.105509699,300
+ABIDE_I,UM_1,50274,Yes,Yes,lpc+,None,None,,,0.28127291,300
+ABIDE_I,UM_1,50275,Yes,Yes,lpc+,None,None,,,0.203619064,300
+ABIDE_I,UM_1,50276,Yes,Yes,lpc+,None,None,,,0.064230435,300
+ABIDE_I,UM_1,50277,Yes,Yes,lpc+,None,None,,,0.320176923,300
+ABIDE_I,UM_1,50278,Yes,Yes,lpc+,None,None,,,0.373419732,300
+ABIDE_I,UM_1,50279,Yes,Yes,lpc+,None,None,,,1.97196689,300
+ABIDE_I,UM_1,50280,Yes,Yes,lpc+,None,None,,,0.152700334,300
+ABIDE_I,UM_1,50281,Yes,Yes,lpc+,None,None,,,0.992941472,300
+ABIDE_I,UM_1,50282,Yes,Yes,lpc+,None,None,,,0.117322074,300
+ABIDE_I,UM_1,50283,Yes,Yes,lpc+,None,None,,issue with anaomical,0.37270903,300
+ABIDE_I,UM_1,50284,Yes,Yes,lpc+,None,None,,,0.247594649,300
+ABIDE_I,UM_1,50285,Yes,Yes,lpc+,None,None,,,0.178341806,300
+ABIDE_I,UM_1,50286,Yes,Yes,lpc+,None,None,,,1.97196689,300
+ABIDE_I,UM_1,50287,Yes,Yes,lpc+,None,None,,,0.111813712,300
+ABIDE_I,UM_1,50288,Yes,Yes,lpc+,None,None,,,0.503581271,300
+ABIDE_I,UM_1,50289,Yes,Yes,lpc+,Minor,None,Ocipital ventral,Unregister hole,0.272660201,300
+ABIDE_I,UM_1,50290,Yes,Yes,lpc+,None,None,,,0.171345819,300
+ABIDE_I,UM_1,50291,Yes,Yes,lpc+,Excessive,Minor,Frontal,Orientation issues - image is tilted,0.242759532,300
+ABIDE_I,UM_1,50292,Yes,Yes,lpc+,None,None,,,0.350284281,300
+ABIDE_I,UM_1,50293,Yes,Yes,lpc+,None,None,,,0.087576254,300
+ABIDE_I,UM_1,50294,Yes,Yes,lpc+,None,None,,,0.173345819,300
+ABIDE_I,UM_1,50295,Yes,Yes,lpc+,None,None,,,0.157169231,300
+ABIDE_I,UM_1,50296,Yes,Yes,lpc+,None,None,,,0.925217726,300
+ABIDE_I,UM_1,50297,Yes,Yes,lpc+,None,None,,,0.408052843,300
+ABIDE_I,UM_1,50298,Yes,Yes,lpc+,None,None,,,0.179413043,300
+ABIDE_I,UM_1,50299,Yes,Yes,lpc+,None,None,,,1.293520067,300
+ABIDE_I,UM_1,50300,Yes,Yes,lpc+,None,None,,,0.305313378,300
+ABIDE_I,UM_1,50301,Yes,Yes,lpc+,None,None,,,0.099543478,300
+ABIDE_I,UM_1,50302,Yes,Yes,lpc+,None,None,,,0.319986622,300
+ABIDE_I,UM_1,50303,Yes,Yes,lpc+,None,Minor,Temporal,temporal lobe & cerebellum,2.030420401,300
+ABIDE_I,UM_1,50304,Yes,Yes,lpc+,a lot,Minor,Frontal,OFC is missing,0.714442809,300
+ABIDE_I,UM_1,50305,Yes,Yes,lpc+,None,None,,shimming,0.908729431,300
+ABIDE_I,UM_1,50306,Yes,Yes,lpc+,None,None,,,0.893400669,300
+ABIDE_I,UM_1,50307,Yes,Yes,lpc+,None,None,,,5.85E+14,300
+ABIDE_I,UM_1,50308,Yes,Yes,lpc+,Minor,Minor,Frontal ,Left posterior frontal cortex movement artifacts,2.753122408,300
+ABIDE_I,UM_1,50309,Yes,Yes,lpc+,Excessive,Excessive,,Artifacts everywhere,1.167885619,300
+ABIDE_I,UM_1,50310,Yes,Yes,lpc+,Minor,None,Frontal ,frontal lobe not registered,0.122898328,300
+ABIDE_I,UM_1,50311,Yes,Yes,lpc+,a lot,A lot,Frontal/occipital,???,0.561422074,300
+ABIDE_I,UM_1,50312,Yes,Yes,lpc+,Minor,None,Frontal,part of frontal lobe missing part of cerebellum not registered,0.537790635,300
+ABIDE_I,UM_1,50313,Yes,Yes,lpc+,Minor,A lot,Temporal/parietal/occipital,"shimming structural part of temporal, parietal, occipital not fully registered",1.67558194,300
+ABIDE_I,UM_1,50314,Yes,Yes,lpc+,Minor,None,Frontal/occipital,"part of frontal, occipital parietal lobe not registered",0.131328428,300
+ABIDE_I,UM_1,50315,Yes,Yes,lpc+,Minor,None,Frontal/occipital,part of frontal temporal and occipital lobe not registered,0.166076923,300
+ABIDE_I,UM_1,50316,Yes,Yes,lpc+,Minor,Minor,Frontal/occipital,"part of frontal, occipital, parietal lobe not  fully registered",0.503869565,300
+ABIDE_I,UM_1,50317,Yes,Yes,lpc+,None,Minor,,,1.385801338,300
+ABIDE_I,UM_1,50318,Yes,Yes,lpc+,Minor,Minor,Occipital/cerebellum,part of occipital lobe and cerebellum missing ,0.18473612,300
+ABIDE_I,UM_1,50319,Yes,Yes,lpc+,Minor,Minor,Frontal/occipital,"part of frontal, occipital lobe & cerebellum not fully registered",0.159848161,300
+ABIDE_I,UM_1,50320,Yes,Yes,lpc+,Minor,Minor,Frontal/parietal lobe,"part of frontal, temporal, parietal, occipital lobe not fully registered",0.221590301,300
+ABIDE_I,UM_1,50321,Yes,Yes,lpc+,Minor,Minor,Frontal/occipital lobe,"part of frontal, occipital lobe not fully registered",0.116338796,300
+ABIDE_I,UM_1,50322,Yes,Yes,lpc+,Minor,Minor,Frontal/temporal/occipital,part of frontal occipital  &temporal lobe not fully registered,0.53041505,300
+ABIDE_I,UM_1,50323,Yes,Yes,lpc+,Minor,A lot,Frontal/temporal lobe,part of frontal and temporal lobe not fully registered,2.398381271,300
+ABIDE_I,UM_1,50324,Yes,Yes,lpc+,Minor,Minor,Frontal/parietal,"part of frontal, parietal lobe not fully registered",0.109265552,300
+ABIDE_I,UM_1,50325,Yes,Yes,lpc+,Minor,Minor,Frontal lobe,"part of frontal lobe, occipital and cerebellum not fully registered",0.252492642,300
+ABIDE_I,UM_1,50326,Yes,Yes,lpc+,Minor,Minor,Frontal,"part of frontal, parietal, occipital lobe not fully registered",0.36776388,300
+ABIDE_I,UM_1,50327,Yes,Yes,lpc+,Minor,Minor,Frontal/temporal,"part of frontal, temporal, parietal lobe not fully registered / part of occipital lobe missing",0.076480602,300
+ABIDE_I,UM_1,50328,Yes,Yes,lpc+,Minor,Minor,Occipital/frontal,part of occipital lobe missing & part of frontal lobe not fully registered,0.15337592,300
+ABIDE_I,UM_1,50329,Yes,Yes,lpc+,Minor,Minor,Frontal,part of frontal lobe missing and not fully registered,0.075940803,300
+ABIDE_I,UM_1,50330,Yes,Yes,lpc+,Minor,None,Frontal/parietal/occipital,"part of frontal, parietal, occipital,lobe not fully registered",0.150930769,300
+ABIDE_I,UM_1,50331,Yes,Yes,lpc+,Minor,Minor,Frontal/occipital,"part of frontal, parietal occipital lobe not fully registered",0.122665217,300
+ABIDE_I,UM_1,50332,Yes,Yes,lpc+,Minor,A lot,Frontal/occipital lobe,part of frontal and occipital lobe missing ,0.205541472,300
+ABIDE_I,UM_1,50333,Yes,Yes,lpc+,Minor,Minor,Frontal/occipital ,part of frontal and occipital lobe missing ,0.428432107,300
+ABIDE_I,UM_1,50334,Yes,Yes,lpc+,Minor,A lot,Frontal ,part of frontal lobe and cerebellum missing & part of frontal lobe not fully registered,0.135195318,300
+ABIDE_I,UM_1,50335,Yes,Yes,lpc+,Minor,Minor,Frontal,part of frontal lobe and cerebellum not fully registered ,0.085321739,300
+ABIDE_I,UM_1,50336,Yes,Yes,lpc+,Minor,Minor,Occipital,"part of frontal,  parietal and occipital lobe not fully registered",0.08077592,300
+ABIDE_I,UM_1,50337,Yes,Yes,lpc+,Minor,Minor,Frontal/occipital lobe,frontal and occipital lobe missing ,0.15943311,300
+ABIDE_I,UM_1,50338,Yes,Yes,lpc+,Minor,,Frontal/occipital lobe,part of frontal and occipital lobe missing & part of frontal lobe not fully registered,0.123036455,300
+ABIDE_I,UM_1,50339,Yes,Yes,lpc+,Minor,Minor,Frontal lobe,part of frontal lobe missing & parietal and occipital lobe not fully registered,0.094057525,300
+ABIDE_I,UM_1,50340,Yes,Yes,lpc+,Minor,Minor,Occipital,"part of frontal, temporal, parietal and occipital lobe not fully registered",0.085447492,300
+ABIDE_I,UM_1,50341,Yes,Yes,lpc+,Minor,Minor,Frontal,"part of frontal, temporal, parietal, occipital lobe not fully registered",0.087923411,300
+ABIDE_I,UM_1,50342,Yes,Yes,lpc+,Minor,None,Frontal,"part of frontal, parietal and temporal lobe not fully registered",0.199195318,300
+ABIDE_I,UM_1,50343,Yes,Yes,lpc+,Minor,A lot,Frontal/occipital ,part of frontal and occipital lobe missing & part of frontal lobe not fully registered,0.297352174,300
+ABIDE_I,UM_1,50344,Yes,Yes,lpc+,Minor,Minor,Frontal/occipital ,part of frontal and occipital lobe missing & part of frontal and temporal lobe not fully registered ,0.090249833,300
+ABIDE_I,UM_1,50345,Yes,Yes,lpc+,Excessive,Excessive,Frontal,frontal lobe missing ,0.15360301,300
+ABIDE_I,UM_1,50346,Yes,Yes,lpc+,Minor,None,Frontal/occipital ,"part of frontal and occipital lobe missing & part of frontal, parietal and temporal lobe not fully registered",0.142462876,300
+ABIDE_I,UM_1,50347,Yes,Yes,lpc+,Minor,Minor,Temporal,"part of frontal, parietal, temporal and occipital lobe not fully registered",0.112524749,300
+ABIDE_I,UM_1,50348,Yes,Yes,lpc+,Minor,Minor,Frontal ,"part of frontal, parietal and occipital lobe not fully registered",0.183413043,300
+ABIDE_I,UM_1,50349,Yes,Yes,lpc+,Minor,Minor,Frontal,part of frontal and occipital lobe not fully registered,0.113893311,300
+ABIDE_I,UM_1,50350,Yes,Yes,lpc+,Minor,Minor,Frontal,"part of frontal lobe missing & part of frontal, parietal and occipital lobe not fully registered",0.121873579,300
+ABIDE_I,UM_1,50351,Yes,Yes,lpc+,Minor,Minor,Frontal,vOFC missing ,0.108093645,300
+ABIDE_I,UM_1,50352,Yes,Yes,lpc+,Minor,Minor,Frontal,"part of frontal lobe missing & part of frontal, temporal, parietal and occipital lobe not fully registered",0.270883278,300
+ABIDE_I,UM_1,50353,Yes,Yes,lpc+,Minor,Minor,Frontal,part of frontal lobe missing & part of occipital lobe not fully registered,0.114891973,300
+ABIDE_I,UM_1,50354,Yes,Yes,lpc+,Minor,Minor,Occipital,"frontal, parietal, occipital lobe not fully registered",0.658673913,300
+ABIDE_I,UM_1,50355,Yes,Yes,lpc+,None,None,,,0.16581204,300
+ABIDE_I,UM_1,50356,Yes,Yes,lpc+,None,None,,,0.084355518,300
+ABIDE_I,UM_1,50357,Yes,Yes,lpc+,Minor,Minor,Frontal/occipital ,"tilted fontal, some left occipital is missing",0.11792709,300
+ABIDE_I,UM_1,50358,Yes,Yes,lpc+,None,None,,,0.071684281,300
+ABIDE_I,UM_1,50359,Yes,Yes,lpc+,None,None,,,0.560942809,300
+ABIDE_I,UM_1,50360,Yes,Yes,lpc+,None,None,,,0.114141806,300
+ABIDE_I,UM_1,50361,Yes,Yes,lpc+,None,None,,,0.118695652,300
+ABIDE_I,UM_1,50362,Yes,Yes,lpc+,Minor,None,Temporal,motion issues - mostly R temporal,0.097651505,300
+ABIDE_I,UM_1,50363,Yes,Yes,lpc+,None,None,,,0.266750502,300
+ABIDE_I,UM_1,50364,Yes,Yes,lpc+,None,None,,,0.323168227,300
+ABIDE_I,UM_1,50365,Yes,Yes,lpc+,None,Minor,Temporal,temporal lobe ventral frontal not fully registered,0.136541806,300
+ABIDE_I,UM_1,50366,Yes,Yes,lpc+,None,None,,,0.237672575,300
+ABIDE_I,UM_1,50367,Yes,Yes,lpc+,Minor,Minor,Temporal,inferior temporal gyrus and temporal pole not registered,0.19066689,300
+ABIDE_I,UM_1,50368,Yes,Yes,lpc+,Minor,Minor,Frontal,vMPFC not fully registered,0.182927425,300
+ABIDE_I,UM_1,50369,Yes,Yes,lpc+,None,Minor,Temporal,inferior temporal gyrus not fully registered,0.125868227,300
+ABIDE_I,UM_1,50370,Yes,Yes,lpc+,None,None,,,0.258743478,300
+ABIDE_I,UM_1,50371,Yes,Yes,lpc+,Minor,Minor,anatomical,shimming and lesions ?,0.557889632,300
+ABIDE_I,UM_1,50372,Yes,Yes,lpc+,None,None,,,0.087735786,300
+ABIDE_I,UM_1,50373,Yes,Yes,lpc+,None,None,,,0.196481605,300
+ABIDE_I,UM_1,50374,Yes,Yes,lpc+,None,None,,,0.081161538,300
+ABIDE_I,UM_1,50375,Yes,Yes,lpc+,None,None,,,0.071989632,300
+ABIDE_I,UM_1,50376,Yes,Yes,lpc+,None,None,,,0.940493645,300
+ABIDE_I,UM_1,50377,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered,0.129719398,300
+ABIDE_I,UM_1,50378,Yes,Yes,lpc+,None,None,,,0.333114716,300
+ABIDE_I,UM_1,50379,Yes,Yes,lpc+,None,Minor,Temporal,inferior temporal gyrus and temporal pole not registered,0.184254515,300
+ABIDE_I,UM_1,50380,Yes,Yes,lpc+,None,Minor,Temporal,inferior temporal gyrus and temporal pole not registered,0.43241505,300
+ABIDE_I,UM_1,50381,Yes,Yes,lpc+,None,None,,,0.561589632,300
+ABIDE_I,UM_2,50382,Yes,yes,lpc+,None,None,,,0.160050502,300
+ABIDE_I,UM_2,50383,Yes,Yes,lpc+,None,Minor,Temporal,temporal pole not fully registered,0.859589967,300
+ABIDE_I,UM_2,50385,Yes,Yes,lpc+,None,None,,,0.134071572,300
+ABIDE_I,UM_2,50386,Yes,Yes,lpc+,None,None, ,,0.115878261,300
+ABIDE_I,UM_2,50387,Yes,Yes,lpc+,None,None,, ,0.176831104,300
+ABIDE_I,UM_2,50388,Yes,Yes,lpc+,None,None, , ,0.213716722,300
+ABIDE_I,UM_2,50390,Yes,Yes,lpc+,None,None, , ,0.143447157,300
+ABIDE_I,UM_2,50391,Yes,Yes,lpc+,None,Minor,Temporal,inferior temporal gyrus and temporal pole not registered,0.205510702,300
+ABIDE_I,UM_2,50397,Yes,Yes,lpc+,None,None, , ,0.078062207,300
+ABIDE_I,UM_2,50399,no,no,lpc+,,,,,0.17182709,
+ABIDE_I,UM_2,50402,Yes,Yes,lpc+,Minor,Minor,Temporal/occipital,inferior temporal gyrus and part of occipital not fully registered,0.069480936,300
+ABIDE_I,UM_2,50403,Yes,Yes,lpc+,None,None, , ,0.474922408,300
+ABIDE_I,UM_2,50404,Yes,Yes,lpc+,None,None, , ,0.101354181,300
+ABIDE_I,UM_2,50405,Yes,Yes,lpc+,None,None, , ,0.114504682,300
+ABIDE_I,UM_2,50406,Yes,Yes,lpc+,None,None,, ,0.32280301,300
+ABIDE_I,UM_2,50407,Yes,Yes,lpc+,None,None, , ,0.110077258,300
+ABIDE_I,UM_2,50408,,,,,,,,0.108937124,
+ABIDE_I,UM_2,50410,Yes,Yes,lpc+,Minor,Minor,Frontal,"part of frontal,  lobe not fully registered",0.314580602,300
+ABIDE_I,UM_2,50411,Yes,Yes,lpc+,None,None, , ,0.399991639,300
+ABIDE_I,UM_2,50412,Yes,Yes,lpc+,None,None, , ,0.168127425,300
+ABIDE_I,UM_2,50413,Yes,Yes,lpc+,Minor,A lot,Occipital,part of parietal and occipital lobe not fully registered,0.203984615,300
+ABIDE_I,UM_2,50414,Yes,Yes,lpc+,Minor,Minor,Occipital,part of occipital lobe not fully registered,0.120600669,300
+ABIDE_I,UM_2,50415,Yes,Yes,lpc+,Minor,A lot,Occipital,"part of frontal, temporal, parietal, and occipital lobe not fully registered",0.122854515,300
+ABIDE_I,UM_2,50416,Yes,Yes,lpc+,None,None, , ,0.202111706,300
+ABIDE_I,UM_2,50417,Yes,Yes,lpc+,None,None,,,0.08895786,300
+ABIDE_I,UM_2,50418,,,,,,,,0.190794983,
+ABIDE_I,UM_2,50419,Yes,Yes,lpc+,None,None, , ,0.100933445,300
+ABIDE_I,UM_2,50421,Yes,Yes,lpc+,None,None, , ,0.128069565,300
+ABIDE_I,UM_2,50422,Yes,Yes,lpc+,None,None, , ,0.56857893,300
+ABIDE_I,UM_2,50423,Yes,Yes,lpc+,None,None, , ,0.30561204,300
+ABIDE_I,UM_2,50424,Yes,Yes,lpc+,Minor,Minor,Temporal,temporal pole not fully registered,0.111840134,300
+ABIDE_I,UM_2,50425,Yes,Yes,lpc+,Minor,Minor,Temporal,temporal pole not fully registered,0.098338127,300
+ABIDE_I,UM_2,50426,Yes,Yes,lpc+,None,None, , ,0.115803679,300
+ABIDE_I,UM_2,50427,Yes,Yes,lpc+,Minor,Minor,Temporal,inferior temporal gyrus and part of occipital not fully registered,0.08919699,300
+ABIDE_I,UM_2,50428,Yes,Yes,lpc+,None,None, , ,0.09269097,300
+ABIDE_I,USM,50432,0,0,0,0,0,0,0,0,
+ABIDE_I,USM,50433,Yes,Yes,lpc,None,None,,,0.116952564,240
+ABIDE_I,USM,50434,Yes,Yes,lpc,None,Minor,Frontal,Couple of slices of OFC missing,0.129172222,240
+ABIDE_I,USM,50435,Yes,Yes,lpc,None,None,,,0.233090171,240
+ABIDE_I,USM,50436,Yes,Yes,lpc,None,None,,,0.157734188,240
+ABIDE_I,USM,50437,Yes,Yes,lpc,Minor,Minor,Frontal,Couple of slices of OFC missing/ There is an angel's ring around the skull maybe from motion issues,0.368207692,240
+ABIDE_I,USM,50438,Yes,Yes,lpc,None,None,,,0.216303846,240
+ABIDE_I,USM,50439,Yes,Yes,lpc,None,None,,,0.121217094,240
+ABIDE_I,USM,50440,Yes,Yes,lpc,None,None,,,0.17385812,240
+ABIDE_I,USM,50441,Yes,Yes,lpc,None,None,,,0.148555983,240
+ABIDE_I,USM,50442,Yes,Yes,lpc,None,None,,,0.123872222,240
+ABIDE_I,USM,50443,Yes,Yes,lpc,None,None,,,0.158333333,240
+ABIDE_I,USM,50444,Yes,Yes,lpc,None,Minor,Frontal,Couple of slices of right OFC missing,0.275392735,240
+ABIDE_I,USM,50445,Yes,Yes,lpc,None,None,,,0.236907692,240
+ABIDE_I,USM,50446,0,0,0,0,0,0,0,0,
+ABIDE_I,USM,50447,Yes,Yes,lpc,Minor,None,Motion,There is an angel's ring around the skull maybe from motion issues,0.204316239,240
+ABIDE_I,USM,50448,Yes,Yes,lpc,None,None,,,0.327417094,240
+ABIDE_I,USM,50449,Yes,Yes,lpc,None,None,,,0.125255556,240
+ABIDE_I,USM,50450,Yes,Yes,lpc,None,None,,,0.313374359,240
+ABIDE_I,USM,50451,Yes,Yes,lpc,None,Minor,Temporal,Couple slices missing in temporal lobe,0.531858547,240
+ABIDE_I,USM,50452,Yes,Yes,lpc,None,None,,,0.111742308,240
+ABIDE_I,USM,50453,Yes,Yes,lpc,Minor,None,Motion,High values whole brain due to motion,0.881266239,240
+ABIDE_I,USM,50454,Yes,Yes,lpc,None,None,,,0.094691026,240
+ABIDE_I,USM,50455,Yes,Yes,lpc,None,None,,,0.243348291,240
+ABIDE_I,USM,50456,Yes,Yes,lpc,None,None,,,0.286580342,240
+ABIDE_I,USM,50457,Yes,Yes,lpc,None,None,,,0.132614103,240
+ABIDE_I,USM,50458,0,0,0,0,0,0,0,0,
+ABIDE_I,USM,50459,Yes,Yes,lpc,None,None,,,0.118045299,240
+ABIDE_I,USM,50460,Yes,Yes,lpc,None,None,,,0.095626923,240
+ABIDE_I,USM,50461,Yes,Yes,lpc,None,None,,,0.215728205,240
+ABIDE_I,USM,50462,Yes,Yes,lpc,None,None,,,0.129133333,240
+ABIDE_I,USM,50463,Yes,Yes,lpc,None,None,,,0.25390641,240
+ABIDE_I,USM,50464,Yes,Yes,lpc,None,None,,,0.133070085,240
+ABIDE_I,USM,50465,Yes,Yes,lpc,None,None,,,0.190721795,240
+ABIDE_I,USM,50466,Yes,Yes,lpc,None,None,,,0.164826496,240
+ABIDE_I,USM,50467,Yes,Yes,lpc,None,None,,,0.19397265,240
+ABIDE_I,USM,50468,Yes,Yes,lpc,None,None,,,0.062786752,240
+ABIDE_I,USM,50469,Yes,Yes,lpc,None,None,,,0.14691453,240
+ABIDE_I,USM,50470,Yes,Yes,lpc,None,None,,,0.465025641,240
+ABIDE_I,USM,50471,Yes,Yes,lpc,None,None,,,0.115842735,240
+ABIDE_I,USM,50472,Yes,Yes,lpc,None,None,,,0.102105983,240
+ABIDE_I,USM,50473,Yes,Yes,lpc,None,None,,,0.144386325,240
+ABIDE_I,USM,50474,Yes,Yes,lpc,None,None,,,0.215742308,240
+ABIDE_I,USM,50475,Yes,Yes,lpc,None,None,,,0.152849145,240
+ABIDE_I,USM,50476,Yes,Yes,lpc,None,Minor,Frontal,OFC,0.138725641,240
+ABIDE_I,USM,50477,Yes,Yes,lpc,None,None,,,0.183587607,240
+ABIDE_I,USM,50478,Yes,Yes,lpc,None,None,,,0.450376068,240
+ABIDE_I,USM,50479,Yes,Yes,lpc,None,None,,,0.428094017,240
+ABIDE_I,USM,50480,Yes,Yes,lpc,None,None,,,0.219379915,240
+ABIDE_I,USM,50481,Yes,Yes,lpc,None,None,,,0.831830342,240
+ABIDE_I,USM,50482,Yes,Yes,lpc,None,None,,,0.153941026,240
+ABIDE_I,USM,50483,Yes,Yes,lpc,Minor,None,Motion,High values in the medial brain maybe due to motion,0.320844872,240
+ABIDE_I,USM,50484,Yes,Yes,lpc,None,None,,,0.079927778,240
+ABIDE_I,USM,50485,Yes,Yes,lpc,None,None,,,0.11069359,240
+ABIDE_I,USM,50486,Yes,Yes,lpc,None,None,,,0.246491026,240
+ABIDE_I,USM,50487,0,0,0,0,0,0,0,0,
+ABIDE_I,USM,50488,Yes,Yes,lpc,None,None,,,0.273759829,240
+ABIDE_I,USM,50489,Yes,Yes,lpc,None,None,,,1.493511966,240
+ABIDE_I,USM,50490,Yes,Yes,lpc,None,None,,,0.398900427,240
+ABIDE_I,USM,50491,Yes,Yes,lpc,None,None,,,0.093798718,240
+ABIDE_I,USM,50492,Yes,Yes,lpc,None,None,,,0.286833761,240
+ABIDE_I,USM,50493,Yes,Yes,lpc,None,None,,,0.204518376,240
+ABIDE_I,USM,50494,Yes,Yes,lpc,None,None,,,0.184629487,240
+ABIDE_I,USM,50495,Yes,Yes,lpc,None,None,,,0.142145726,240
+ABIDE_I,USM,50496,Yes,Yes,lpc,None,None,,,0.313841453,240
+ABIDE_I,USM,50497,Yes,Yes,lpc,None,None,,,0.169585897,240
+ABIDE_I,USM,50498,Yes,Yes,lpc,None,None,,,0.158032051,240
+ABIDE_I,USM,50499,Yes,Yes,lpc,None,None,,,0.123318803,240
+ABIDE_I,USM,50500,Yes,Yes,lpc,None,Minor,Frontal,Couple of slices of right OFC missing,0.067444444,240
+ABIDE_I,USM,50501,Yes,Yes,lpc,None,None,,,0.423678632,240
+ABIDE_I,USM,50502,Yes,Yes,lpc,None,None,,,0.202310256,240
+ABIDE_I,USM,50503,Yes,Yes,lpc,None,None,,,0.139841026,240
+ABIDE_I,USM,50504,Yes,Yes,lpc,None,None,,,0.281494872,240
+ABIDE_I,USM,50505,Yes,Yes,lpc,None,None,,,0.045650855,240
+ABIDE_I,USM,50506,Yes,Yes,lpc,None,None,,,0.169733333,240
+ABIDE_I,USM,50507,Yes,Yes,lpc,None,None,,,0.302831197,240
+ABIDE_I,USM,50508,Yes,Yes,lpc,None,None,,,0.542678632,240
+ABIDE_I,USM,50509,Yes,Yes,lpc,None,None,,,0.862299573,240
+ABIDE_I,USM,50510,Yes,Yes,lpc,None,None,,,0.628482051,240
+ABIDE_I,USM,50511,Yes,Yes,lpc,None,None,,,0.543361538,240
+ABIDE_I,USM,50512,Yes,Yes,lpc,None,None,,,0.218262393,240
+ABIDE_I,USM,50513,Yes,Yes,lpc,None,None,,,0.168855556,240
+ABIDE_I,USM,50514,Yes,Yes,lpc,None,Minor,Occipital,posterior ventral regions/Occipital more,0.128968803,240
+ABIDE_I,USM,50515,Yes,Yes,lpc,None,None,,,0.182356838,240
+ABIDE_I,USM,50516,Yes,Yes,lpc,None,None,,,0.087630769,240
+ABIDE_I,USM,50517,Yes,Yes,lpc,None,None,,,0.10644359,240
+ABIDE_I,USM,50518,Yes,Yes,lpc,None,None,,,0.133537607,240
+ABIDE_I,USM,50519,Yes,Yes,lpc,None,None,,,0.177848718,240
+ABIDE_I,USM,50520,Yes,Yes,lpc,None,None,,,0.235231624,240
+ABIDE_I,USM,50521,Yes,Yes,lpc,None,None,,,0.291204274,240
+ABIDE_I,USM,50522,Yes,Yes,lpc,None,None,,,1.033067094,240
+ABIDE_I,USM,50523,Yes,Yes,lpc,None,None,,,0.36337094,240
+ABIDE_I,USM,50524,Yes,Yes,lpc,None,None, , ,0.240711538,240
+ABIDE_I,USM,50525,Yes,Yes,lpc,None,None,,,0.091612821,240
+ABIDE_I,USM,50526,Yes,Yes,lpc,None,None,,,0.094842174,236
+ABIDE_I,USM,50527,Yes,Yes,lpc,None,None,,,0.086285897,240
+ABIDE_I,USM,50528,Yes,Yes,lpc,None,None,,,0.112931197,240
+ABIDE_I,USM,50529,Yes,Yes,lpc,None,None,,,0.27831453,240
+ABIDE_I,USM,50530,Yes,Yes,lpc,None,None,,,0.269766667,240
+ABIDE_I,USM,50531,Yes,Yes,lpc,None,None,,,1.253173504,240
+ABIDE_I,USM,50532,Yes,Yes,lpc,None,None,,,0.218471795,240
+ABIDE_I,YALE,50551,Yes,Yes,lpc,None,None,,,0.064164948,200
+ABIDE_I,YALE,50552,Yes,Yes,lpc,None,None,,,0.106204124,200
+ABIDE_I,YALE,50553,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50554,Yes,Yes,lpc,None,None,,,0.103133505,200
+ABIDE_I,YALE,50555,Yes,Yes,lpc,None,Minor,Midline,"There is a whole in the registration image, in the ventricles position",0.114866495,200
+ABIDE_I,YALE,50556,Yes,Yes,lpc,None,None,,,0.103248969,200
+ABIDE_I,YALE,50557,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50558,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50559,Yes,Yes,lpc,None,None,,,0.389797938,200
+ABIDE_I,YALE,50560,Yes,Yes,lpc,None,None,,,0.190537113,200
+ABIDE_I,YALE,50561,Yes,Yes,lpc ,None,None,,,0.129769588,200
+ABIDE_I,YALE,50562,Yes,Yes,lpc,None,None,,,0.293968557,200
+ABIDE_I,YALE,50563,Yes,Yes,lpc+,None,None,,,0.260869588,200
+ABIDE_I,YALE,50564,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50565,Yes,Yes,lpc,Minor,None,Frontal ,Left posterior frontal cortex,0.485189691,200
+ABIDE_I,YALE,50566,Yes,Yes,lpc,None,None,,,0.098095876,200
+ABIDE_I,YALE,50567,Yes,Yes,lpc+,,Excessive,Occipital/Cerebellum,Occipital/Cerebellum missing,0.157024742,200
+ABIDE_I,YALE,50568,Yes,Yes,lpc,Minor,Minor,Occipital/Cerebellum,Occipital Cerebellum under the cortex are missing. It seems that what is missing is either CSF or non GM tissue,0.084523711,200
+ABIDE_I,YALE,50569,Yes,Yes,lpc,None,None,,"Over-large head,small issue with anatomical image",0.1226,200
+ABIDE_I,YALE,50570,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50571,Yes,Yes,lpc,None,None,,,0.302783505,200
+ABIDE_I,YALE,50572,Yes,Yes,lpc,Minor,A lot,Occipital/Cerebellum,"General issues with posterior ventral parts of the brain, mostly Occipital and Cerebellum",0.103895361,200
+ABIDE_I,YALE,50573,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50574,Yes,Yes,lpc+,,Excessive,Occipital/Cerebellum,Occipital/Cerebellum an parietal lobes missing,0.149887113,200
+ABIDE_I,YALE,50575,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50576,Yes,Yes,lpc,None,None,,,0.127655155,200
+ABIDE_I,YALE,50577,Yes,Yes,lpc,Minor,Minor,Temporal,"Ventral Left Hemisphere is affected alittle bid, mostly temporal lobe",0.241391753,200
+ABIDE_I,YALE,50578,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50601,Yes,Yes,lpc+,,Excessive,Occipital/Cerebellum,Occipital/Cerebellum missing,0.292918041,200
+ABIDE_I,YALE,50602,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50603,Yes,Yes,lpc+,,A lot,Occipital/Cerebellum,There are holes in posterior of the brain at all planes,0.114547423,200
+ABIDE_I,YALE,50604,Yes,Yes,lpc,None,None,,,0.144544845,200
+ABIDE_I,YALE,50605,Yes,Yes,lpc+,,A lot,Frontal,OFC is missing,0.09200567,200
+ABIDE_I,YALE,50606,Yes,Yes,lpc,None,None,,,0.108632474,200
+ABIDE_I,YALE,50607,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50608,Yes,Yes,lpc,None,None,,,0.403206701,200
+ABIDE_I,YALE,50609,Yes,Yes,lpc,None,None,,,0.278501546,200
+ABIDE_I,YALE,50610,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50611,Yes,Yes,lpc,None,Minor,Occipital,"Reg. image extends in the skull behind Occipital in 1,2 slides",0.162413402,200
+ABIDE_I,YALE,50612,Yes,Yes,lpc+,None,None,,,0.169518557,200
+ABIDE_I,YALE,50613,Yes,Yes,lpc,None,None,,,0.127072165,200
+ABIDE_I,YALE,50614,Yes,Yes,lpc,Minor,Minor,Frontal,Reg. image extends in the skul in a couple frontal slides,0.218358763,200
+ABIDE_I,YALE,50615,Yes,Yes,lpc,None,None,,,0.722252577,200
+ABIDE_I,YALE,50616,Yes,Yes,lpc,None,None,,,0.234997423,200
+ABIDE_I,YALE,50617,Yes,Yes,lpc,None,None,,,0.205523196,200
+ABIDE_I,YALE,50618,Yes,Yes,lpc,None,None,,,0.689540206,200
+ABIDE_I,YALE,50619,Yes,Yes,lpc,None,None,,,0.148438144,200
+ABIDE_I,YALE,50620,Yes,Yes,lpc,Minor,Minor,Cerebellum,Cerebellum not well registered,0.208543814,200
+ABIDE_I,YALE,50621,Yes,Yes,lpc+,None,None,,,0.151098454,200
+ABIDE_I,YALE,50622,Yes,Yes,lpc,None,None,,,0.484314948,200
+ABIDE_I,YALE,50623,Yes,Yes,lpc+,Minor,Minor,Occipital/Cerebellum,Some slices on Occipital/Cerebellum are problematic,0.092824742,200
+ABIDE_I,YALE,50624,0,0,0,0,0,0,0,0,200
+ABIDE_I,YALE,50625,Yes,Yes,lpc,None,None,,,0.07253299,200
+ABIDE_I,YALE,50626,Yes,Yes,lpc,Minor,Minor,Occipital/Cerebellum,Occipital/Cerebellum is incomplete in some slices,0.407942784,200
+ABIDE_I,YALE,50627,Yes,Yes,lpc,Minor,Minor,Occipital/Cerebellum,Occipital/Cerebellum is incomplete in some slices,0.191893299,200
+ABIDE_I,YALE,50628,Yes,Yes,lpc,None,None,,,0.124339175,200
+ABIDE_II,BNI,29006,Yes,Yes,lpc+,None,None,,,0.486847059,120
+ABIDE_II,BNI,29007,Yes,Yes,lpc+,None,None,,,0.167012605,120
+ABIDE_II,BNI,29008,Yes,Yes,lpc+,None,None,,,0.359031092,120
+ABIDE_II,BNI,29009,Yes,Yes,lpc+,Minor,Minor,Frontal,Right hemisphere vMPFC not fully registered,0.304880672,120
+ABIDE_II,BNI,29010,Yes,Yes,lpc+,Minor,Minor,Frontal,Right hemisphere vMPFC not fully registered,0.310809244,120
+ABIDE_II,BNI,29011,Yes,Yes,lpc+,None,None,,,0.305120168,120
+ABIDE_II,BNI,29012,Yes,Yes,lpc+,None,None,,,0.94607563,120
+ABIDE_II,BNI,29013,Yes,Yes,lpc+,None,None,,,0.149957983,120
+ABIDE_II,BNI,29014,Yes,Yes,lpc+,None,None,,,0.280094958,120
+ABIDE_II,BNI,29015,Yes,Yes,lpc+,None,A lot,Frontal,Superior parts of the frontal lobe are missing bilatterally ,0.123768067,120
+ABIDE_II,BNI,29016,Yes,Yes,lpc+,None,A lot,Frontal,Superior parts of the frontal lobe are missing bilatterally ,0.413098319,120
+ABIDE_II,BNI,29017,Yes,Yes,lpc+,None,None,,,0.252896639,120
+ABIDE_II,BNI,29018,Yes,Yes,lpc+,None,None,,,0.303531092,120
+ABIDE_II,BNI,29019,Yes,Yes,lpc+,None,Excessive,Frontal,Right hemisphere not registered,0.201477311,120
+ABIDE_II,BNI,29020,0,0,0,0,0,0,Huge tilt in anatomical,1.130043697,120
+ABIDE_II,BNI,29021,Yes,Yes,lpc+,None,None,,,0.128742857,120
+ABIDE_II,BNI,29022,Yes,Yes,lpc+,None,Excessive,Frontal,Not registered at all,0.584684874,120
+ABIDE_II,BNI,29023,Yes,Yes,lpc+,None,None,,,0.266794958,120
+ABIDE_II,BNI,29024,Yes,Yes,lpc+,None,None,,,0.306172269,120
+ABIDE_II,BNI,29025,Yes,Yes,lpc+,None,Excessive,,Nothing registered,0.169112605,120
+ABIDE_II,BNI,29026,0,0,0,0,0,,,0.384939496,120
+ABIDE_II,BNI,29027,Yes,Yes,lpc+,None,Excessive,Frontal,Nothing registered,0.171915126,120
+ABIDE_II,BNI,29028,Yes,Yes,lpc+,None,Excessive,Frontal,Nothing registered,0.452057143,120
+ABIDE_II,BNI,29029,Yes,Yes,lpc+,None,A lot,Frontal,Superior frontal lobe not registered bilatterally,0.363618487,120
+ABIDE_II,BNI,29030,Yes,Yes,lpc+,None,None,,,0.333415126,120
+ABIDE_II,BNI,29031,Yes,Yes,lpc+,None,None,,,0.31567563,120
+ABIDE_II,BNI,29032,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.358182353,120
+ABIDE_II,BNI,29033,Yes,Yes,lpc+,None,Excessive,Frontal,Nothing registered,0.244036975,120
+ABIDE_II,BNI,29034,Yes,Yes,lpc+,None,None,,,0.159231933,120
+ABIDE_II,BNI,29035,Yes,Yes,lpc+,None,None,,,0.128836135,120
+ABIDE_II,BNI,29036,Yes,Yes,lpc+,None,Minor,Temporal,Inferion temporal lobe not fully registered bilatterally,0.520353782,120
+ABIDE_II,BNI,29037,Yes,Yes,lpc+,None,None,,,0.423856303,120
+ABIDE_II,BNI,29038,Yes,Yes,lpc+,None,None,,,0.348043698,120
+ABIDE_II,BNI,29039,Yes,Yes,lpc+,None,None,,,0.421002521,120
+ABIDE_II,BNI,29040,Yes,Yes,lpc+,None,Excessive,Frontal,Nothing registered,0.210063866,120
+ABIDE_II,BNI,29041,Yes,Yes,lpc+,None,None,,,0.473386555,120
+ABIDE_II,BNI,29042,Yes,Yes,lpc+,None,Minor,Frontal,Superior frontal lobe not fully registered bilaterally,0.281459664,120
+ABIDE_II,BNI,29043,0,0,0,0,0,0,0,0.212339496,120
+ABIDE_II,BNI,29044,Yes,Yes,lpc+,None,None,,,0.351209244,120
+ABIDE_II,BNI,29045,Yes,Yes,lpc+,None,Minor,Temporal,Inferior temporal gyrus not fully registered bilaterally ,0.345910084,120
+ABIDE_II,BNI,29046,Yes,Yes,lpc+,None,Minor,Temporal,Inferior temporal gyrus not fully registered bilaterally ,0.378536975,120
+ABIDE_II,BNI,29047,Yes,Yes,lpc+,None,None,,,0.246585714,120
+ABIDE_II,BNI,29048,Yes,Yes,lpc+,None,None,,,0.284038656,120
+ABIDE_II,BNI,29049,Yes,Yes,lpc+,None,Excessive,Temporal,Right hemisphere not registered,0.32982437,120
+ABIDE_II,BNI,29050,Yes,Yes,lpc+,None,None,,,0.203070588,120
+ABIDE_II,BNI,29051,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal not registered in left hemisphere,0.544822689,120
+ABIDE_II,BNI,29052,Yes,Yes,lpc+,None,None,,,0.162171429,120
+ABIDE_II,BNI,29053,Yes,Yes,lpc+,None,None,,,0.165390756,120
+ABIDE_II,BNI,29054,Yes,Yes,lpc+,None,Minor,Frontal,Superior frontal gyrus not fully registered bilatterally,0.415277311,120
+ABIDE_II,BNI,29055,0,0,0,0,0,0,,0.286598319,120
+ABIDE_II,BNI,29056,Yes,Yes,lpc+,None,None,,,0.173851261,120
+ABIDE_II,BNI,30144,Yes,Yes,lpc+,None,None,,,0.173459664,120
+ABIDE_II,BNI,30146,Yes,Yes,lpc+,None,None,,,0.144453782,120
+ABIDE_II,BNI,30147,Yes,Yes,lpc+,None,None,,,0.43147395,120
+ABIDE_II,BNI,30148,Yes,Yes,lpc+,None,None,,,0.211288235,120
+ABIDE_II,BNI,30149,Yes,Yes,lpc+,None,None,,,0.445789916,120
+ABIDE_II,BNI,30150,Yes,Yes,lpc+,None,Excessive,Frontal,Not registered ,0.453616949,119
+ABIDE_II,BNI,30151,Yes,Yes,lpc+,None,None,,,0.312178814,119
+ABIDE_II,EMC,29864,Yes,Yes,lpc,None,None,,,0.205837107,160
+ABIDE_II,EMC,29865,0,0,0,0,0,0,,0.169983648,160
+ABIDE_II,EMC,29866,Yes,Yes,lpc,None,Minor,Temporal,Temporal lobe not fully registered bilatterally,0.27851195,160
+ABIDE_II,EMC,29867,Yes,Yes,lpc,None,None,,,1.80523522,160
+ABIDE_II,EMC,29868,Yes,Yes,lpc+,None,None,,,0.24437044,160
+ABIDE_II,EMC,29869,Yes,Yes,lpc+,None,None,,,0.136512579,160
+ABIDE_II,EMC,29870,Yes,Yes,lpc,None,None,,,0.151316981,160
+ABIDE_II,EMC,29871,Yes,Yes,lpc,None,None,,,0.560716981,160
+ABIDE_II,EMC,29872,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered bilatterally,0.093933333,160
+ABIDE_II,EMC,29873,Yes,Yes,lpc,None,None,,,1.018544654,160
+ABIDE_II,EMC,29874,Yes,Yes,lpc,None,None,,,0.163252201,160
+ABIDE_II,EMC,29875,Yes,Yes,lpc,None,Minor,Occipital,V1 not fully registered,0.356907547,160
+ABIDE_II,EMC,29876,Yes,Yes,lpc,None,None,,,0.126576101,160
+ABIDE_II,EMC,29877,Yes,Yes,lpc,None,None,,,0.121778616,160
+ABIDE_II,EMC,29878,Yes,Yes,lpc,None,Excessive,Frontal,Frontal and ocicpital areas are missing bilatterally,0.98698239,160
+ABIDE_II,EMC,29879,Yes,Yes,lpc,None,None,,,0.058114465,160
+ABIDE_II,EMC,29880,Yes,Yes,lpc+,Minor,A lot,Frontal,MPFC not fully registered in the right hemisphere,6.109408805,160
+ABIDE_II,EMC,29881,Yes,Yes,lpc,None,None,,,0.21701761,160
+ABIDE_II,EMC,29882,No,Yes,lpc+,None,None,,,0.300010063,160
+ABIDE_II,EMC,29883,Yes,Yes,lpc,None,None,,,2.200481132,160
+ABIDE_II,EMC,29884,No,Yes,lpc,None,None,,,0.58094717,160
+ABIDE_II,EMC,29885,No,Yes,lpc+,None,None,,,0.190161006,160
+ABIDE_II,EMC,29886,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered bilatterally,0.759230818,160
+ABIDE_II,EMC,29887,Yes,Yes,lpc,None,None,,,21.01645849,160
+ABIDE_II,EMC,29888,Yes,Yes,lpc,None,Minor,Occipital,Extra striate cortex not fully registered bilatterally,5.985964151,160
+ABIDE_II,EMC,29889,Yes,Yes,lpc,None,Minor,Occipital,Extra striate cortex not fully registered bilatterally,0.643378616,160
+ABIDE_II,EMC,29890,Yes,Yes,lpc,None,Minor,Temporal,Temporal pole not fully registered bilatterally,1.206487421,160
+ABIDE_II,EMC,29891,Yes,Yes,lpc,None,None,,,0.196984277,160
+ABIDE_II,EMC,29892,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered bilatterally,0.26868805,160
+ABIDE_II,EMC,29893,Yes,Yes,lpc,None,None,,,0.741045912,160
+ABIDE_II,EMC,29894,Yes,Yes,lpc,None,Minor,Occipital,Extra striate cortex not fully registered bilatterally,0.684463522,160
+ABIDE_II,EMC,29895,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered right hemisphere,0.49448239,160
+ABIDE_II,EMC,29896,Yes,Yes,lpc,Minor,Minor,Frontal,OFC not fully registered right hemisphere,0.201052201,160
+ABIDE_II,EMC,29897,Yes,Yes,lpc,Minor,Minor,Frontal,OFC not fully registered bilatterally,0.802091195,160
+ABIDE_II,EMC,29898,Yes,Yes,lpc,Minor,None,,,0.491610692,160
+ABIDE_II,EMC,29899,Yes,Yes,lpc,None,None,,,0.363915094,160
+ABIDE_II,EMC,29900,Yes,Yes,lpc,None,A lot,Frontal,"mPFC, temporal pole and occipital areas not registered",0.723108176,160
+ABIDE_II,EMC,29901,Yes,Yes,lpc,None,None,,,0.108786793,160
+ABIDE_II,EMC,29902,0,0,0,0,0,0,,0.548093082,160
+ABIDE_II,EMC,29903,Yes,Yes,lpc,None,Minor,Frontal,mPFC left hemisphere not fully registered,0.781832704,160
+ABIDE_II,EMC,29904,Yes,Yes,lpc,None,None,,,0.13781195,160
+ABIDE_II,EMC,29905,0,0,0,0,0,0,,0.079647799,160
+ABIDE_II,EMC,29906,Yes,Yes,lpc,None,None,,,0.082390566,160
+ABIDE_II,EMC,29907,Yes,Yes,lpc,None,None,,,0.127503774,160
+ABIDE_II,EMC,29908,Yes,Yes,lpc,None,Minor,Frontal,OFC not fully registered right hemisphere,0.132793082,160
+ABIDE_II,EMC,29909,Yes,Yes,lpc,None,None,,,0.428574214,160
+ABIDE_II,EMC,29910,Yes,Yes,lpc,None,None,,,0.960871069,160
+ABIDE_II,EMC,29911,Yes,Yes,lpc,None,Minor,Occipital,Lateral Occipital cortex not fully registered,0.151328931,160
+ABIDE_II,EMC,29912,Yes,Yes,lpc,None,None,,,0.11337044,160
+ABIDE_II,EMC,29913,Yes,Yes,lpc,None,None,,,0.403203774,160
+ABIDE_II,EMC,29914,Yes,Yes,lpc,None,None,,,1.306840252,160
+ABIDE_II,EMC,29915,Yes,Yes,lpc,None,None,,,0.209840881,160
+ABIDE_II,EMC,29916,Yes,Yes,lpc,None,None,,,0.187786793,160
+ABIDE_II,EMC,29917,Yes,Yes,lpc,None,None,,,0.969737107,160
+ABIDE_II,ETH,29057,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered,0.167146412,210
+ABIDE_II,ETH,29058,Yes,Yes,lpc+,None,None,,,0.202414354,210
+ABIDE_II,ETH,29059,Yes,Yes,lpc+,None,None,,,0.098133971,210
+ABIDE_II,ETH,29060,Yes,Yes,lpc+,None,None,,,0.238463158,210
+ABIDE_II,ETH,29062,Yes,Yes,lpc+,None,None,,,0.769725359,210
+ABIDE_II,ETH,29063,Yes,Yes,lpc+,None,None,,,0.208823923,210
+ABIDE_II,ETH,29064,Yes,Yes,lpc+,None,None,,,0.988164115,210
+ABIDE_II,ETH,29065,Yes,Yes,lpc+,None,None,,,1.129618182,210
+ABIDE_II,ETH,29066,Yes,Yes,lpc+,None,None,,,0.140525359,210
+ABIDE_II,ETH,29067,Yes,Yes,lpc+,None,None,,,0.972216746,210
+ABIDE_II,ETH,29068,Yes,Yes,lpc+,None,None,,,0.949410526,210
+ABIDE_II,ETH,29069,0,Yes,0,0,0,0,0,0,NO-DSET
+ABIDE_II,ETH,29070,Yes,Yes,lpc+,None,None,,,0.404145933,210
+ABIDE_II,ETH,29071,Yes,Yes,lpc+,None,None,,,0.191588995,210
+ABIDE_II,ETH,29072,Yes,Yes,lpc+,None,None,,,0.206843541,210
+ABIDE_II,ETH,29073,Yes,Yes,lpc+,None,None,,,0.178477512,210
+ABIDE_II,ETH,29074,Yes,Yes,lpc+,Minor,None,,,0.124245933,210
+ABIDE_II,ETH,29075,Yes,Yes,lpc+,None,None,,,0.134532057,210
+ABIDE_II,ETH,29076,Yes,Yes,lpc+,Minor,Minor,Frontal,MPFC not fully registered,0.129874163,210
+ABIDE_II,ETH,29077,Yes,Yes,lpc+,None,None,,,0.185114354,210
+ABIDE_II,ETH,29078,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered,0.144983254,210
+ABIDE_II,ETH,29079,Yes,Yes,lpc+,None,None,,,0.919113876,210
+ABIDE_II,ETH,29080,Yes,Yes,lpc+,None,None,,,0.172511483,210
+ABIDE_II,ETH,29081,0,Yes,0,0,0,0,0,0,NO-DSET
+ABIDE_II,ETH,29082,Yes,Yes,lpc+,None,None,,,0.234077034,210
+ABIDE_II,ETH,29083,Yes,Yes,lpc+,None,None,,,0.140864115,210
+ABIDE_II,ETH,29084,Yes,Yes,lpc+,Minor,A lot,Frontal,"MPFC, OFC and anterior parietal regions are not fully registered ",0.203144498,210
+ABIDE_II,ETH,29085,Yes,Yes,lpc+,None,None,,,0.325288038,210
+ABIDE_II,ETH,29086,Yes,Yes,lpc+,None,A lot,Frontal,"MPFC, OFC and anterior parietal regions are not fully registered ",0.223862201,210
+ABIDE_II,ETH,29087,Yes,Yes,lpc+,Minor,Minor,Frontal,MPFC not fully registered,0.187354546,210
+ABIDE_II,ETH,29088,Yes,Yes,lpc+,None,None,,,0.343702871,210
+ABIDE_II,ETH,29089,Yes,Yes,lpc+,None,Minor,Temporal,Inferior temporal gyrus not fully registered bilatterally,0.340262679,210
+ABIDE_II,ETH,29090,Yes,Yes,lpc+,None,None,,,0.091496651,210
+ABIDE_II,ETH,29091,Yes,Yes,lpc+,None,None,,,0.377309569,210
+ABIDE_II,ETH,29092,Yes,Yes,lpc+,None,None,,,0.112642105,210
+ABIDE_II,ETH,29093,Yes,Yes,lpc+,None,None,,,0.200491388,210
+ABIDE_II,ETH,29094,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered bilatteraly ,0.163524402,210
+ABIDE_II,GU,28741,Yes,Yes,lpc+,None,None,,,0.308950993,152
+ABIDE_II,GU,28742,Yes,Yes,lpc+,None,None,,,0.131115894,152
+ABIDE_II,GU,28743,Yes,Yes,lpc+,None,None,,,0.157139073,152
+ABIDE_II,GU,28744,Yes,Yes,lpc+,None,None,,,0.210968212,152
+ABIDE_II,GU,28745,Yes,Yes,lpc+,None,None,,,0.199271523,152
+ABIDE_II,GU,28746,Yes,Yes,lpc+,None,None,,,0.069555629,152
+ABIDE_II,GU,28747,Yes,Yes,lpc+,None,None,,,0.111668874,152
+ABIDE_II,GU,28748,0,Yes,0,0,0,0,0,0.10427947,152
+ABIDE_II,GU,28749,Yes,Yes,lpc+,None,None,,,0.134247682,152
+ABIDE_II,GU,28750,Yes,Yes,lpc+,None,None,,,0.251242384,152
+ABIDE_II,GU,28751,Yes,Yes,lpc+,None,None,,,0.120964238,152
+ABIDE_II,GU,28752,Yes,Yes,lpc+,None,None,,,0.109523841,152
+ABIDE_II,GU,28753,Yes,Yes,lpc+,None,None,,,0.115341722,152
+ABIDE_II,GU,28754,Yes,Yes,lpc+,None,None,,,0.231060265,152
+ABIDE_II,GU,28755,Yes,Yes,lpc+,None,None,,,0.207152318,152
+ABIDE_II,GU,28756,Yes,Yes,lpc+,None,None,,,0.719380795,152
+ABIDE_II,GU,28757,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.117745695,152
+ABIDE_II,GU,28758,Yes,Yes,lpc+,None,None,,,0.170756954,152
+ABIDE_II,GU,28759,Yes,Yes,lpc+,None,Minor,Frontal,mPFC right not fully registered,0.215189404,152
+ABIDE_II,GU,28760,Yes,Yes,lpc+,None,None,,,0.064383444,152
+ABIDE_II,GU,28761,Yes,Yes,lpc+,None,None,,,0.151661589,152
+ABIDE_II,GU,28762,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered bilatterally,0.151883444,152
+ABIDE_II,GU,28763,Yes,Yes,lpc+,None,None,,,0.245656954,152
+ABIDE_II,GU,28764,Yes,Yes,lpc+,None,None,,,0.340205298,152
+ABIDE_II,GU,28765,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered bilatterally,0.181421192,152
+ABIDE_II,GU,28766,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered in the right hemisphere,0.123098676,152
+ABIDE_II,GU,28767,Yes,Yes,lpc+,None,None,,,0.114,152
+ABIDE_II,GU,28768,Yes,Yes,lpc+,None,None,,,0.108453642,152
+ABIDE_II,GU,28769,Yes,Yes,lpc+,None,None,,,0.278476821,152
+ABIDE_II,GU,28770,Yes,Yes,lpc+,None,None,,,0.17100596,152
+ABIDE_II,GU,28771,Yes,Yes,lpc+,None,None,,,0.111668212,152
+ABIDE_II,GU,28772,Yes,Yes,lpc+,None,None,,,0.524666887,152
+ABIDE_II,GU,28773,Yes,Yes,lpc+,None,None,,,3.29144106,152
+ABIDE_II,GU,28774,Yes,Yes,lpc+,None,None,,,0.130872185,152
+ABIDE_II,GU,28775,Yes,Yes,lpc+,None,None,,,0.165070199,152
+ABIDE_II,GU,28776,Yes,Yes,lpc+,None,None,,,0.223198676,152
+ABIDE_II,GU,28777,Yes,Yes,lpc+,None,None,,,0.700271523,152
+ABIDE_II,GU,28778,Yes,Yes,lpc+,None,None,,,0.075295364,152
+ABIDE_II,GU,28779,Yes,Yes,lpc+,None,None,,,0.261124503,152
+ABIDE_II,GU,28780,Yes,Yes,lpc+,None,None,,,0.20536755,152
+ABIDE_II,GU,28781,Yes,Yes,lpc+,None,None,,,0.813095364,152
+ABIDE_II,GU,28782,Yes,Yes,lpc+,None,None,,,0.546004636,152
+ABIDE_II,GU,28783,Yes,Yes,lpc+,None,None,,,0.199845033,152
+ABIDE_II,GU,28784,Yes,Yes,lpc+,None,None,,,0.886962252,152
+ABIDE_II,GU,28785,Yes,Yes,lpc+,None,None,,,0.215939073,152
+ABIDE_II,GU,28786,Yes,Yes,lpc+,None,None,,,0.510037086,152
+ABIDE_II,GU,28787,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered bilatterally,0.094460927,152
+ABIDE_II,GU,28788,Yes,Yes,lpc+,None,None,,,0.232713245,152
+ABIDE_II,GU,28789,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered bilatterally,0.151650993,152
+ABIDE_II,GU,28790,Yes,Yes,lpc+,None,None,,,0.33897947,152
+ABIDE_II,GU,28791,Yes,Yes,lpc+,None,None,,,0.130431126,152
+ABIDE_II,GU,28792,Yes,Yes,lpc+,None,None,,,0.094254305,152
+ABIDE_II,GU,28793,Yes,Yes,lpc+,None,None,,,0.373816556,152
+ABIDE_II,GU,28794,Yes,Yes,lpc+,None,None,,,0.104668212,152
+ABIDE_II,GU,28795,Yes,Yes,lpc+,None,None,,,0.066081457,152
+ABIDE_II,GU,28796,Yes,Yes,lpc+,None,None,,,0.100557616,152
+ABIDE_II,GU,28797,Yes,Yes,lpc+,None,None,,,0.114147682,152
+ABIDE_II,GU,28798,Yes,Yes,lpc+,None,None,,,0.249455629,152
+ABIDE_II,GU,28799,Yes,Yes,lpc+,None,None,,,1.091975497,152
+ABIDE_II,GU,28800,Yes,Yes,lpc+,None,None,,,0.394529801,152
+ABIDE_II,GU,28801,Yes,Yes,lpc+,None,None,,,0.155345033,152
+ABIDE_II,GU,28802,Yes,Yes,lpc+,None,None,,,0.335769536,152
+ABIDE_II,GU,28803,Yes,Yes,lpc+,None,None,,,0.181928477,152
+ABIDE_II,GU,28804,Yes,Yes,lpc+,None,None,,,0.175066887,152
+ABIDE_II,GU,28805,Yes,Yes,lpc+,None,None,,,0.239117219,152
+ABIDE_II,GU,28806,Yes,Yes,lpc+,None,None,,,0.151448344,152
+ABIDE_II,GU,28807,Yes,Yes,lpc+,None,None,,,0.118844371,152
+ABIDE_II,GU,28808,Yes,Yes,lpc+,None,None,,,0.275321192,152
+ABIDE_II,GU,28809,Yes,Yes,lpc+,None,None,,,0.364486755,152
+ABIDE_II,GU,28810,Yes,Yes,lpc+,None,None,,,0.101199338,152
+ABIDE_II,GU,28811,Yes,Yes,lpc+,None,None,,,0.434087417,152
+ABIDE_II,GU,28812,Yes,Yes,lpc+,None,None,,,0.712040397,152
+ABIDE_II,GU,28813,Yes,Yes,lpc+,None,None,,,0.140228477,152
+ABIDE_II,GU,28814,Yes,Yes,lpc+,None,None,,,0.202554967,152
+ABIDE_II,GU,28815,Yes,Yes,lpc+,None,None,,,0.292963576,152
+ABIDE_II,GU,28816,Yes,Yes,lpc+,None,None,,,0.392743709,152
+ABIDE_II,GU,28817,Yes,Yes,lpc+,None,None,,,0.263329801,152
+ABIDE_II,GU,28818,Yes,Yes,lpc+,None,None,,,1.620119868,152
+ABIDE_II,GU,28819,Yes,Yes,lpc+,None,None,,,1.368552318,152
+ABIDE_II,GU,28820,Yes,Yes,lpc+,None,None,,,0.196085431,152
+ABIDE_II,GU,28821,Yes,Yes,lpc+,None,None,,,0.607247682,152
+ABIDE_II,GU,28822,Yes,Yes,lpc+,None,None,,,0.255343046,152
+ABIDE_II,GU,28823,Yes,Yes,lpc+,None,None,,,1.507062252,152
+ABIDE_II,GU,28824,Yes,Yes,lpc+,None,None,,,0.130338411,152
+ABIDE_II,GU,28825,Yes,Yes,lpc+,None,None,,,0.338721854,152
+ABIDE_II,GU,28826,Yes,Yes,lpc+,None,None,,,0.180296689,152
+ABIDE_II,GU,28827,Yes,Yes,lpc+,None,None,,,0.155028477,152
+ABIDE_II,GU,28828,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered bilatterally,0.097575497,152
+ABIDE_II,GU,28829,Yes,Yes,lpc+,None,None,,,0.13042649,152
+ABIDE_II,GU,28830,Yes,Yes,lpc+,None,None,,,0.568445695,152
+ABIDE_II,GU,28831,Yes,Yes,lpc+,None,None,,,1.015915894,152
+ABIDE_II,GU,28832,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered bilatterally,3.192189404,152
+ABIDE_II,GU,28834,Yes,Yes,lpc+,None,None,,,0.701362252,152
+ABIDE_II,GU,28835,Yes,Yes,lpc+,None,None,,,0.271655629,152
+ABIDE_II,GU,28836,Yes,Yes,lpc+,None,None,,,0.272702649,152
+ABIDE_II,GU,28837,Yes,Yes,lpc+,None,None,,,0.091756291,152
+ABIDE_II,GU,28838,Yes,Yes,lpc+,None,None,,,0.240700662,152
+ABIDE_II,GU,28839,Yes,Yes,lpc+,None,None,,,0.678725166,152
+ABIDE_II,GU,28840,Yes,Yes,lpc+,None,None,,,0.67945298,152
+ABIDE_II,GU,28841,Yes,Yes,lpc+,None,None,,,0.377892715,152
+ABIDE_II,GU,28842,Yes,Yes,lpc+,None,None,,,0.319450993,152
+ABIDE_II,GU,28843,Yes,Yes,lpc+,None,None,,,0.133419205,152
+ABIDE_II,GU,28844,Yes,Yes,lpc+,None,None,,,0.13180596,152
+ABIDE_II,GU,28845,Yes,Yes,lpc+,None,None,,,0.120771523,152
+ABIDE_II,GU,28846,Yes,Yes,lpc+,None,None,,,0.169548344,152
+ABIDE_II,GU,28847,Yes,Yes,lpc+,None,None,,,0.181519868,152
+ABIDE_II,IP,29580,Yes,Yes,lpc+,None,None,,,0.077404762,85
+ABIDE_II,IP,29581,Yes,Yes,lpc+,None,None,,,0.0471,85
+ABIDE_II,IP,29582,Yes,Yes,lpc+,None,None,,,0.109033333,85
+ABIDE_II,IP,29583,Yes,Yes,lpc+,None,None,,,0.087004762,85
+ABIDE_II,IP,29584,Yes,Yes,lpc+,None,None,,,0.192570238,85
+ABIDE_II,IP,29585,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered in the left hemisphere,0.075658333,85
+ABIDE_II,IP,29586,Yes,Yes,lpc+,None,None,,,0.095615476,85
+ABIDE_II,IP,29587,Yes,Yes,lpc+,None,None,,,0.388053571,85
+ABIDE_II,IP,29588,Yes,Yes,lpc+,None,None,,,0.235070238,85
+ABIDE_II,IP,29589,Yes,Yes,lpc+,None,None,,,0.088622619,85
+ABIDE_II,IP,29590,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered in the left hemisphere,0.05752619,85
+ABIDE_II,IP,29591,Yes,Yes,lpc+,None,None,,,1.189092857,85
+ABIDE_II,IP,29592,0,0,0,0,0,0,resting EPI is broken ,0.125361905,85
+ABIDE_II,IP,29593,Yes,Yes,lpc+,None,None,,,0.070720238,85
+ABIDE_II,IP,29594,Yes,Yes,lpc+,None,None,,,0.07169881,85
+ABIDE_II,IP,29595,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered in the left hemisphere,0.118253571,85
+ABIDE_II,IP,29596,Yes,Yes,lpc+,None,None,,,0.072584524,85
+ABIDE_II,IP,29597,Yes,Yes,lpc+,None,None,,,0.09072619,85
+ABIDE_II,IP,29598,Yes,Yes,lpc+,None,None,,,0.096788095,85
+ABIDE_II,IP,29599,Yes,Yes,lpc+,None,None,,,2.035296429,85
+ABIDE_II,IP,29600,0,0,0,0,0,0,0,0.100433333,85
+ABIDE_II,IP,29601,Yes,Yes,lpc+,None,None,,,0.090771429,85
+ABIDE_II,IP,29602,Yes,Yes,lpc+,None,None,,,0.066742857,85
+ABIDE_II,IP,29603,Yes,Yes,lpc+,None,None,,,0.100586905,85
+ABIDE_II,IP,29604,Yes,Yes,lpc+,None,None,,,0.059769048,85
+ABIDE_II,IP,29605,Yes,Yes,lpc+,None,None,,,0.0715,85
+ABIDE_II,IP,29606,Yes,Yes,lpc+,None,None,,,0.109204762,85
+ABIDE_II,IP,29607,Yes,Yes,lpc+,None,Minor,Parietal,parietal lobe not fully registered bilatterally,0.062480952,85
+ABIDE_II,IP,29608,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered bilaterally,0.07114881,85
+ABIDE_II,IP,29609,Yes,Yes,lpc+,None,None,,,0.211385714,85
+ABIDE_II,IP,29610,Yes,Yes,lpc+,None,None,,,0.06079881,85
+ABIDE_II,IP,29611,Yes,Yes,lpc+,None,None,,,0.085910714,85
+ABIDE_II,IP,29612,Yes,Yes,lpc+,None,None,,,0.088065476,85
+ABIDE_II,IP,29613,Yes,Yes,lpc+,None,A lot,Parietal,mPFC not registered,0.132303571,85
+ABIDE_II,IP,29614,Yes,Yes,lpc+,None,None,,,0.360671429,85
+ABIDE_II,IP,29615,0,0,0,0,0,0,0,0.298633333,85
+ABIDE_II,IP,29616,Yes,Yes,lpc+,None,None,,,0.068158333,85
+ABIDE_II,IP,29617,0,0,0,0,0,0,anatomical orientation completely wrong,0.164364286,85
+ABIDE_II,IP,29618,Yes,Yes,lpc+,None,None,,,0.188267857,85
+ABIDE_II,IP,29619,Yes,Yes,lpc+,None,None,,,0.062625,85
+ABIDE_II,IP,29620,Yes,Yes,lpc+,None,None,,,0.096059524,85
+ABIDE_II,IP,29621,Yes,Yes,lpc+,None,None,,,0.404146429,85
+ABIDE_II,IP,29622,0,0,0,0,0,0,EPI missing,,NO-DSET
+ABIDE_II,IP,29623,Yes,Yes,lpc+,None,None,,,0.684322619,85
+ABIDE_II,IP,29624,Yes,Yes,lpc+,None,A lot,Parietal,parietal lobe not fully registered in the right hemisphere - EPI missing,0.101316667,85
+ABIDE_II,IP,29625,Yes,Yes,lpc+,None,None,,,0.08295119,85
+ABIDE_II,IP,29626,Yes,Yes,lpc+,None,None,,,1.130095238,85
+ABIDE_II,IP,29627,Yes,Yes,lpc+,None,None,,,0.066104762,85
+ABIDE_II,IP,29628,Yes,Yes,lpc+,None,None,,,1.231377381,85
+ABIDE_II,IP,29629,Yes,Yes,lpc+,None,None,,,0.252002381,85
+ABIDE_II,IP,29630,Yes,Yes,lpc+,None,None,,,0.606670238,85
+ABIDE_II,IP,29631,Yes,Yes,lpc+,None,None,,,0.058734524,85
+ABIDE_II,IP,29632,Yes,Yes,lpc+,None,None,,,0.164196429,85
+ABIDE_II,IP,29633,Yes,Yes,lpc+,None,None,,,0.201038095,85
+ABIDE_II,IP,29634,Yes,Yes,lpc+,None,None,,,0.159635714,85
+ABIDE_II,IP,29635,Yes,Yes,lpc+,None,Minor,Parietal,Parietal lobe not fully registered bilatterally - MISSING FROM THE EPI ,0.04960119,85
+ABIDE_II,IU,29538,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal occipital and subcortical structures not registered,0.21485162,120
+ABIDE_II,IU,29539,Yes,Yes,lpc+,None,None,,,0.25716412,120
+ABIDE_II,IU,29540,Yes,Yes,lpc+,None,None,,,0.13647963,433
+ABIDE_II,IU,29541,Yes,Yes,lpc+,None,None,,,0.105324537,433
+ABIDE_II,IU,29542,Yes,Yes,lpc+,None,None,,,0.169474306,433
+ABIDE_II,IU,29543,Yes,Yes,lpc+,None,None,,,0.158417824,433
+ABIDE_II,IU,29544,Yes,Yes,lpc+,None,None,,,0.331530093,433
+ABIDE_II,IU,29545,Yes,Yes,lpc+,None,None,,,0.123191667,433
+ABIDE_II,IU,29546,Yes,Yes,lpc+,None,None,,,0.119031019,433
+ABIDE_II,IU,29547,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal occipital and parietal structures not registered,0.096788194,433
+ABIDE_II,IU,29548,Yes,Yes,lpc+,None,None,,,0.079448843,433
+ABIDE_II,IU,29549,Yes,Yes,lpc+,None,Minor,Temporal,Inferior temporal gyrus not fully registered bilatterally,0.126290509,433
+ABIDE_II,IU,29550,Yes,Yes,lpc+,None,Minor,Temporal,Inferior temporal gyrus not fully registered bilatterally,0.14355162,433
+ABIDE_II,IU,29551,Yes,Yes,lpc+,None,None,,,0.106413426,433
+ABIDE_II,IU,29552,Yes,Yes,lpc+,None,None,,,0.204737269,433
+ABIDE_II,IU,29553,Yes,Yes,lpc+,None,Excessive,Frontal,Huge obliquity can't be redeemed,0.255757176,433
+ABIDE_II,IU,29554,Yes,Yes,lpc+,None,Excessive,Frontal,Huge obliquity can't be redeemed,0.150211111,433
+ABIDE_II,IU,29555,Yes,Yes,lpc+,None,None,,,0.102081713,433
+ABIDE_II,IU,29556,Yes,Yes,lpc+,None,None,,,0.153871296,433
+ABIDE_II,IU,29557,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal occipital and parietal structures not registered,0.086093056,433
+ABIDE_II,IU,29558,Yes,Yes,lpc+,None,None,,,0.238390509,433
+ABIDE_II,IU,29559,Yes,Yes,lpc+,None,None,,,0.151884259,433
+ABIDE_II,IU,29560,Yes,Yes,lpc+,None,None,,,0.12286875,433
+ABIDE_II,IU,29561,Yes,Yes,lpc+,None,None,,,0.301393056,433
+ABIDE_II,IU,29562,Yes,Yes,lpc+,None,Minor,Temporal,Inferior temporal gyrus not fully registered bilatterally,0.10312963,433
+ABIDE_II,IU,29563,Yes,Yes,lpc+,None,None,,,0.137104861,433
+ABIDE_II,IU,29564,Yes,Yes,lpc+,None,Excessive,Occipital,Occipital cortex not registered bilaterally,0.073562269,433
+ABIDE_II,IU,29565,Yes,Yes,lpc+,None,None,,,0.134610185,433
+ABIDE_II,IU,29566,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal and occipital structures not fully registered,0.121561806,433
+ABIDE_II,IU,29567,Yes,Yes,lpc+,None,None,,,0.065076157,433
+ABIDE_II,IU,29568,Yes,Yes,lpc+,None,None,,,0.113719213,433
+ABIDE_II,IU,29569,Yes,Yes,lpc+,None,None,,,0.093463657,433
+ABIDE_II,IU,29570,Yes,Yes,lpc+,None,None,,,0.12965787,433
+ABIDE_II,IU,29571,Yes,Yes,lpc+,None,None,,,0.123568519,433
+ABIDE_II,IU,29572,Yes,Yes,lpc+,None,None,,,0.097850926,433
+ABIDE_II,IU,29573,Yes,Yes,lpc+,None,None,,,0.110448611,433
+ABIDE_II,IU,29574,Yes,Yes,lpc+,None,None,,,0.098402778,433
+ABIDE_II,IU,29575,Yes,Yes,lpc+,None,None,,,0.08767037,433
+ABIDE_II,IU,29576,Yes,Yes,lpc+,0,0,0,0,0.537869213,433
+ABIDE_II,IU,29577,Yes,Yes,lpc+,None,None,,,0.192962037,433
+ABIDE_II,KKI,20420,Yes,Yes,lpc,None,None,,,0.2261,156
+ABIDE_II,KKI,20421,Yes,Yes,lpc,None,A lot,Frontal,MPFC - EPI distored,0.23244,156
+ABIDE_II,KKI,20422,Yes,Yes,lpc,None,None,,,0.23437,156
+ABIDE_II,KKI,20423,Yes,Yes,lpc,A lot,Excessive,Frontal,EPI is enlarged!,0.19245,156
+ABIDE_II,KKI,29273,Yes,Yes,lpc+,None,Excessive,Frontal,Spillage of EPI in frontal and parietal regions bilatterally,0.24893937,128
+ABIDE_II,KKI,29274,Yes,Yes,lpc+,None,None,,,0.195713821,124
+ABIDE_II,KKI,29275,Yes,Yes,lpc+,None,None,,,0.108713386,128
+ABIDE_II,KKI,29276,Yes,Yes,lpc+,None,None,,,0.301116535,128
+ABIDE_II,KKI,29277,Yes,Yes,lpc+,None,None,,,0.119566142,128
+ABIDE_II,KKI,29278,Yes,Yes,lpc+,None,None,,,0.409393701,128
+ABIDE_II,KKI,29279,Yes,Yes,lpc+,None,None,,,0.630679528,128
+ABIDE_II,KKI,29280,Yes,Yes,lpc+,None,A lot,Parietal,Superior parietal regions not fully registered (mostly) in right hemisphere,0.457591339,128
+ABIDE_II,KKI,29281,Yes,Yes,lpc+,None,None,,,0.234880315,128
+ABIDE_II,KKI,29282,Yes,Yes,lpc+,None,None,,,0.399590551,128
+ABIDE_II,KKI,29283,Yes,Yes,lpc+,None,None,,,0.163780315,128
+ABIDE_II,KKI,29284,Yes,Yes,lpc+,None,None,,,0.258640945,128
+ABIDE_II,KKI,29285,Yes,Yes,lpc+,None,None,,,0.310497638,128
+ABIDE_II,KKI,29286,Yes,Yes,lpc+,None,None,,,0.141833548,156
+ABIDE_II,KKI,29287,Yes,Yes,lpc+,None,None,,,0.250905161,156
+ABIDE_II,KKI,29288,Yes,Yes,lpc+,None,None,,,0.334650323,156
+ABIDE_II,KKI,29289,Yes,Yes,lpc+,None,None,,,0.154008387,156
+ABIDE_II,KKI,29290,Yes,Yes,lpc+,None,None,,,0.39339871,156
+ABIDE_II,KKI,29291,Yes,Yes,lpc+,None,None,,,0.32288129,156
+ABIDE_II,KKI,29292,Yes,Yes,lpc+,None,None,,,0.329029677,156
+ABIDE_II,KKI,29293,Yes,Yes,lpc+,None,None,,,0.256733548,156
+ABIDE_II,KKI,29294,Yes,Yes,lpc+,None,None,,,0.469268944,162
+ABIDE_II,KKI,29295,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not fully registered right hemisphere,0.384037795,128
+ABIDE_II,KKI,29296,Yes,Yes,lpc+,None,Minor,Temporal,Temporal pole not fully registered bilatterally,0.194317323,128
+ABIDE_II,KKI,29297,Yes,Yes,lpc+,None,None,,,0.071532283,128
+ABIDE_II,KKI,29298,Yes,Yes,lpc+,None,None,,,0.069285827,128
+ABIDE_II,KKI,29299,Yes,Yes,lpc+,None,None,,,0.349292913,128
+ABIDE_II,KKI,29300,Yes,Yes,lpc+,None,None,,,0.304199213,128
+ABIDE_II,KKI,29301,Yes,Yes,lpc+,None,None,,,0.096288976,128
+ABIDE_II,KKI,29302,Yes,Yes,lpc+,None,None,,,0.154461417,128
+ABIDE_II,KKI,29303,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered right hemisphere,0.540471654,128
+ABIDE_II,KKI,29304,Yes,Yes,lpc+,None,Minor,Parietal,Superior parietal lobe not fully registered bilatterally,0.074755906,128
+ABIDE_II,KKI,29305,Yes,Yes,lpc+,None,None,,,0.126696063,128
+ABIDE_II,KKI,29306,Yes,Yes,lpc+,None,None,,,0.176624409,128
+ABIDE_II,KKI,29307,Yes,Yes,lpc+,None,None,,,0.363240157,128
+ABIDE_II,KKI,29308,Yes,Yes,lpc+,None,None,,,0.106517323,128
+ABIDE_II,KKI,29309,Yes,Yes,lpc+,None,None,,,0.134620645,156
+ABIDE_II,KKI,29310,Yes,Yes,lpc+,None,None,,,0.335154331,128
+ABIDE_II,KKI,29311,Yes,Yes,lpc+,None,None,,,0.35105748,128
+ABIDE_II,KKI,29312,Yes,Yes,lpc+,None,Minor,Temporal,Temporal pole not fully registered bilatterally,0.102155906,128
+ABIDE_II,KKI,29313,Yes,Yes,lpc+,None,None,,,0.262438583,128
+ABIDE_II,KKI,29314,Yes,Yes,lpc+,None,None,,,0.177981102,128
+ABIDE_II,KKI,29315,Yes,Yes,lpc+,None,None,,,0.081912598,128
+ABIDE_II,KKI,29316,Yes,Yes,lpc+,None,None,,,0.272986614,128
+ABIDE_II,KKI,29317,Yes,Yes,lpc+,None,None,,,0.07557874,128
+ABIDE_II,KKI,29318,Yes,Yes,lpc+,None,None,,,0.391425197,128
+ABIDE_II,KKI,29319,Yes,Yes,lpc+,None,None,,,0.320248031,128
+ABIDE_II,KKI,29320,Yes,Yes,lpc+,None,None,,,0.146809449,128
+ABIDE_II,KKI,29321,Yes,Yes,lpc+,None,A lot,Parietal,Parietal structures not registered,0.227673228,128
+ABIDE_II,KKI,29322,Yes,Yes,lpc+,None,None,,,0.253907874,128
+ABIDE_II,KKI,29323,Yes,Yes,lpc+,None,None,,,0.162326772,128
+ABIDE_II,KKI,29324,Yes,Yes,lpc+,None,A lot,Parietal,Superior parietal lobe not fully registered left hemisphere,0.081004724,128
+ABIDE_II,KKI,29325,Yes,Yes,lpc+,None,Excessive,,Superior parietal lobe not fully registered left hemisphere,0.1273,128
+ABIDE_II,KKI,29326,Yes,Yes,lpc+,None,None,,,0.24748189,128
+ABIDE_II,KKI,29327,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal and temporal lobe not registered left hemisphere,0.264655118,128
+ABIDE_II,KKI,29328,Yes,Yes,lpc+,None,None,,,0.243962992,128
+ABIDE_II,KKI,29329,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fullt registered in right hemisphere,0.108949606,128
+ABIDE_II,KKI,29330,Yes,Yes,lpc+,None,None,,,0.140434194,156
+ABIDE_II,KKI,29331,Yes,Yes,lpc+,None,None,,,0.274199355,156
+ABIDE_II,KKI,29332,Yes,Yes,lpc+,None,None,,,0.174943226,156
+ABIDE_II,KKI,29333,Yes,Yes,lpc+,None,None,,,0.148407742,156
+ABIDE_II,KKI,29334,Yes,Yes,lpc+,None,None,,,0.114951613,156
+ABIDE_II,KKI,29335,Yes,Yes,lpc+,None,None,,,0.190103226,156
+ABIDE_II,KKI,29336,Yes,Yes,lpc+,None,None,,,0.099688387,156
+ABIDE_II,KKI,29337,Yes,Yes,lpc+,None,None,,,0.170123871,156
+ABIDE_II,KKI,29338,Yes,Yes,lpc+,None,None,,,0.306770323,156
+ABIDE_II,KKI,29339,Yes,Yes,lpc+,None,None,,,0.17691871,156
+ABIDE_II,KKI,29340,Yes,Yes,lpc+,None,None,,,0.171137419,156
+ABIDE_II,KKI,29341,Yes,Yes,lpc+,None,None,,,0.120916774,156
+ABIDE_II,KKI,29342,Yes,Yes,lpc+,None,None,,,0.137602581,156
+ABIDE_II,KKI,29343,Yes,Yes,lpc+,None,None,,,0.154121935,156
+ABIDE_II,KKI,29344,Yes,Yes,lpc+,None,None,,,0.274930323,156
+ABIDE_II,KKI,29345,Yes,Yes,lpc+,None,None,,,0.282963226,156
+ABIDE_II,KKI,29346,Yes,Yes,lpc+,None,None,,,0.06332129,156
+ABIDE_II,KKI,29347,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered in the right hemisphere,0.257255484,156
+ABIDE_II,KKI,29348,Yes,Yes,lpc+,None,None,,,0.460314839,156
+ABIDE_II,KKI,29349,Yes,Yes,lpc+,None,A lot,Temporal,Inferior temporal gyrus not registered in left hemisphere,0.204713548,156
+ABIDE_II,KKI,29350,Yes,Yes,lpc+,None,None,,,0.110961935,156
+ABIDE_II,KKI,29351,Yes,Yes,lpc+,None,None,,,0.23510129,156
+ABIDE_II,KKI,29352,Yes,Yes,lpc+,None,A lot,Frontal,MPFC not fully registered in the right hemisphere,0.202931613,156
+ABIDE_II,KKI,29353,Yes,Yes,lpc+,None,None,,,0.178128387,156
+ABIDE_II,KKI,29354,Yes,Yes,lpc+,None,None,,,0.244169032,156
+ABIDE_II,KKI,29355,Yes,Yes,lpc+,None,None,,,0.097950323,156
+ABIDE_II,KKI,29356,Yes,Yes,lpc+,None,Excessive,Parietal,"Superior parietal lobe not registered bilatterally, subcortical and occipital structures not fully registered",0.307574194,156
+ABIDE_II,KKI,29357,Yes,Yes,lpc+,None,None,,,0.152298065,156
+ABIDE_II,KKI,29358,Yes,Yes,lpc+,None,None,,,0.10782129,156
+ABIDE_II,KKI,29359,Yes,Yes,lpc+,None,None,,,0.048824516,156
+ABIDE_II,KKI,29360,Yes,Yes,lpc+,None,None,,,0.373031613,156
+ABIDE_II,KKI,29361,Yes,Yes,lpc+,None,None,,,0.353205161,156
+ABIDE_II,KKI,29362,Yes,Yes,lpc+,None,None,,,0.263133548,156
+ABIDE_II,KKI,29363,Yes,Yes,lpc+,None,None,,,0.331259355,156
+ABIDE_II,KKI,29364,Yes,Yes,lpc+,None,None,,,0.173276774,156
+ABIDE_II,KKI,29365,Yes,Yes,lpc+,None,Minor,Frontal,vMPFC not fully registered bilatterally,0.162381935,156
+ABIDE_II,KKI,29366,Yes,Yes,lpc+,None,None,,,0.144750968,156
+ABIDE_II,KKI,29367,Yes,Yes,lpc+,None,None,,,0.503083871,156
+ABIDE_II,KKI,29368,Yes,Yes,lpc+,None,None,,,0.207034194,156
+ABIDE_II,KKI,29369,Yes,Yes,lpc+,None,None,,,0.080527097,156
+ABIDE_II,KKI,29370,Yes,Yes,lpc+,None,None,,,0.090075484,156
+ABIDE_II,KKI,29371,Yes,Yes,lpc+,None,None,,,0.114959355,156
+ABIDE_II,KKI,29372,Yes,Yes,lpc+,None,None,,,0.390441129,125
+ABIDE_II,KKI,29373,Yes,Yes,lpc+,None,None,,,0.100331613,156
+ABIDE_II,KKI,29374,Yes,Yes,lpc+,None,None,,,0.165122581,156
+ABIDE_II,KKI,29375,Yes,Yes,lpc+,None,None,,,0.113729032,156
+ABIDE_II,KKI,29376,Yes,Yes,lpc+,None,None,,,0.313545161,156
+ABIDE_II,KKI,29377,Yes,Yes,lpc+,None,None,,,0.488456129,156
+ABIDE_II,KKI,29378,Yes,Yes,lpc+,None,None,,,0.250377419,156
+ABIDE_II,KKI,29379,Yes,Yes,lpc+,None,None,,,0.193895484,156
+ABIDE_II,KKI,29380,Yes,Yes,lpc+,None,None,,,0.21891871,156
+ABIDE_II,KKI,29381,Yes,Yes,lpc+,None,None,,,0.282730323,156
+ABIDE_II,KKI,29382,Yes,Yes,lpc+,None,None,,,0.250609677,156
+ABIDE_II,KKI,29383,Yes,Yes,lpc+,None,None,,,0.114838065,156
+ABIDE_II,KKI,29384,Yes,Yes,lpc+,None,None,,,0.258847742,156
+ABIDE_II,KKI,29385,Yes,Yes,lpc+,None,None,,,0.238049032,156
+ABIDE_II,KKI,29386,Yes,Yes,lpc+,None,None,,,0.198957419,156
+ABIDE_II,KKI,29387,Yes,Yes,lpc+,None,None,,,0.352678065,156
+ABIDE_II,KKI,29388,Yes,Yes,lpc+,None,None,,,0.494083226,156
+ABIDE_II,KKI,29389,Yes,Yes,lpc+,None,None,,,0.25325871,156
+ABIDE_II,KKI,29390,Yes,Yes,lpc+,None,None,,,0.272109677,156
+ABIDE_II,KKI,29391,Yes,Yes,lpc+,None,None,,,0.956754194,156
+ABIDE_II,KKI,29392,Yes,Yes,lpc+,None,None,,,0.240907742,156
+ABIDE_II,KKI,29393,Yes,Yes,lpc+,None,None,,,0.142342581,156
+ABIDE_II,KKI,29394,Yes,Yes,lpc+,None,None,,,0.406283226,156
+ABIDE_II,KKI,29395,Yes,Yes,lpc+,None,None,,,0.134820645,156
+ABIDE_II,KKI,29396,Yes,Yes,lpc+,None,None,,,0.2108,156
+ABIDE_II,KKI,29397,0,0,0,0,0,0,Missing volume - header mismatch,,155
+ABIDE_II,KKI,29398,Yes,Yes,lpc,None,Excessive,Frontal,Corrupt T1 - Right,0.56769,156
+ABIDE_II,KKI,29399,Yes,Yes,lpc,None,None,,,0.162351,156
+ABIDE_II,KKI,29400,Yes,Yes,lpc,None,Excessive,Frontal,EPI has a hole - Right,0.15068,156
+ABIDE_II,KKI,29401,Yes,Yes,lpc,None,None,,,0.492831,156
+ABIDE_II,KKI,29402,Yes,Yes,lpc,None,A lot,Frontal,EPI has a hole- Left,0.1302,156
+ABIDE_II,KKI,29403,Yes,Yes,lpc,None,Minor,Perietal,,0.20661,156
+ABIDE_II,KKI,29404,Yes,Yes,lpc,None,None,,,0.293926,156
+ABIDE_II,KKI,29405,Yes,Yes,lpc,None,Minor,Subcortical,,0.102398,156
+ABIDE_II,KKI,29407,Yes,Yes,lpc,None,Minor,Frontal,Ventromedial PFC ,0.42208,156
+ABIDE_II,KKI,29408,Yes,Yes,lpc,None,None,,,0.328037,156
+ABIDE_II,KKI,29409,Yes,Yes,lpc,None,Excessive,Frontal,Left MPFC,1.0959,156
+ABIDE_II,KKI,29410,Yes,Yes,lpc,None,None,,,0.084549,156
+ABIDE_II,KKI,29411,Yes,Yes,lpc,None,None,,,0.044501,156
+ABIDE_II,KKI,29412,Yes,Yes,lpc,Minor,Excessive,Frontal,Ventromedial PFC ,0.569585,156
+ABIDE_II,KKI,29413,Yes,Yes,lpc,Minor,Excessive,Parietal,Midline Problem in T1 and EPI,0.940085,156
+ABIDE_II,KKI,29414,Yes,Yes,lpc,Minor,Minor,Frontal,Part of PFC not well register - minor motion in temporal,0.38877,156
+ABIDE_II,KKI,29415,Yes,Yes,lpc,None,None,,,0.179032,156
+ABIDE_II,KKI,29416,Yes,Yes,lpc,Excessive,Excessive,Parietal,EPI issue distorted,0.17644,156
+ABIDE_II,KKI,29417,Yes,Yes,lpc,None,None,,,0.09488,156
+ABIDE_II,KKI,29418,Yes,Yes,lpc,Excessive,Excessive,Parietal,EPI issue distorted,0.28468,156
+ABIDE_II,KKI,29419,Yes,Yes,lpc,Excessive,Excessive,Frontal,,0.2042,156
+ABIDE_II,KKI,29420,Yes,Yes,lpc,,,,,0.2226,156
+ABIDE_II,KKI,29421,Yes,Yes,lpc,,,,,0.2324,156
+ABIDE_II,KKI,29422,Yes,Yes,lpc,,,,,0.2437,156
+ABIDE_II,KKI,29423,Yes,Yes,lpc,,,,,0.1924,156
+ABIDE_II,KKI,29424,Yes,Yes,lpc+,None,None,,,0.306987742,156
+ABIDE_II,KKI,29425,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal and temporal structures not registered bilatterally,0.287732903,156
+ABIDE_II,KKI,29427,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered in the right hemisphere,0.276261935,156
+ABIDE_II,KKI,29428,Yes,Yes,lpc+,None,Excessive,Frontal,MPFC not registered bilatterally,1.003412903,156
+ABIDE_II,KKI,29429,Yes,Yes,lpc+,None,Excessive,Frontal,MPFC not registered bilatterally,0.210148387,156
+ABIDE_II,KKI,29430,Yes,Yes,lpc+,None,None,,,0.247288387,156
+ABIDE_II,KKI,29431,Yes,Yes,lpc+,None,Excessive,Frontal,MPFC not registered bilatterally,0.265791613,156
+ABIDE_II,KKI,29432,Yes,Yes,lpc+,None,None,,,0.068872258,156
+ABIDE_II,KKI,29433,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal lobe not registered bilatterally,0.745967097,156
+ABIDE_II,KKI,29434,Yes,Yes,lpc+,None,None,,,0.275295484,156
+ABIDE_II,KKI,29435,Yes,Yes,lpc+,None,Excessive,Frontal,MPFC not registered bilatterally,0.140318065,156
+ABIDE_II,KKI,29436,Yes,Yes,lpc+,None,None,,,0.237455484,156
+ABIDE_II,KKI,29437,Yes,Yes,lpc+,None,None,,,0.124149032,156
+ABIDE_II,KKI,29438,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not fully registered right hemisphere,0.29798,156
+ABIDE_II,KKI,29439,Yes,Yes,lpc+,None,None,,,0.35545871,156
+ABIDE_II,KKI,29440,Yes,Yes,lpc+,None,None,,,0.096233548,156
+ABIDE_II,KKI,29441,Yes,Yes,lpc+,None,None,,,0.156194194,156
+ABIDE_II,KKI,29442,Yes,Yes,lpc+,None,None,,,0.072529032,156
+ABIDE_II,KKI,29443,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal lobe not registered bilatterally ,0.097380645,156
+ABIDE_II,KKI,29444,Yes,Yes,lpc+,None,None,,,0.296716774,156
+ABIDE_II,KKI,29445,Yes,Yes,lpc+,None,None,,,0.196602581,156
+ABIDE_II,KKI,29446,Yes,Yes,lpc+,None,Excessive,Parietal,Parietal lobe structures not fully registered bilatterally,0.146441935,156
+ABIDE_II,KKI,29447,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal lobe not fully registered bilatterally,0.461490968,156
+ABIDE_II,KKI,29448,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not fully registered bilatterally,0.62310129,156
+ABIDE_II,KKI,29449,Yes,Yes,lpc+,None,Excessive,Occipital ,Artifacts in EPI,0.344112903,156
+ABIDE_II,KKI,29450,Yes,Yes,lpc+,None,A lot,Temporal,Temporal lobe not registered bilatterally,0.257717419,156
+ABIDE_II,KKI,29451,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not fully registered left hemisphere,0.085357419,156
+ABIDE_II,KKI,29452,Yes,Yes,lpc+,None,Excessive,Frontal,"EPI artifacts, shimming",0.663751613,156
+ABIDE_II,KKI,29453,Yes,Yes,lpc+,None,Excessive,Frontal,mPFC not registered bilatterally,0.164457419,156
+ABIDE_II,KKI,29454,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered in the left hemisphere,0.177095484,156
+ABIDE_II,KKI,29455,Yes,Yes,lpc+,None,A lot,Frontal,mPFC not registered in the right hemisphere,0.086039355,156
+ABIDE_II,KKI,29456,Yes,Yes,lpc+,None,A lot,Frontal,MPFC not fully registered in the right hemisphere,0.244286452,156
+ABIDE_II,KKI,29457,Yes,Yes,lpc+,None,None,,,0.379604516,156
+ABIDE_II,KKI,29458,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal lobe not registered bilatterally ,0.281732903,156
+ABIDE_II,KKI,29459,Yes,Yes,lpc+,None,None,,,0.086703871,156
+ABIDE_II,KKI,29460,Yes,Yes,lpc+,None,Excessive,Frontal,mPFC not registered in the right hemisphere,0.096667742,156
+ABIDE_II,KKI,29461,Yes,Yes,lpc+,None,None,,,0.701369677,156
+ABIDE_II,KKI,29462,Yes,Yes,lpc+,None,None,,,0.249449677,156
+ABIDE_II,KKI,29463,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal lobe not registered bilatterally ,0.144956774,156
+ABIDE_II,KKI,29464,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal temporal structures not registered bilatterally,0.258481935,156
+ABIDE_II,KKI,29465,Yes,Yes,lpc+,None,Excessive,,,0.101078065,156
+ABIDE_II,KKI,29466,Yes,Yes,lpc+,None,Excessive,,,0.203065806,156
+ABIDE_II,KKI,29467,Yes,Yes,lpc+,None,Excessive,,,0.292220645,156
+ABIDE_II,KKI,29468,Yes,Yes,lpc+,None,None,,,0.190570323,156
+ABIDE_II,KKI,29469,Yes,Yes,lpc+,None,Excessive,,,0.261811613,156
+ABIDE_II,KKI,29470,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered right hemisphere,0.104245161,156
+ABIDE_II,KKI,29471,Yes,Yes,lpc+,None,Excessive,,,0.12786,156
+ABIDE_II,KKI,29472,Yes,Yes,lpc+,None,None,,,0.126554194,156
+ABIDE_II,KKI,29473,Yes,Yes,lpc+,None,None,,,0.183874194,156
+ABIDE_II,KKI,29474,Yes,Yes,lpc+,None,Excessive,,,0.149393548,156
+ABIDE_II,KKI,29475,Yes,Yes,lpc+,None,Excessive,,,0.084083226,156
+ABIDE_II,KKI,29476,Yes,Yes,lpc+,None,None,,,0.464286861,138
+ABIDE_II,KKI,29477,Yes,Yes,lpc+,None,None,,,0.279563871,156
+ABIDE_II,KKI,29478,Yes,Yes,lpc+,None,Excessive,,,0.076784516,156
+ABIDE_II,KKI,29479,Yes,Yes,lpc+,None,None,,,0.180462581,156
+ABIDE_II,KKI,29480,Yes,Yes,lpc+,None,None,,,0.47419871,156
+ABIDE_II,KKI,29481,Yes,Yes,lpc+,None,Excessive,,,0.231051613,156
+ABIDE_II,KKI,29482,Yes,Yes,lpc+,None,Excessive,,,0.298024516,156
+ABIDE_II,KKI,29483,Yes,Yes,lpc+,None,Excessive,,,0.191988387,156
+ABIDE_II,KKI,29484,Yes,Yes,lpc+,None,None,,,0.726463226,156
+ABIDE_II,KKI,29485,Yes,Yes,lpc+,None,Excessive,,,0.107847742,156
+ABIDE_II,LEUVEN,29656,Yes,Yes,lpc+,None,None,,,0.163863354,162
+ABIDE_II,LEUVEN,29657,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered,0.257559627,162
+ABIDE_II,LEUVEN,29658,Yes,Yes,lpc+,None,None,,,0.177665217,162
+ABIDE_II,LEUVEN,29659,Yes,Yes,lpc+,None,None,,,0.079198137,162
+ABIDE_II,LEUVEN,29660,Yes,Yes,lpc+,None,None,,,0.06969441,162
+ABIDE_II,LEUVEN,29661,Yes,Yes,lpc+,None,None,,,0.130478261,162
+ABIDE_II,LEUVEN,29662,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered,0.181049689,162
+ABIDE_II,LEUVEN,29664,Yes,Yes,lpc+,None,None,,,0.142298137,162
+ABIDE_II,LEUVEN,29665,Yes,Yes,lpc+,None,None,,,0.092848447,162
+ABIDE_II,LEUVEN,29666,Yes,Yes,lpc+,None,None,,,0.086388199,162
+ABIDE_II,LEUVEN,29667,Yes,Yes,lpc+,None,None,,,0.135381988,162
+ABIDE_II,LEUVEN,29668,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered,0.133710559,162
+ABIDE_II,LEUVEN,29669,Yes,Yes,lpc+,None,None,,,0.060400621,162
+ABIDE_II,LEUVEN,29670,Yes,Yes,lpc+,None,None,,,0.129079503,162
+ABIDE_II,LEUVEN,29671,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered,0.407403106,162
+ABIDE_II,LEUVEN,29674,Yes,Yes,lpc+,None,A lot,Frontal,OFC not registered,0.244414907,162
+ABIDE_II,LEUVEN,29675,Yes,Yes,lpc+,None,Minor,Frontal,MPFC left hemisphere not fully registered,0.111892547,162
+ABIDE_II,LEUVEN,29676,Yes,yes,lpc+,None,Minor,Frontal,MPFC left hemisphere not fully registered,0.131780745,162
+ABIDE_II,LEUVEN,29677,Yes,Yes,lpc+,None,None,,,0.126624845,162
+ABIDE_II,LEUVEN,29678,Yes,Yes,lpc+,None,None,,,0.088601863,162
+ABIDE_II,LEUVEN,29679,Yes,Yes,lpc+,None,None,,,0.226823603,162
+ABIDE_II,LEUVEN,29794,Yes,Yes,lpc+,None,None,,,0.132845963,162
+ABIDE_II,LEUVEN,29795,Yes,Yes,lpc+,None,None,,,0.116749689,162
+ABIDE_II,LEUVEN,29796,Yes,Yes,lpc+,None,Minor,Frontal,MPFC left hemisphere not fully registered,0.088221118,162
+ABIDE_II,LEUVEN,29797,Yes,Yes,lpc+,None,None,,,0.140050932,162
+ABIDE_II,LEUVEN,29798,Yes,Yes,lpc+,None,A lot,Frontal,MPFC bilatterally not registered,0.229329193,162
+ABIDE_II,LEUVEN,29799,Yes,Yes,lpc+,None,None,,,0.228734162,162
+ABIDE_II,LEUVEN,29800,Yes,Yes,lpc+,None,None,,,0.333309317,162
+ABIDE_II,MIAMI,30229,0,0,0,0,0,0,0,0.143652041,295
+ABIDE_II,MIAMI,30230,Yes,Yes,lpc+,None,None,,,0.433902235,180
+ABIDE_II,MIAMI,30231,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.091407263,180
+ABIDE_II,MIAMI,30232,0,0,0,0,0,0,0,0.23382067,180
+ABIDE_II,MIAMI,30233,Yes,Yes,lpc+,None,None,,,0.143652041,295
+ABIDE_II,MIAMI,30234,Yes,Yes,lpc+,None,None,,,0.569181293,295
+ABIDE_II,MIAMI,30235,Yes,Yes,lpc+,None,A lot,Frontal,MPFC bilatterally not registered,0.128879252,295
+ABIDE_II,MIAMI,30236,Yes,Yes,lpc+,None,A lot,Temporal,Temporal and Parietal regions in the left hemisphere are missing,0.253306803,295
+ABIDE_II,MIAMI,30237,Yes,Yes,lpc+,None,None,,,0.120271088,295
+ABIDE_II,MIAMI,30238,Yes,Yes,lpc+,None,None,,,0.355160204,295
+ABIDE_II,MIAMI,30239,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.108509864,295
+ABIDE_II,MIAMI,30240,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,1.068186054,295
+ABIDE_II,MIAMI,30241,Yes,Yes,lpc+,None,Minor,Temporal,Inferior temporal gyrus bilatterally not fully registered,0.856933674,295
+ABIDE_II,MIAMI,30242,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.126719048,295
+ABIDE_II,MIAMI,30243,Yes,Yes,lpc+,None,None,,,0.228933674,295
+ABIDE_II,MIAMI,30244,Yes,Yes,lpc+,None,Minor,Frontal,OFC not fully registered,0.182865986,295
+ABIDE_II,MIAMI,30245,Yes,Yes,lpc+,None,None,,,0.356847279,295
+ABIDE_II,MIAMI,30246,Yes,Yes,lpc+,None,Excessive,Temporal,"Temporal, parietal and frontal regions are missing",0.3428,295
+ABIDE_II,MIAMI,30247,Yes,Yes,lpc+,None,None,,,0.067648639,295
+ABIDE_II,MIAMI,30248,Yes,Yes,lpc+,None,None,,,0.420117007,295
+ABIDE_II,MIAMI,30249,Yes,Yes,lpc+,None,None,,,0.11212517,295
+ABIDE_II,MIAMI,30250,Yes,Yes,lpc+,None,None,,,0.068142857,295
+ABIDE_II,MIAMI,30251,Yes,Yes,lpc+,None,None,,,0.157383674,295
+ABIDE_II,MIAMI,30252,Yes,Yes,lpc+,None,None,,,0.178012245,295
+ABIDE_II,MIAMI,30253,Yes,Yes,lpc+,None,None,,,0.075645578,295
+ABIDE_II,MIAMI,30254,Yes,Yes,lpc+,None,None,,,0.118913946,295
+ABIDE_II,MIAMI,30255,Yes,Yes,lpc+,None,None,,,0.156677551,295
+ABIDE_II,MIAMI,30256,Yes,Yes,lpc+,None,None,,,0.3428,295
+ABIDE_II,NYU_1,29177,Yes,Yes,lpc+,None,None,,,0.072727374,180
+ABIDE_II,NYU_1,29178,Yes,Yes,lpc+,None,Minor,Parietal,Right parietal lobe not fully registered,0.440836872,180
+ABIDE_II,NYU_1,29179,Yes,Yes,lpc+,None,None,,,0.283190503,180
+ABIDE_II,NYU_1,29180,Yes,Yes,lpc+,None,None,,,0.46238771,180
+ABIDE_II,NYU_1,29181,Yes,Yes,lpc+,None,None,,,0.195365922,180
+ABIDE_II,NYU_1,29182,Yes,Yes,lpc+,None,None,,,0.189518994,180
+ABIDE_II,NYU_1,29183,Yes,Yes,lpc+,None,None,,,0.29635419,180
+ABIDE_II,NYU_1,29184,Yes,Yes,lpc+,None,None,,,0.202750279,180
+ABIDE_II,NYU_1,29185,Yes,Yes,lpc+,None,None,,,0.277916201,180
+ABIDE_II,NYU_1,29186,Yes,Yes,lpc+,None,Minor,Parietal,Right parietal lobe not fully registered,0.193713408,180
+ABIDE_II,NYU_1,29187,Yes,Yes,lpc+,None,None,,,0.222510615,180
+ABIDE_II,NYU_1,29188,Yes,Yes,lpc+,None,None,,,0.108653073,180
+ABIDE_II,NYU_1,29189,Yes,Yes,lpc+,None,None,,,0.131250279,180
+ABIDE_II,NYU_1,29190,Yes,Yes,lpc+,None,Minor,Parietal,Left parietal lobe not fully registered,0.169712849,180
+ABIDE_II,NYU_1,29191,Yes,Yes,lpc+,None,Minor,Parietal,Left parietal lobe not fully registered,0.106968156,180
+ABIDE_II,NYU_1,29192,Yes,Yes,lpc+,None,None,,,0.210459777,180
+ABIDE_II,NYU_1,29193,Yes,Yes,lpc+,None,None,,,0.248925698,180
+ABIDE_II,NYU_1,29194,Yes,Yes,lpc+,None,None,,,0.197377654,180
+ABIDE_II,NYU_1,29195,Yes,Yes,lpc+,None,None,,,0.168632402,180
+ABIDE_II,NYU_1,29196,Yes,Yes,lpc+,None,None,,,0.132681006,180
+ABIDE_II,NYU_1,29197,Yes,Yes,lpc+,None,None,,,0.102536313,180
+ABIDE_II,NYU_1,29198,Yes,Yes,lpc+,None,None,,,0.083203352,180
+ABIDE_II,NYU_1,29199,Yes,Yes,lpc+,None,None,,,0.170727933,180
+ABIDE_II,NYU_1,29200,Yes,Yes,lpc+,None,None,,,0.230294972,180
+ABIDE_II,NYU_1,29201,Yes,Yes,lpc+,None,None,,,0.154012291,180
+ABIDE_II,NYU_1,29202,0,0,0,0,0,0,0,0.203182682,180
+ABIDE_II,NYU_1,29203,Yes,Yes,lpc+,None,None,,,0.092858101,180
+ABIDE_II,NYU_1,29204,Yes,Yes,lpc+,None,None,,,0.203305587,180
+ABIDE_II,NYU_1,29205,Yes,Yes,lpc+,None,None,,,0.104050279,180
+ABIDE_II,NYU_1,29206,Yes,Yes,lpc+,None,Minor,Parietal,Parietal and superior parietal lobe not fully registered bilaterally,0.084485475,180
+ABIDE_II,NYU_1,29207,Yes,Yes,lpc+,None,None,,,0.288654749,180
+ABIDE_II,NYU_1,29208,Yes,Yes,lpc+,None,None,,,0.184126816,180
+ABIDE_II,NYU_1,29209,Yes,Yes,lpc+,None,None,,,0.214400559,180
+ABIDE_II,NYU_1,29210,Yes,Yes,lpc+,None,None,,,0.228705028,180
+ABIDE_II,NYU_1,29211,Yes,Yes,lpc+,None,None,,,0.107002793,180
+ABIDE_II,NYU_1,29212,Yes,Yes,lpc+,None,None,,,0.135482123,180
+ABIDE_II,NYU_1,29213,Yes,Yes,lpc+,None,None,,,0.250512291,180
+ABIDE_II,NYU_1,29214,Yes,Yes,lpc+,None,Minor,Parietal,Right parietal lobe not fully registered,0.185325698,180
+ABIDE_II,NYU_1,29215,Yes,Yes,lpc+,None,None,,,0.43588324,180
+ABIDE_II,NYU_1,29216,Yes,Yes,lpc+,None,None,,,0.324831844,180
+ABIDE_II,NYU_1,29217,Yes,Yes,lpc+,None,None,,,0.434385965,172
+ABIDE_II,NYU_1,29218,Yes,Yes,lpc+,None,None,,,0.382097765,180
+ABIDE_II,NYU_1,29219,Yes,Yes,lpc+,None,None,,,0.317523464,180
+ABIDE_II,NYU_1,29220,Yes,Yes,lpc+,Minor,None,,,0.35987095,180
+ABIDE_II,NYU_1,29221,Yes,Yes,lpc+,None,None,,,0.137686592,180
+ABIDE_II,NYU_1,29222,Yes,Yes,lpc+,None,None,,,0.381361453,180
+ABIDE_II,NYU_1,29223,Yes,Yes,lpc+,None,None,,,0.259082123,180
+ABIDE_II,NYU_1,29224,Yes,Yes,lpc+,None,None,,,0.084412291,180
+ABIDE_II,NYU_1,29225,Yes,Yes,lpc+,None,None,,,0.231999441,180
+ABIDE_II,NYU_1,29226,Yes,Yes,lpc+,None,A lot,Parietal,Parietal lobe not registered bilatterally,0.076306145,180
+ABIDE_II,NYU_1,29227,Yes,Yes,lpc+,None,None,,,0.068920112,180
+ABIDE_II,NYU_1,29228,Yes,Yes,lpc+,None,None,,,0.238278212,180
+ABIDE_II,NYU_1,29229,Yes,Yes,lpc+,None,None,,,0.27627486,180
+ABIDE_II,NYU_1,29230,Yes,Yes,lpc+,None,None,,,0.125399441,180
+ABIDE_II,NYU_1,29231,Yes,Yes,lpc+,None,None,,,0.204497207,180
+ABIDE_II,NYU_1,29232,Yes,Yes,lpc+,Minor,None,,,0.185169832,180
+ABIDE_II,NYU_1,29233,Yes,Yes,lpc+,None,None,,,0.075210056,180
+ABIDE_II,NYU_1,29234,Yes,Yes,lpc+,None,None,,,0.371515643,180
+ABIDE_II,NYU_1,29235,Yes,Yes,lpc+,None,None,,,0.115276536,180
+ABIDE_II,NYU_1,29236,Yes,Yes,lpc+,None,None,,,0.117573743,180
+ABIDE_II,NYU_1,29237,Yes,Yes,lpc+,None,None,,,0.15703352,180
+ABIDE_II,NYU_1,29238,Yes,Yes,lpc+,None,None,,,0.078068715,180
+ABIDE_II,NYU_1,29239,Yes,Yes,lpc+,None,None,,,0.096803352,180
+ABIDE_II,NYU_1,29240,Yes,Yes,lpc+,None,None,,,0.09560838,180
+ABIDE_II,NYU_1,29241,Yes,Yes,lpc+,None,None,,,0.108531844,180
+ABIDE_II,NYU_1,29242,Yes,Yes,lpc+,None,None,,,0.059381006,180
+ABIDE_II,NYU_1,29243,Yes,Yes,lpc+,None,None,,,0.123411732,180
+ABIDE_II,NYU_1,29244,Yes,Yes,lpc+,None,None,,,0.107237989,180
+ABIDE_II,NYU_1,29245,Yes,Yes,lpc+,None,None,,,0.163055307,180
+ABIDE_II,NYU_1,29246,Yes,Yes,lpc+,None,None,,,0.082034637,180
+ABIDE_II,NYU_1,29247,Yes,Yes,lpc+,None,None,,,0.106100559,180
+ABIDE_II,NYU_1,29248,Yes,Yes,lpc+,None,None,,,0.087526816,180
+ABIDE_II,NYU_1,29249,Yes,Yes,lpc+,None,None,,,0.237137989,180
+ABIDE_II,NYU_1,29250,Yes,Yes,lpc+,None,None,,,0.147218436,180
+ABIDE_II,NYU_1,29251,Yes,Yes,lpc+,None,None,,,0.091912291,180
+ABIDE_II,NYU_1,29252,Yes,Yes,lpc+,None,None,,,0.393223464,180
+ABIDE_II,NYU_1,29253,Yes,Yes,lpc+,None,None,,,0.229024022,180
+ABIDE_II,NYU_1,29254,Yes,Yes,lpc+,None,None,,,0.134780447,180
+ABIDE_II,NYU_2,29150,Yes,Yes,lpc+,None,A lot,Parietal,Parietal lobe not registered bilatterally,0.181259218,180
+ABIDE_II,NYU_2,29151,Yes,Yes,lpc+,None,None,,,0.32300125,161
+ABIDE_II,NYU_2,29152,Yes,Yes,lpc+,None,None,,,0.162370391,180
+ABIDE_II,NYU_2,29153,Yes,Yes,lpc+,None,Minor,Parietal,Parietal not fully registered bilatterally,0.223444134,180
+ABIDE_II,NYU_2,29154,Yes,Yes,lpc+,None,None,,,0.126341899,180
+ABIDE_II,NYU_2,29155,Yes,Yes,lpc+,None,None,,,0.123365363,180
+ABIDE_II,NYU_2,29156,Yes,Yes,lpc+,None,A lot,Frontal,Left mPFC frontal not registered,0.167336872,180
+ABIDE_II,NYU_2,29157,Yes,Yes,lpc+,None,None,,,0.081040782,180
+ABIDE_II,NYU_2,29158,Yes,Yes,lpc+,None,None,,,0.377151955,180
+ABIDE_II,NYU_2,29159,Yes,Yes,lpc+,None,None,,,0.156196648,180
+ABIDE_II,NYU_2,29160,Yes,Yes,lpc+,None,None,,,0.100472626,180
+ABIDE_II,NYU_2,29161,Yes,Yes,lpc+,None,None,,,0.299183799,180
+ABIDE_II,NYU_2,29162,Yes,Yes,lpc+,None,None,,,0.072016201,180
+ABIDE_II,NYU_2,29163,Yes,Yes,lpc+,None,A lot,Parietal,Parietal lobe not fully registered bilatterally ,0.137217877,180
+ABIDE_II,NYU_2,29164,Yes,Yes,lpc+,None,None,,,0.195836872,180
+ABIDE_II,NYU_2,29165,Yes,Yes,lpc+,None,None,,,0.271844134,180
+ABIDE_II,NYU_2,29166,Yes,Yes,lpc+,None,None,,,0.195643017,180
+ABIDE_II,NYU_2,29167,Yes,Yes,lpc+,None,None,,,0.089410056,180
+ABIDE_II,NYU_2,29168,Yes,Yes,lpc+,None,A lot,Parietal,Parietal lobe not fully registered bilatterally,0.110589944,180
+ABIDE_II,NYU_2,29169,Yes,Yes,lpc+,None,A lot,Parietal,Parietal lobe not registered bilatterally,0.140222346,180
+ABIDE_II,NYU_2,29170,Yes,Yes,lpc+,None,None,,,0.126813967,180
+ABIDE_II,NYU_2,29171,Yes,Yes,lpc+,None,Excessive,Occipital,Occipital lobe not registered,0.431001676,180
+ABIDE_II,NYU_2,29172,Yes,Yes,lpc+,None,None,,,0.087621788,180
+ABIDE_II,NYU_2,29173,Yes,Yes,lpc+,None,Minor,Frontal,MPFC not fully registered bilatteraly ,0.226306704,180
+ABIDE_II,NYU_2,29174,Yes,Yes,lpc+,None,None,,,0.196122905,180
+ABIDE_II,NYU_2,29175,Yes,Yes,lpc+,None,None,,,0.206893855,180
+ABIDE_II,NYU_2,29176,Yes,Yes,lpc+,None,Minor,Frontal,Right frontal lobe not fully registered,0.307624581,180
+ABIDE_II,OHSU,28920,Yes,Yes,lpc+,None,None,,,0.195306723,120
+ABIDE_II,OHSU,28924,Yes,Yes,lpc+,None,None,,,0.116853782,120
+ABIDE_II,OHSU,28925,Yes,Yes,lpc+,None,None,,,0.245888235,120
+ABIDE_II,OHSU,28926,Yes,Yes,lpc+,None,None,,,0.319579832,120
+ABIDE_II,OHSU,28927,Yes,Yes,lpc+,None,None,,,0.188087395,120
+ABIDE_II,OHSU,28930,Yes,Yes,lpc+,Excessive,Excessive,Frontal, EPI out of FOV,0.294778151,120
+ABIDE_II,OHSU,28931,Yes,Yes,lpc+,None,None,,,0.683360504,120
+ABIDE_II,OHSU,28933,Yes,Yes,lpc+,None,None,,,0.27304874,120
+ABIDE_II,OHSU,28934,Yes,Yes,lpc+,None,None,,,0.254359664,120
+ABIDE_II,OHSU,28935,Yes,Yes,lpc+,None,None,,,0.106958824,120
+ABIDE_II,OHSU,28936,Yes,Yes,lpc+,Minor,Excessive,Frontal,Frontal lobe not registered bilatterally ,0.212821849,120
+ABIDE_II,OHSU,28937,Yes,Yes,lpc+,None,None,,,0.371781513,120
+ABIDE_II,OHSU,28938,Yes,Yes,lpc+,None,None,,,0.243954622,120
+ABIDE_II,OHSU,28939,Yes,Yes,lpc+,None,None,,,0.172226891,120
+ABIDE_II,OHSU,28940,Yes,Yes,lpc+,None,None,,,0.159335294,120
+ABIDE_II,OHSU,28941,Yes,Yes,lpc+,None,None,,,0.128847899,120
+ABIDE_II,OHSU,28942,Yes,Yes,lpc+,None,None,,,0.229611765,120
+ABIDE_II,OHSU,28943,Yes,Yes,lpc+,None,None,,,0.098569748,120
+ABIDE_II,OHSU,28944,Yes,Yes,lpc+,None,None,,,0.282786555,120
+ABIDE_II,OHSU,28945,Yes,Yes,lpc+,None,None,,,0.264842017,120
+ABIDE_II,OHSU,28946,Yes,Yes,lpc+,None,None,,,0.505804202,120
+ABIDE_II,OHSU,28947,Yes,Yes,lpc+,None,None,,,0.142305042,120
+ABIDE_II,OHSU,28948,Yes,Yes,lpc+,None,None,,,0.210928571,120
+ABIDE_II,OHSU,28949,Yes,Yes,lpc+,None,None,,,0.209673109,120
+ABIDE_II,OHSU,28950,Yes,Yes,lpc+,None,None,,,0.527621008,120
+ABIDE_II,OHSU,28951,Yes,Yes,lpc+,None,None,,,0.211318487,120
+ABIDE_II,OHSU,28952,Yes,Yes,lpc+,None,None,,,0.06244874,120
+ABIDE_II,OHSU,28953,Yes,Yes,lpc+,None,None,,,0.219973109,120
+ABIDE_II,OHSU,28954,Yes,Yes,lpc+,None,Minor,Frontal ,mPFC not fully registered bilatterally,0.157465546,120
+ABIDE_II,OHSU,28955,Yes,Yes,lpc+,None,None,,,0.169528571,120
+ABIDE_II,OHSU,28956,Yes,Yes,lpc+,None,None,,,0.209056303,120
+ABIDE_II,OHSU,28957,Yes,Yes,lpc+,None,None,,,0.320856303,120
+ABIDE_II,OHSU,28958,Yes,Yes,lpc+,None,None,,,0.162262185,120
+ABIDE_II,OHSU,28960,Yes,Yes,lpc+,None,None,,,0.100231092,120
+ABIDE_II,OHSU,28961,Yes,Yes,lpc+,None,None,,,0.082912605,120
+ABIDE_II,OHSU,28962,Yes,Yes,lpc+,None,None,,,0.47192605,120
+ABIDE_II,OHSU,28963,Yes,Yes,lpc+,Minor,Excessive,Frontal,Frontal lobe not registered bilatterally ,0.273766387,120
+ABIDE_II,OHSU,28964,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered bilatterally - shimming,0.255447899,120
+ABIDE_II,OHSU,28965,Yes,Yes,lpc+,None,None,,,1.974894118,120
+ABIDE_II,OHSU,28966,Yes,Yes,lpc+,None,None,,,0.464161345,120
+ABIDE_II,OHSU,28967,Yes,Yes,lpc+,None,None,,,0.09445042,120
+ABIDE_II,OHSU,28968,Yes,Yes,lpc+,None,None,,,0.093838655,120
+ABIDE_II,OHSU,28969,Yes,Yes,lpc+,None,None,,,0.244531933,120
+ABIDE_II,OHSU,28970,Yes,Yes,lpc+,None,None,,,0.082307563,120
+ABIDE_II,OHSU,28971,Yes,Yes,lpc+,None,None,,,0.464467227,120
+ABIDE_II,OHSU,28972,Yes,Yes,lpc+,None,None,,,0.080094118,120
+ABIDE_II,OHSU,28973,Yes,Yes,lpc+,None,None,,,0.111955462,120
+ABIDE_II,OHSU,28974,Yes,Yes,lpc+,None,None,,,0.160130252,120
+ABIDE_II,OHSU,28975,Yes,Yes,lpc+,None,None,,,0.194285714,120
+ABIDE_II,OHSU,28976,Yes,Yes,lpc+,None,None,,,0.246569748,120
+ABIDE_II,OHSU,28977,Yes,Yes,lpc+,None,None,,,0.20329916,120
+ABIDE_II,OHSU,28978,Yes,Yes,lpc+,None,None,,,0.14374958,120
+ABIDE_II,OHSU,28979,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered bilatterally - shimming,0.096709244,120
+ABIDE_II,OHSU,28980,Yes,Yes,lpc+,None,None,,,0.141743698,120
+ABIDE_II,OHSU,28981,Yes,Yes,lpc+,None,None,,,0.106077311,120
+ABIDE_II,OHSU,28982,Yes,Yes,lpc+,None,None,,,0.173364706,120
+ABIDE_II,OHSU,28983,Yes,Yes,lpc+,None,None,,,0.230202521,120
+ABIDE_II,OHSU,28984,Yes,Yes,lpc+,None,None,,,0.125934454,120
+ABIDE_II,OHSU,28985,Yes,Yes,lpc+,None,None,,,0.200895798,120
+ABIDE_II,OHSU,28986,Yes,Yes,lpc+,None,None,,,0.090157983,120
+ABIDE_II,OHSU,28987,Yes,Yes,lpc+,None,None,,,0.120494118,120
+ABIDE_II,OHSU,28988,Yes,Yes,lpc+,None,None,,,0.141241177,120
+ABIDE_II,OHSU,28989,Yes,Yes,lpc+,None,None,,,0.132986555,120
+ABIDE_II,OHSU,28990,Yes,Yes,lpc+,None,None,,,0.064440336,120
+ABIDE_II,OHSU,28991,Yes,Yes,lpc+,None,None,,,0.104741177,120
+ABIDE_II,OHSU,28992,Yes,Yes,lpc+,None,A lot,Fronta,Superior Frontal not  fully registered billaterally,0.285189916,120
+ABIDE_II,OHSU,28993,Yes,Yes,lpc+,None,None,,,0.090188235,120
+ABIDE_II,OHSU,28994,Yes,Yes,lpc+,None,None,,,0.167091597,120
+ABIDE_II,OHSU,28995,Yes,Yes,lpc+,None,None,,,0.08507395,120
+ABIDE_II,OHSU,28996,Yes,Yes,lpc+,None,None,,,0.188504202,120
+ABIDE_II,OHSU,28997,Yes,Yes,lpc+,None,None,,,0.194711765,120
+ABIDE_II,OHSU,28998,Yes,Yes,lpc+,None,None,,,0.111154622,120
+ABIDE_II,OHSU,28999,Yes,Yes,lpc+,None,None,,,0.110480672,120
+ABIDE_II,OHSU,29000,Yes,Yes,lpc+,None,None,,,0.180577311,120
+ABIDE_II,OHSU,29001,Yes,Yes,lpc+,None,None,,,0.080003361,120
+ABIDE_II,OHSU,29002,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered bilatterally - shimming Right hemisphere,0.104169748,120
+ABIDE_II,OHSU,29003,Yes,Yes,lpc+,None,None,,,0.172177311,120
+ABIDE_II,OHSU,29004,Yes,Yes,lpc+,None,None,,,0.114418487,120
+ABIDE_II,OHSU,29005,Yes,Yes,lpc+,None,None,,,0.689264706,120
+ABIDE_II,OHSU,30154,Yes,Yes,lpc+,None,None,,,0.053368067,120
+ABIDE_II,OHSU,30155,Yes,Yes,lpc+,None,None,,,0.1088,120
+ABIDE_II,OHSU,30156,Yes,Yes,lpc+,None,None,,,0.167591597,120
+ABIDE_II,OHSU,30157,Yes,Yes,lpc+,None,None,,,0.064989916,120
+ABIDE_II,OHSU,30158,Yes,Yes,lpc+,None,None,,,0.113369748,120
+ABIDE_II,OHSU,30159,Yes,Yes,lpc+,None,None,,,0.078463866,120
+ABIDE_II,OHSU,30160,Yes,Yes,lpc+,None,None,,,0.075961345,120
+ABIDE_II,OHSU,30161,Yes,Yes,lpc+,None,None,,,0.056668908,120
+ABIDE_II,OHSU,30162,Yes,Yes,lpc+,None,None,,,0.244302521,120
+ABIDE_II,OHSU,30163,Yes,Yes,lpc+,None,None,,,0.1604,120
+ABIDE_II,OHSU,30164,Yes,Yes,lpc+,None,None,,,0.085582353,120
+ABIDE_II,OHSU,30165,Yes,Yes,lpc+,None,None,,,0.195153782,120
+ABIDE_II,OHSU,30166,Yes,Yes,lpc+,None,None,,,0.109729412,120
+ABIDE_II,OHSU,30167,Yes,Yes,lpc+,None,None,,,0.091004202,120
+ABIDE_II,OLIN,28675,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal lobe not registered bilatterally ,0.095999789,947
+ABIDE_II,OLIN,28676,Yes,Yes,lpc+,None,Excessive,Occipital,Occipital lobe not registered,0.158466808,947
+ABIDE_II,OLIN,28677,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal lobe not registered bilatterally ,0.181165962,947
+ABIDE_II,OLIN,28678,Yes,Yes,lpc+,None,None,,,0.249873784,947
+ABIDE_II,OLIN,28679,Yes,Yes,lpc+,None,None,,,0.152015962,947
+ABIDE_II,OLIN,28680,Yes,Yes,lpc+,None,None,,,0.387979493,947
+ABIDE_II,OLIN,28681,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal lobe missing,0.082218288,947
+ABIDE_II,OLIN,28682,Yes,Yes,lpc+,None,None,,,0.235399366,947
+ABIDE_II,OLIN,28683,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered,0.085690275,947
+ABIDE_II,OLIN,28684,Yes,Yes,lpc+,None,A lot,Temporal,Subcortical structures not registered,0.128962262,947
+ABIDE_II,OLIN,28685,Yes,Yes,lpc+,None,None,,,0.298620613,947
+ABIDE_II,OLIN,28686,Yes,Yes,lpc+,None,None,,,0.12607611,947
+ABIDE_II,OLIN,28687,Yes,Yes,lpc+,None,None,,,0.116525159,947
+ABIDE_II,OLIN,28688,Yes,Yes,lpc+,None,None,,,0.111859197,947
+ABIDE_II,OLIN,28689,Yes,Yes,lpc+,None,None,,,0.298119979,947
+ABIDE_II,OLIN,28690,Yes,Yes,lpc+,None,None,,,0.143009091,947
+ABIDE_II,OLIN,28691,Yes,Yes,lpc,None,None,,,0.140143869,947
+ABIDE_II,OLIN,28692,Yes,Yes,lpc+,None,None,,,0.134554017,947
+ABIDE_II,OLIN,28693,Yes,Yes,lpc+,None,None,,,0.578769979,947
+ABIDE_II,OLIN,28694,Yes,Yes,lpc+,None,None,,,0.170804123,947
+ABIDE_II,OLIN,28695,Yes,Yes,lpc+,None,None,,,0.120632347,947
+ABIDE_II,OLIN,28696,Yes,Yes,lpc+,None,None,,,0.121521882,947
+ABIDE_II,OLIN,28697,Yes,Yes,lpc+,None,Excessive,Frontal,EPI missplaced due to anatomical issues,0.127771987,947
+ABIDE_II,OLIN,28698,Yes,Yes,lpc+,None,A lot,Temporal,Temporal lobe and subcortical structures not fully registered bilatterally ,0.207732223,947
+ABIDE_II,OLIN,28699,Yes,Yes,lpc+,None,None,,,0.086861522,947
+ABIDE_II,OLIN,28700,Yes,Yes,lpc+,None,None,,,0.103042495,947
+ABIDE_II,OLIN,28701,Yes,Yes,lpc+,None,A lot,Temporal,Temporal and subcortical structures not fully registered,0.124750529,947
+ABIDE_II,OLIN,28702,Yes,Yes,lpc+,None,None,,,0.206060465,947
+ABIDE_II,OLIN,28703,Yes,Yes,lpc+,None,None,,,0.134582875,947
+ABIDE_II,OLIN,28704,Yes,Yes,lpc+,None,A lot,Temporal,Inferior temporal gyrus not fully registered,0.087463002,947
+ABIDE_II,OLIN,28705,Yes,Yes,lpc+,None,A lot,Temporal,Inferior temporal gyrus not fully registered,0.110917865,947
+ABIDE_II,OLIN,28706,Yes,Yes,lpc+,None,A lot,Temporal,Inferior temporal gyrus not fully registered,0.123946935,947
+ABIDE_II,OLIN,28707,Yes,Yes,lpc+,None,None,,,0.140130655,947
+ABIDE_II,OLIN,28708,Yes,Yes,lpc+,None,None,,,0.258522833,947
+ABIDE_II,OLIN,28709,Yes,Yes,lpc+,None,None,,,0.084708034,947
+ABIDE_II,OLIN,28710,Yes,Yes,lpc+,None,None,,,0.128972516,947
+ABIDE_II,OLIN,28711,Yes,Yes,lpc+,None,None,,,0.300406343,947
+ABIDE_II,OLIN,28712,Yes,Yes,lpc+,None,None,,,0.18990666,947
+ABIDE_II,OLIN,28713,Yes,Yes,lpc+,None,None,,,0.08873203,947
+ABIDE_II,OLIN,28714,Yes,Yes,lpc+,None,Excessive,Temporal,Temporal and subcortical structures not registered bilatterally,0.101513531,947
+ABIDE_II,OLIN,28715,Yes,Yes,lpc+,None,None,,,0.230066173,947
+ABIDE_II,OLIN,28716,Yes,Yes,lpc+,None,None,,,0.092015116,947
+ABIDE_II,OLIN,28717,Yes,Yes,lpc+,None,None,,,0.293632875,947
+ABIDE_II,OLIN,28718,Yes,Yes,lpc+,None,Excessive,Frontal,Frontal part missing,0.119914482,947
+ABIDE_II,OLIN,28719,Yes,Yes,lpc+,None,None,,,0.113872833,947
+ABIDE_II,OLIN,28720,Yes,Yes,lpc+,None,None,,,0.07130444,947
+ABIDE_II,OLIN,28721,Yes,Yes,lpc+,None,None,,,0.091374947,947
+ABIDE_II,OLIN,28722,Yes,Yes,lpc+,None,None,,,0.078745349,947
+ABIDE_II,OLIN,28723,Yes,Yes,lpc+,None,None,,,0.159434884,947
+ABIDE_II,OLIN,28724,Yes,Yes,lpc+,None,None,,,0.196615222,947
+ABIDE_II,OLIN,28725,Yes,Yes,lpc+,None,None,,,0.136669345,947
+ABIDE_II,OLIN,28726,Yes,Yes,lpc+,None,None,,,0.119368499,947
+ABIDE_II,OLIN,28727,Yes,Yes,lpc+,None,None,,,0.156097463,947
+ABIDE_II,OLIN,28728,Yes,Yes,lpc+,None,None,,,0.156900951,947
+ABIDE_II,OLIN,28729,Yes,Yes,lpc+,None,None,,,0.108428753,947
+ABIDE_II,OLIN,28730,Yes,Yes,lpc+,None,None,,,0.133024207,947
+ABIDE_II,OLIN,28731,Yes,Yes,lpc+,None,None,,,0.111421353,947
+ABIDE_II,OLIN,28732,Yes,Yes,lpc+,None,None,,,0.142085307,947
+ABIDE_II,OLIN,28732,Yes,Yes,lpc+,None,None,,,0.09126687,
+ABIDE_II,SDSU,28852,Yes,Yes,lpc+,None,Minor,Temportal,Temporal pole not fully registered bilatterally,0.169011732,240
+ABIDE_II,SDSU,28853,Yes,Yes,lpc+,None,None,,,0.173917318,180
+ABIDE_II,SDSU,28854,Yes,Yes,lpc+,None,Minor,Temportal,Temporal pole not fully registered bilatterally,0.106468715,180
+ABIDE_II,SDSU,28855,Yes,Yes,lpc+,None,None,,,0.150084358,180
+ABIDE_II,SDSU,28856,Yes,Yes,lpc+,None,None,,,0.383736872,180
+ABIDE_II,SDSU,28857,Yes,Yes,lpc+,None,None,,,0.093654749,180
+ABIDE_II,SDSU,28858,Yes,Yes,lpc+,None,None,,,0.28568771,180
+ABIDE_II,SDSU,28859,Yes,Yes,lpc+,None,None,,,0.15457933,180
+ABIDE_II,SDSU,28860,Yes,Yes,lpc+,None,None,,,0.080523464,180
+ABIDE_II,SDSU,28861,Yes,Yes,lpc+,None,None,,,0.085706145,180
+ABIDE_II,SDSU,28862,Yes,Yes,lpc+,None,None,,,0.393981564,180
+ABIDE_II,SDSU,28863,Yes,Yes,lpc+,None,A lot,Temporal,Temporal lobe chunk missing right hemisphere -missing in EPI,0.180431844,180
+ABIDE_II,SDSU,28864,Yes,Yes,lpc+,None,None,,,0.061938547,180
+ABIDE_II,SDSU,28865,Yes,Yes,lpc+,None,None,,,0.100512291,180
+ABIDE_II,SDSU,28866,Yes,Yes,lpc+,None,None,,,0.114372626,180
+ABIDE_II,SDSU,28867,Yes,Yes,lpc+,None,None,,,0.049678771,180
+ABIDE_II,SDSU,28868,Yes,Yes,lpc+,None,None,,,0.048296648,180
+ABIDE_II,SDSU,28869,Yes,Yes,lpc+,None,A lot,Temportal,Temporal lobe chunk missing right hemisphere -missing in EPI,0.133026816,180
+ABIDE_II,SDSU,28870,Yes,Yes,lpc+,None,None,,,0.037100559,180
+ABIDE_II,SDSU,28871,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered bilatterally,0.171722346,180
+ABIDE_II,SDSU,28872,Yes,Yes,lpc+,None,None,,,0.14617933,180
+ABIDE_II,SDSU,28873,Yes,Yes,lpc+,None,None,,,0.068598324,180
+ABIDE_II,SDSU,28874,Yes,Yes,lpc+,None,None,,,0.088439106,180
+ABIDE_II,SDSU,28875,Yes,Yes,lpc+,None,None,,,0.442898324,180
+ABIDE_II,SDSU,28876,Yes,Yes,lpc+,None,None,,,0.124031285,180
+ABIDE_II,SDSU,28877,Yes,Yes,lpc+,Minor,Excessive,Frontal,Frontal lobe not registered bilatterally ,0.109444134,180
+ABIDE_II,SDSU,28878,Yes,Yes,lpc+,None,None,,,0.083198883,180
+ABIDE_II,SDSU,28879,Yes,Yes,lpc+,None,None,,,0.120655866,180
+ABIDE_II,SDSU,28880,Yes,Yes,lpc+,None,None,,,0.067289385,180
+ABIDE_II,SDSU,28881,Yes,Yes,lpc+,None,None,,,0.131995531,180
+ABIDE_II,SDSU,28882,Yes,Yes,lpc+,None,None,,,0.068188827,180
+ABIDE_II,SDSU,28883,Yes,Yes,lpc+,None,None,,,0.15652905,180
+ABIDE_II,SDSU,28884,Yes,Yes,lpc+,None,None,,,0.073288268,180
+ABIDE_II,SDSU,28885,Yes,Yes,lpc+,None,None,,,0.165736872,180
+ABIDE_II,SDSU,28886,Yes,Yes,lpc+,None,None,,,0.261998883,180
+ABIDE_II,SDSU,28887,Yes,Yes,lpc+,None,None,,,0.572589386,180
+ABIDE_II,SDSU,28888,Yes,Yes,lpc+,None,None,,,0.109684916,180
+ABIDE_II,SDSU,28889,Yes,Yes,lpc+,0,0,0,0,0,180
+ABIDE_II,SDSU,28890,Yes,Yes,lpc+,None,None,,,0.166782682,180
+ABIDE_II,SDSU,28891,Yes,Yes,lpc+,None,None,,,0.120473184,180
+ABIDE_II,SDSU,28892,Yes,Yes,lpc+,None,None,,,0.444453631,180
+ABIDE_II,SDSU,28893,Yes,Yes,lpc+,None,None,,,0.11388324,180
+ABIDE_II,SDSU,28894,Yes,Yes,lpc+,None,None,,,0.055005587,180
+ABIDE_II,SDSU,28895,Yes,Yes,lpc+,None,None,,,0.076156425,180
+ABIDE_II,SDSU,28896,Yes,Yes,lpc+,None,None,,,0.122927374,180
+ABIDE_II,SDSU,28897,Yes,Yes,lpc+,None,None,,,0.09797933,180
+ABIDE_II,SDSU,28898,Yes,Yes,lpc+,None,None,,,0.202456983,180
+ABIDE_II,SDSU,28899,Yes,Yes,lpc+,None,None,,,0.190595531,180
+ABIDE_II,SDSU,28900,Yes,Yes,lpc+,None,None,,,0.164886592,180
+ABIDE_II,SDSU,28901,Yes,Yes,lpc+,None,None,,,0.096444134,180
+ABIDE_II,SDSU,28902,Yes,Yes,lpc+,None,None,,,0.114173743,180
+ABIDE_II,SDSU,28903,Yes,Yes,lpc+,None,None,,,0.079822346,180
+ABIDE_II,SDSU,28904,Yes,Yes,lpc+,None,None,,,0.11452067,180
+ABIDE_II,SDSU,28905,Yes,Yes,lpc+,None,None,,,0.239909497,180
+ABIDE_II,SDSU,28906,Yes,Yes,lpc+,None,None,,,0.098447486,180
+ABIDE_II,SDSU,28907,Yes,Yes,lpc+,None,None,,,0.329940224,180
+ABIDE_II,SDSU,28908,Yes,Yes,lpc+,None,None,,,0.115028492,180
+ABIDE_II,SDSU,28909,Yes,Yes,lpc+,None,None,,,0.181718436,180
+ABIDE_II,STANFORD,30168,Yes,Yes,lpc+,None,None,,,0.062068715,180
+ABIDE_II,STANFORD,30169,Yes,Yes,lpc+,None,None,,,0.302937989,180
+ABIDE_II,STANFORD,30170,Yes,Yes,lpc+,None,None,,,0.119196089,180
+ABIDE_II,STANFORD,30171,Yes,Yes,lpc+,None,None,,,0.18811676,180
+ABIDE_II,STANFORD,30172,Yes,Yes,lpc+,None,None,,,0.173309497,180
+ABIDE_II,STANFORD,30173,Yes,Yes,lpc+,None,None,,,0.128088827,180
+ABIDE_II,STANFORD,30174,Yes,Yes,lpc+,None,None,,,0.231869832,180
+ABIDE_II,STANFORD,30175,Yes,Yes,lpc+,None,None,,,0.188486592,180
+ABIDE_II,STANFORD,30176,Yes,Yes,lpc+,None,None,,,0.212340782,180
+ABIDE_II,STANFORD,30177,Yes,Yes,lpc+,None,None,,,1.116436313,180
+ABIDE_II,STANFORD,30178,Yes,Yes,lpc+,None,None,,,0.132219553,180
+ABIDE_II,STANFORD,30179,Yes,Yes,lpc+,None,None,,,0.118824022,180
+ABIDE_II,STANFORD,30180,Yes,Yes,lpc+,None,None,,,0.20661676,180
+ABIDE_II,STANFORD,30181,Yes,Yes,lpc+,None,None,,,0.166177654,180
+ABIDE_II,STANFORD,30182,Yes,Yes,lpc+,None,None,,,0.171444693,180
+ABIDE_II,STANFORD,30183,Yes,Yes,lpc+,None,None,,,0.083991061,180
+ABIDE_II,STANFORD,30184,Yes,Yes,lpc+,None,None,,,0.136009497,180
+ABIDE_II,STANFORD,30185,Yes,Yes,lpc+,None,Excessive,Frontal,Anatomical is broken and results in rendered frontal regions (same values for mininges and GM - LH),0.09090838,180
+ABIDE_II,STANFORD,30186,Yes,Yes,lpc+,None,None,,,0.081550279,180
+ABIDE_II,STANFORD,30187,Yes,Yes,lpc+,None,None,,,0.118463687,180
+ABIDE_II,STANFORD,30188,Yes,Yes,lpc+,None,None,,,0.332426257,180
+ABIDE_II,STANFORD,30189,Yes,Yes,lpc+,None,None,,,0.076213408,180
+ABIDE_II,STANFORD,30190,Yes,Yes,lpc+,None,None,,,0.147272067,180
+ABIDE_II,STANFORD,30191,Yes,Yes,lpc+,None,None,,,0.227456425,180
+ABIDE_II,STANFORD,30192,Yes,Yes,lpc+,None,None,,,0.195840223,180
+ABIDE_II,STANFORD,30193,Yes,Yes,lpc+,None,None,,,0.416717877,180
+ABIDE_II,STANFORD,30194,Yes,Yes,lpc+,None,Minor,Frontal,Tilted in the anterior section,0.053281006,180
+ABIDE_II,STANFORD,30195,Yes,Yes,lpc+,None,None,,,0.143010056,180
+ABIDE_II,STANFORD,30196,Yes,Yes,lpc+,None,None,,,0.11988324,180
+ABIDE_II,STANFORD,30197,Yes,Yes,lpc+,None,None,,,0.343725698,180
+ABIDE_II,STANFORD,30198,Yes,Yes,lpc+,None,None,,,0.127873184,180
+ABIDE_II,STANFORD,30199,Yes,Yes,lpc+,None,None,,,0.226296089,180
+ABIDE_II,STANFORD,30200,Yes,Yes,lpc+,None,Minor,Forntal,vmPFC not fully registered bilatterally,0.204228492,180
+ABIDE_II,STANFORD,30201,Yes,Yes,lpc+,None,None,,,0.087505587,180
+ABIDE_II,STANFORD,30202,Yes,Yes,lpc+,None,Minor,Frontal,vmPFC not fully registered bilatterally,0.068597765,180
+ABIDE_II,STANFORD,30203,Yes,Yes,lpc+,None,Minor,Frontal,vmPFC not fully registered bilatterally,0.223187151,180
+ABIDE_II,STANFORD,30204,Yes,Yes,lpc+,None,None,,,0.150667598,180
+ABIDE_II,STANFORD,30205,Yes,Yes,lpc+,None,None,,,0.119722346,180
+ABIDE_II,STANFORD,30206,Yes,Yes,lpc+,None,None,,,0.190127933,180
+ABIDE_II,STANFORD,30207,Yes,Yes,lpc+,None,None,,,0.16247095,180
+ABIDE_II,STANFORD,30208,Yes,Yes,lpc+,None,None,,,0.299794972,180
+ABIDE_II,STANFORD,30209,Yes,Yes,lpc+,None,None,,,0.111295531,180
+ABIDE_II,TRINITY,29096,Yes,Yes,lpc+,None,None,,,0.352105263,210
+ABIDE_II,TRINITY,29097,Yes,Yes,lpc+,None,None,,,1.174571292,210
+ABIDE_II,TRINITY,29098,Yes,Yes,lpc+,None,None,,,0.782188995,210
+ABIDE_II,TRINITY,29099,Yes,Yes,lpc+,None,None,,,0.339455981,210
+ABIDE_II,TRINITY,29100,Yes,Yes,lpc+,None,None,,,0.927943541,210
+ABIDE_II,TRINITY,29101,Yes,Yes,lpc+,None,None,,,0.529610048,210
+ABIDE_II,TRINITY,29102,Yes,Yes,lpc+,None,None,,,2.768445455,210
+ABIDE_II,TRINITY,29103,Yes,Yes,lpc+,None,None,,,0.381409569,210
+ABIDE_II,TRINITY,29104,Yes,Yes,lpc+,None,None,,,0.169769182,160
+ABIDE_II,TRINITY,29105,Yes,Yes,lpc+,None,None,,,0.168705263,210
+ABIDE_II,TRINITY,29106,Yes,Yes,lpc+,None,None,,,0.577816268,210
+ABIDE_II,TRINITY,29107,Yes,Yes,lpc+,None,None,,,0.12390622,210
+ABIDE_II,TRINITY,29108,Yes,Yes,lpc+,None,None,,,0.498782297,210
+ABIDE_II,TRINITY,29109,Yes,Yes,lpc+,None,None,,,0.3119311,210
+ABIDE_II,TRINITY,29110,Yes,Yes,lpc+,None,None,,,1.240590909,210
+ABIDE_II,TRINITY,29111,Yes,Yes,lpc+,None,None,,,0.185382297,210
+ABIDE_II,TRINITY,29112,Yes,Yes,lpc+,None,None,,,0.120505742,210
+ABIDE_II,TRINITY,29113,Yes,Yes,lpc+,None,None,,,0.290655024,210
+ABIDE_II,TRINITY,29114,Yes,Yes,lpc+,None,None,,,0.206724402,210
+ABIDE_II,TRINITY,29115,Yes,Yes,lpc+,None,None,,,0.170604306,210
+ABIDE_II,TRINITY,29116,Yes,Yes,lpc+,None,None,,,0.26666555,210
+ABIDE_II,TRINITY,29117,Yes,Yes,lpc+,None,None,,,0.181362201,210
+ABIDE_II,TRINITY,29118,Yes,Yes,lpc+,None,None,,,0.238104785,210
+ABIDE_II,TRINITY,29119,Yes,Yes,lpc+,None,None,,,0.129921053,210
+ABIDE_II,TRINITY,29120,Yes,Yes,lpc+,None,None,,,0.164388995,210
+ABIDE_II,TRINITY,29121,Yes,Yes,lpc+,None,None,,,0.179590431,210
+ABIDE_II,TRINITY,29122,Yes,Yes,lpc+,None,None,,,0.199104306,210
+ABIDE_II,TRINITY,29123,Yes,Yes,lpc+,None,None,,,0.273933971,210
+ABIDE_II,TRINITY,29124,Yes,Yes,lpc+,None,None,,,0.107523445,210
+ABIDE_II,TRINITY,29125,Yes,Yes,lpc+,None,None,,,0.430212919,210
+ABIDE_II,TRINITY,29126,Yes,Yes,lpc+,None,None,,,0.875194258,210
+ABIDE_II,TRINITY,29127,Yes,Yes,lpc+,None,None,,,0.13637799,210
+ABIDE_II,TRINITY,29128,Yes,Yes,lpc+,None,None,,,0.13794689,210
+ABIDE_II,TRINITY,29129,Yes,Yes,lpc+,None,None,,,0.249203828,210
+ABIDE_II,TRINITY,29130,Yes,Yes,lpc+,None,None,,,0.167723923,210
+ABIDE_II,TRINITY,29131,Yes,Yes,lpc+,None,None,,,0.203205742,210
+ABIDE_II,TRINITY,29132,Yes,Yes,lpc+,None,None,,,0.198907656,210
+ABIDE_II,TRINITY,29133,Yes,Yes,lpc+,None,None,,,0.262029665,210
+ABIDE_II,TRINITY,29134,Yes,Yes,lpc+,None,None,,,0.961935407,210
+ABIDE_II,TRINITY,29135,Yes,Yes,lpc+,None,None,,,0.141790909,210
+ABIDE_II,TRINITY,29136,Yes,Yes,lpc+,None,None,,,0.333111962,210
+ABIDE_II,TRINITY,29137,Yes,Yes,lpc+,None,None,,,0.552962679,210
+ABIDE_II,UCDAVIS,29997,Yes,Yes,lpc,Minor,Excessive,Temporal,Left hemisphere missing,0.123759333,151
+ABIDE_II,UCDAVIS,29998,Yes,Yes,lpc+,None,None,,,0.116674,151
+ABIDE_II,UCDAVIS,29999,Yes,Yes,lpc+,None,None,,,0.773844,151
+ABIDE_II,UCDAVIS,30000,Yes,Yes,lpc+,Minor,A lot,Subcortical,Subcortical structures  missing,0.151215333,151
+ABIDE_II,UCDAVIS,30001,Yes,Yes,lpc+,Minor,A lot,Subcortical,Subcortical structures  missing,0.136868,151
+ABIDE_II,UCDAVIS,30002,Yes,Yes,lpc,Minor,None,Frontal,Left mPFC minor motion,0.409750667,151
+ABIDE_II,UCDAVIS,30003,Yes,Yes,lpc,None,A lot,Temporal,Right temporal lobe missing,0.332632,151
+ABIDE_II,UCDAVIS,30004,Yes,Yes,lpc,A lot,A lot,Frontal,Frontal missing bilatterally,0.161751333,151
+ABIDE_II,UCDAVIS,30005,Yes,Yes,lpc,None,Excessive,Temporal,"Temporal, frontal subcortical structures are missing in the left hemisphere",0.242526667,151
+ABIDE_II,UCDAVIS,30006,Yes,Yes,lpc,Minor,A lot,Frontal,"Frontal, temporal missing",0.235332667,151
+ABIDE_II,UCDAVIS,30007,Yes,Yes,lpc+,None,None,,,0.222697333,151
+ABIDE_II,UCDAVIS,30008,Yes,Yes,lpc+,Minor,Excessive,Occipital,Occipital missing,0.096563333,151
+ABIDE_II,UCDAVIS,30009,Yes,Yes,lpc,None,None,,,0.157239333,151
+ABIDE_II,UCDAVIS,30010,Yes,Yes,lpc,None,A lot,Frontal,Frontal missing bilatterally,0.073518,151
+ABIDE_II,UCDAVIS,30011,Yes,Yes,lpc,Minor,None,,Motion in right temporal,0.221379333,151
+ABIDE_II,UCDAVIS,30012,Yes,Yes,lpc,Minor,None,,Motion in right temporal,0.103745333,151
+ABIDE_II,UCDAVIS,30013,Yes,Yes,lpc,None,A lot,Frontal,Frontal is missing,0.217264,151
+ABIDE_II,UCDAVIS,30014,Yes,Yes,lpc,None,A lot,Temporal,Left temporal missing,0.180152667,151
+ABIDE_II,UCDAVIS,30015,Yes,Yes,lpc,None,A lot,Frontal,Left frontal missing,0.225127333,151
+ABIDE_II,UCDAVIS,30016,Yes,Yes,lpc,A lot,A lot,Frontal,There is a blob outside of the skull in right frontal lobe,0.129534667,151
+ABIDE_II,UCDAVIS,30017,Yes,Yes,lpc,None,A lot,Frontal,Frontal missing bilatterally,0.181144,151
+ABIDE_II,UCDAVIS,30018,Yes,Yes,lpc+,Minor,Excessive,Occipital,Occipital missing,0.165292667,151
+ABIDE_II,UCDAVIS,30019,Yes,Yes,lpc+,Minor,A lot,Subcortical,Subcortical structures  missing,0.098150667,151
+ABIDE_II,UCDAVIS,30020,Yes,Yes,lpc+,Minor,Minor,Temporal,IFG l not fully registeres,0.088660667,151
+ABIDE_II,UCDAVIS,30021,Yes,Yes,lpc+,Minor,A lot,Temporal,IFG and insula not fully registeres,0.118554667,151
+ABIDE_II,UCDAVIS,30022,Yes,Yes,lpc,None,None,,,0.386589333,151
+ABIDE_II,UCDAVIS,30023,Yes,Yes,lpc+,None,None,,,0.350841333,151
+ABIDE_II,UCDAVIS,30024,Yes,Yes,lpc+,None,A lot,Temporal,IFG and insula not fully registeres,0.077596,151
+ABIDE_II,UCDAVIS,30026,Yes,Yes,lpc+,None,A lot,Temporal,IFG and insula not fully registeres,0.173967333,151
+ABIDE_II,UCDAVIS,30027,Yes,Yes,lpc+,None,Minor,Temporal,IFG not fully registered,0.379689333,151
+ABIDE_II,UCDAVIS,30028,Yes,Yes,lpc+,None,Minor,Temporal,IFG not fully registered,0.094734667,151
+ABIDE_II,UCDAVIS,30029,Yes,Yes,lpc+,None,A lot,Temporal,IFG and insula not fully registeres,0.073508667,151
+ABIDE_II,UCLA,29728,Yes,Yes,lpc+,None,None,,,1.016605882,120
+ABIDE_II,UCLA,29729,Yes,Yes,lpc+,None,None,,,0.305265546,120
+ABIDE_II,UCLA,29730,Yes,Yes,lpc+,None,None,,,0.108283193,120
+ABIDE_II,UCLA,29731,Yes,Yes,lpc+,None,None,,,0.208335294,120
+ABIDE_II,UCLA,29732,Yes,Yes,lpc+,None,None,,,0.261711765,120
+ABIDE_II,UCLA,29733,Yes,Yes,lpc+,None,None,,,0.268211765,120
+ABIDE_II,UCLA,29734,Yes,Yes,lpc+,None,Minor,Temporal,Temporal pole not fully registered bilatterally,0.214879832,120
+ABIDE_II,UCLA,29735,Yes,Yes,lpc+,None,None,,,0.078017647,120
+ABIDE_II,UCLA,29736,Yes,Yes,lpc+,None,None,,,0.358827731,120
+ABIDE_II,UCLA,29737,Yes,Yes,lpc+,None,Minor,Frontal,mPFC not fully registered bilatterally,0.170178992,120
+ABIDE_II,UCLA,29738,Yes,Yes,lpc+,None,None,,,0.133178992,120
+ABIDE_II,UCLA,29739,Yes,Yes,lpc+,None,None,,,0.236715966,120
+ABIDE_II,UCLA,29740,Yes,Yes,lpc+,None,None,,,0.165291597,120
+ABIDE_II,UCLA,29741,Yes,Yes,lpc+,None,None,,,0.618451261,120
+ABIDE_II,UCLA,29742,Yes,Yes,lpc+,None,None,,,0.609240336,120
+ABIDE_II,UCLA,29743,Yes,Yes,lpc+,None,None,,,0.669258824,120
+ABIDE_II,UCLA,29744,Yes,Yes,lpc+,None,None,,,0.259794958,120
+ABIDE_II,UCLA,29745,Yes,Yes,lpc+,None,None,,,0.127354622,120
+ABIDE_II,UCLA,29746,Yes,Yes,lpc+,None,None,,,0.095609244,120
+ABIDE_II,UCLA,29747,Yes,Yes,lpc+,None,None,,,0.189743697,120
+ABIDE_II,UCLA,29748,Yes,Yes,lpc+,None,None,,,0.489185714,120
+ABIDE_II,UCLA,29749,Yes,Yes,lpc+,None,None,,,0.4092,120
+ABIDE_II,UCLA,29750,Yes,Yes,lpc+,None,None,,,0.163663025,120
+ABIDE_II,UCLA,29751,Yes,Yes,lpc+,None,None,,,0.27947563,120
+ABIDE_II,UCLA,29752,Yes,Yes,lpc+,None,None,,,0.658592437,120
+ABIDE_II,UCLA,29753,Yes,Yes,lpc+,None,None,,,0.117622689,120
+ABIDE_II,UCLA,29754,Yes,Yes,lpc+,None,None,,,0.103805882,120
+ABIDE_II,UCLA,29755,Yes,Yes,lpc+,None,None,,,0.371982353,120
+ABIDE_II,UCLA,29756,Yes,Yes,lpc+,None,None,,,0.089492437,120
+ABIDE_II,UCLA,29757,Yes,Yes,lpc+,None,None,,,0.11547479,120
+ABIDE_II,UCLA,29758,Yes,Yes,lpc+,None,None,,,0.59237395,120
+ABIDE_II,UCLA,29759,Yes,Yes,lpc+,None,None,,,0.333284034,120
+ABIDE_II,USM,29495,Yes,Yes,lpc+,None,None,,,0.254136402,240
+ABIDE_II,USM,29496,Yes,Yes,lpc+,None,None,,,0.207679498,240
+ABIDE_II,USM,29497,Yes,Yes,lpc+,None,None,,,0.095589958,240
+ABIDE_II,USM,29498,Yes,Yes,lpc+,None,None,,,0.580177406,240
+ABIDE_II,USM,29499,Yes,Yes,lpc+,None,None,,,0.163017155,240
+ABIDE_II,USM,29500,Yes,Yes,lpc+,None,None,,,0.114024268,240
+ABIDE_II,USM,29501,Yes,Yes,lpc+,None,None,,,0.11622636,240
+ABIDE_II,USM,29502,Yes,Yes,lpc+,None,None,,,0.378791213,240
+ABIDE_II,USM,29503,Yes,Yes,lpc+,None,None,,,1.26927364,240
+ABIDE_II,USM,29504,Yes,Yes,lpc+,None,None,,,0.15827113,240
+ABIDE_II,USM,29505,Yes,Yes,lpc+,None,None,,,0.227882427,240
+ABIDE_II,USM,29506,Yes,Yes,lpc+,None,None,,,0.848093305,240
+ABIDE_II,USM,29507,Yes,Yes,lpc+,None,None,,,0.206971548,240
+ABIDE_II,USM,29508,Yes,Yes,lpc+,None,None,,,0.566658159,240
+ABIDE_II,USM,29509,Yes,Yes,lpc+,None,None,,,0.201069038,240
+ABIDE_II,USM,29510,Yes,Yes,lpc+,None,None,,,0.579819665,240
+ABIDE_II,USM,29511,Yes,Yes,lpc+,None,None,,,0.36046318,240
+ABIDE_II,USM,29512,Yes,Yes,lpc+,None,None,,,0.302822176,240
+ABIDE_II,USM,29513,Yes,Yes,lpc+,None,None,,,0.12806067,240
+ABIDE_II,USM,29514,Yes,Yes,lpc+,None,None,,,2.538364017,240
+ABIDE_II,USM,29515,Yes,Yes,lpc+,None,None,,,0.392506695,240
+ABIDE_II,USM,29516,Yes,Yes,lpc+,None,None,,,0.133569456,240
+ABIDE_II,USM,29517,Yes,Yes,lpc+,None,None,,,0.122290795,240
+ABIDE_II,USM,29518,Yes,Yes,lpc+,None,None,,,0.117680753,240
+ABIDE_II,USM,29519,Yes,Yes,lpc+,None,None,,,0.301387866,240
+ABIDE_II,USM,29520,Yes,Yes,lpc+,None,None,,,0.068225105,240
+ABIDE_II,USM,29521,Yes,Yes,lpc+,None,None,,,0.184638912,240
+ABIDE_II,USM,29522,Yes,Yes,lpc+,None,None,,,0.065422176,240
+ABIDE_II,USM,29523,Yes,Yes,lpc+,None,None,,,0.072290377,240
+ABIDE_II,USM,29524,Yes,Yes,lpc+,None,None,,,0.422226778,240
+ABIDE_II,USM,29525,Yes,Yes,lpc+,None,None,,,0.270895816,240
+ABIDE_II,USM,29526,Yes,Yes,lpc+,None,None,,,0.104425941,240
+ABIDE_II,USM,29527,Yes,Yes,lpc+,None,None,,,0.294944352,240
