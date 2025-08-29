@@ -17,8 +17,8 @@ This project investigates the hypothesis that autistic individuals show altered 
 # What is needed to run the code? 
 
     -   On your local machine, in a location of your choice, create a folder called "data".
-    -   Inside the "data"-folder create a subfolder called "mri". Download the .mat files from GitHub and store the downloaded files inside the "mri"-folder
-    -   Inside the "data"-folder create another subfolder called "pheno". Download the phenotypical data (pheno.csv) and the motion related data (motion.csv) from GitHub and store them inside the "pheno" folder
+    -   Inside the "data"-folder create a subfolder called "mri". Download the .mat files from the data/mri folder and store the downloaded files inside the "mri"-folder
+    -   Inside the "data"-folder create another subfolder called "pheno". From the data/phenom, download the phenotypical data (pheno.csv) and the motion related data (motion.csv) and store them inside the "pheno" folder
     -   Change the "root" variable in the Python script to the folder where the "data"-folder is stored 
 
 # Literature 
